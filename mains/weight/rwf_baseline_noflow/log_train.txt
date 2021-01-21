@@ -1,0 +1,2760 @@
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 0, 1, 1, 0, 1, 1])
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 0, 0, 1, 1, 1, 1])
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 0, 1, 1, 0, 1, 1])
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 1, 0, 0, 1, 0, 1])
+torch.Size([8, 16, 224, 112, 32])
+torch.Size([8, 16, 224, 56, 16])
+torch.Size([8, 32, 224, 28, 8])
+torch.Size([8, 32, 224, 14, 4])
+torch.Size([8, 32, 28, 14, 4])
+torch.Size([8, 64, 14, 7, 2])
+torch.Size([8, 64, 7, 3, 1])
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 0, 0, 1, 0, 1, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 1, 1, 0, 0, 0, 0])
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 0, 0, 1, 0, 1, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 0, 0, 1, 1, 1, 0])
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 0, 1, 1, 1, 1, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 0, 1, 1, 1, 0, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 1, 0, 0, 0, 1, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 1, 1, 0, 1, 1, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 0, 0, 0, 1, 0, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 1, 1, 1, 0, 1, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 1, 0, 0, 0, 0, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 1, 0, 0, 0, 0, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 0, 1, 0, 1, 0, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 0, 0, 0, 0, 0, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 1, 0, 1, 0, 0, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 0, 0, 0, 0, 0, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 1, 0, 1, 0, 1, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 0, 0, 0, 0, 0, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 1, 0, 0, 0, 0, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 1, 1, 0, 1, 1, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 1, 1, 0, 1, 0, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 0, 0, 0, 1, 0, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 0, 1, 1, 0, 0, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 1, 0, 0, 1, 1, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 0, 0, 0, 0, 1, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 1, 1, 1, 0, 0, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 1, 1, 1, 0, 0, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 1, 0, 1, 1, 1, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 0, 0, 1, 0, 1, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 0, 1, 0, 1, 0, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 0, 1, 0, 1, 1, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 1, 0, 0, 0, 1, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 1, 0, 0, 0, 0, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 0, 1, 1, 0, 1, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 1, 0, 0, 1, 0, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 1, 0, 1, 0, 1, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 0, 0, 1, 1, 1, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 0, 0, 1, 0, 0, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 0, 1, 1, 0, 1, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 0, 0, 1, 1, 0, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 0, 1, 0, 1, 0, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 0, 0, 0, 1, 0, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 0, 1, 0, 0, 1, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 0, 0, 0, 0, 0, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 1, 0, 1, 0, 0, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 1, 0, 1, 1, 0, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 1, 1, 0, 0, 0, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 0, 1, 1, 1, 0, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 1, 0, 1, 1, 0, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 0, 0, 0, 0, 0, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 1, 0, 1, 0, 1, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 0, 1, 1, 0, 1, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 1, 1, 0, 0, 0, 0])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 1, 0, 1, 0, 1, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 1, 1, 0, 1, 0, 1])
+torch.Size([8, 16, 64, 112, 112])
+torch.Size([8, 16, 64, 56, 56])
+torch.Size([8, 32, 64, 28, 28])
+torch.Size([8, 32, 64, 14, 14])
+torch.Size([8, 32, 8, 14, 14])
+torch.Size([8, 64, 4, 7, 7])
+torch.Size([8, 64, 2, 3, 3])
+torch.Size([8, 128, 1, 1, 1])
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 0, 1, 1, 0, 0, 0])
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 1, 0, 0, 1, 1, 1])
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 1, 1, 1, 1, 0, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 1, 0, 0, 0, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 0, 0, 0, 0, 1, 0])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 1, 0, 0, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 1, 1, 0, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 1, 0, 1, 0, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 0, 0, 0, 1, 1, 0])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 1, 0, 0, 0, 0, 0])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 1, 0, 0, 1, 1, 0])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 1, 0, 1, 1, 0, 0])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 1, 1, 0, 1, 1, 0])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 0, 1, 0, 1, 0, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 1, 1, 1, 1, 0, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 0, 1, 1, 0, 1, 0])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 1, 1, 0, 0, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 0, 1, 1, 0, 0, 0])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 0, 1, 1, 1, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 1, 0, 1, 0, 0, 0])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 1, 0, 1, 0, 0, 0])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 1, 0, 0, 0, 0, 0])
+[1/30] iter: 20/200. lr: 0.01 . Loss: 0.691706, Acc: 0.531250 time:42.0 s
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 0, 0, 0, 0, 1, 0])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 1, 0, 1, 0, 0, 0])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 0, 1, 0, 0, 0, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 1, 1, 1, 1, 1, 0])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 0, 1, 1, 0, 0, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 0, 1, 0, 0, 0, 0, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 1, 1, 0, 0, 0, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 0, 0, 1, 1, 1, 0])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 0, 1, 1, 1, 0, 0])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 0, 1, 0, 1, 1, 0])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 1, 0, 1, 0, 1, 1])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 1, 1, 1, 1, 1, 0, 0])
+torch.Size([8, 64, 224, 224, 5]) tensor([1, 0, 1, 0, 0, 0, 0, 0])
+torch.Size([8, 64, 224, 224, 5]) tensor([0, 1, 0, 0, 1, 0, 0, 0])
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+Train: [1/30] iter: 20/200. lr: 0.01 . Loss: 0.699924, Acc: 0.481250 time:43.2 s
+Train: [1/30] iter: 40/200. lr: 0.01 . Loss: 0.696237, Acc: 0.500000 time:79.5 s
+Train: [1/30] iter: 60/200. lr: 0.01 . Loss: 0.696154, Acc: 0.489583 time:116.0 s
+Train: [1/30] iter: 80/200. lr: 0.01 . Loss: 0.695693, Acc: 0.478125 time:152.3 s
+Train: [1/30] iter: 100/200. lr: 0.01 . Loss: 0.695336, Acc: 0.463750 time:188.9 s
+Train: [1/30] iter: 120/200. lr: 0.01 . Loss: 0.695065, Acc: 0.465625 time:225.5 s
+Train: [1/30] iter: 140/200. lr: 0.01 . Loss: 0.694811, Acc: 0.469643 time:262.1 s
+Train: [1/30] iter: 160/200. lr: 0.01 . Loss: 0.694579, Acc: 0.477344 time:298.5 s
+Train: [1/30] iter: 180/200. lr: 0.01 . Loss: 0.694622, Acc: 0.477083 time:335.0 s
+Train: [1/30] iter: 200/200. lr: 0.01 . Loss: 0.694505, Acc: 0.478750 time:371.6 s
+Train: Finish 1 epoch, Loss: 0.694505, Acc: 0.478750
+Time:371.7 s
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+Train: [1/30] iter: 20/200. lr: 0.01 . Loss: 0.695324, Acc: 0.487500 time:47.6 s
+Train: [1/30] iter: 40/200. lr: 0.01 . Loss: 0.694727, Acc: 0.490625 time:35.0 s
+Train: [1/30] iter: 60/200. lr: 0.01 . Loss: 0.694164, Acc: 0.504167 time:34.6 s
+Train: [1/30] iter: 80/200. lr: 0.01 . Loss: 0.694056, Acc: 0.503125 time:34.7 s
+Train: [1/30] iter: 100/200. lr: 0.01 . Loss: 0.693773, Acc: 0.508750 time:34.9 s
+Train: [1/30] iter: 120/200. lr: 0.01 . Loss: 0.693829, Acc: 0.504167 time:34.9 s
+Train: [1/30] iter: 140/200. lr: 0.01 . Loss: 0.694152, Acc: 0.500000 time:34.9 s
+Train: [1/30] iter: 160/200. lr: 0.01 . Loss: 0.694192, Acc: 0.498437 time:35.4 s
+Train: [1/30] iter: 180/200. lr: 0.01 . Loss: 0.694137, Acc: 0.497222 time:35.4 s
+Train: [1/30] iter: 200/200. lr: 0.01 . Loss: 0.694007, Acc: 0.498125 time:34.9 s
+Train: Finish 1 epoch, Loss: 0.694007, Acc: 0.498125
+Time:362.4 s
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+Train: [1/30] iter: 20/200. lr: 0.01 . Loss: 0.700311, Acc: 0.468750 time:47.4 s
+Train: [1/30] iter: 40/200. lr: 0.01 . Loss: 0.698700, Acc: 0.456250 time:35.1 s
+Train: [1/30] iter: 60/200. lr: 0.01 . Loss: 0.697342, Acc: 0.458333 time:35.2 s
+Train: [1/30] iter: 80/200. lr: 0.01 . Loss: 0.696581, Acc: 0.459375 time:35.3 s
+Train: [1/30] iter: 100/200. lr: 0.01 . Loss: 0.696062, Acc: 0.465000 time:35.4 s
+Train: [1/30] iter: 120/200. lr: 0.01 . Loss: 0.695601, Acc: 0.467708 time:35.0 s
+Train: [1/30] iter: 140/200. lr: 0.01 . Loss: 0.695352, Acc: 0.473214 time:34.6 s
+Train: [1/30] iter: 160/200. lr: 0.01 . Loss: 0.695356, Acc: 0.472656 time:34.9 s
+Train: [1/30] iter: 180/200. lr: 0.01 . Loss: 0.694777, Acc: 0.481250 time:34.9 s
+Train: [1/30] iter: 200/200. lr: 0.01 . Loss: 0.694927, Acc: 0.482500 time:34.9 s
+Train: Finish 1 epoch, Loss: 0.694927, Acc: 0.482500
+Time:362.8 s
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+Train: [1/30] iter: 20/200. lr: 0.01 . Loss: 0.692399, Acc: 0.550000 time:45.5 s
+Train: [1/30] iter: 40/200. lr: 0.01 . Loss: 0.690488, Acc: 0.562500 time:34.3 s
+Train: [1/30] iter: 60/200. lr: 0.01 . Loss: 0.694501, Acc: 0.522917 time:34.5 s
+Train: [1/30] iter: 80/200. lr: 0.01 . Loss: 0.694399, Acc: 0.512500 time:34.6 s
+Train: [1/30] iter: 100/200. lr: 0.01 . Loss: 0.694312, Acc: 0.507500 time:34.5 s
+Train: [1/30] iter: 120/200. lr: 0.01 . Loss: 0.694242, Acc: 0.504167 time:34.4 s
+Train: [1/30] iter: 140/200. lr: 0.01 . Loss: 0.694179, Acc: 0.492857 time:34.6 s
+Train: [1/30] iter: 160/200. lr: 0.01 . Loss: 0.694100, Acc: 0.488281 time:34.7 s
+Train: [1/30] iter: 180/200. lr: 0.01 . Loss: 0.693968, Acc: 0.493056 time:34.4 s
+Train: [1/30] iter: 200/200. lr: 0.01 . Loss: 0.694020, Acc: 0.493125 time:34.6 s
+Train: Finish 1 epoch, Loss: 0.694020, Acc: 0.493125
+Time:356.3 s
+Test: Finish 1 epoch, Acc: 0.500000
+----------
+epoch 2
+Train: [2/30] iter: 20/200. lr: 0.01 . Loss: 0.692463, Acc: 0.543750 time:40.6 s
+Train: [2/30] iter: 40/200. lr: 0.01 . Loss: 0.694952, Acc: 0.490625 time:34.3 s
+Train: [2/30] iter: 60/200. lr: 0.01 . Loss: 0.693553, Acc: 0.525000 time:34.6 s
+Train: [2/30] iter: 80/200. lr: 0.01 . Loss: 0.692837, Acc: 0.528125 time:34.7 s
+Train: [2/30] iter: 100/200. lr: 0.01 . Loss: 0.692814, Acc: 0.527500 time:34.6 s
+Train: [2/30] iter: 120/200. lr: 0.01 . Loss: 0.693735, Acc: 0.516667 time:34.5 s
+Train: [2/30] iter: 140/200. lr: 0.01 . Loss: 0.693903, Acc: 0.509821 time:34.7 s
+Train: [2/30] iter: 160/200. lr: 0.01 . Loss: 0.693685, Acc: 0.513281 time:34.5 s
+Train: [2/30] iter: 180/200. lr: 0.01 . Loss: 0.693613, Acc: 0.513889 time:34.4 s
+Train: [2/30] iter: 200/200. lr: 0.01 . Loss: 0.693776, Acc: 0.511875 time:34.6 s
+Train: Finish 2 epoch, Loss: 0.693776, Acc: 0.511875
+Time:351.6 s
+Test: Finish 2 epoch, Acc: 0.500000
+----------
+epoch 3
+Train: [3/30] iter: 20/200. lr: 0.01 . Loss: 0.693906, Acc: 0.493750 time:41.1 s
+Train: [3/30] iter: 40/200. lr: 0.01 . Loss: 0.692977, Acc: 0.515625 time:34.3 s
+Train: [3/30] iter: 60/200. lr: 0.01 . Loss: 0.695942, Acc: 0.487500 time:34.7 s
+Train: [3/30] iter: 80/200. lr: 0.01 . Loss: 0.695356, Acc: 0.485938 time:35.2 s
+Train: [3/30] iter: 100/200. lr: 0.01 . Loss: 0.695077, Acc: 0.485000 time:35.2 s
+Train: [3/30] iter: 120/200. lr: 0.01 . Loss: 0.694721, Acc: 0.489583 time:35.4 s
+Train: [3/30] iter: 140/200. lr: 0.01 . Loss: 0.694628, Acc: 0.491071 time:35.2 s
+Train: [3/30] iter: 160/200. lr: 0.01 . Loss: 0.694642, Acc: 0.485938 time:34.8 s
+Train: [3/30] iter: 180/200. lr: 0.01 . Loss: 0.694491, Acc: 0.486111 time:34.6 s
+Train: [3/30] iter: 200/200. lr: 0.01 . Loss: 0.694389, Acc: 0.485000 time:34.8 s
+Train: Finish 3 epoch, Loss: 0.694389, Acc: 0.485000
+Time:355.6 s
+Test: Finish 3 epoch, Acc: 0.500000
+----------
+epoch 4
+Train: [4/30] iter: 20/200. lr: 0.01 . Loss: 0.694460, Acc: 0.475000 time:40.8 s
+Train: [4/30] iter: 40/200. lr: 0.01 . Loss: 0.693426, Acc: 0.490625 time:35.3 s
+Train: [4/30] iter: 60/200. lr: 0.01 . Loss: 0.692570, Acc: 0.508333 time:35.5 s
+Train: [4/30] iter: 80/200. lr: 0.01 . Loss: 0.693643, Acc: 0.498437 time:35.2 s
+Train: [4/30] iter: 100/200. lr: 0.01 . Loss: 0.693490, Acc: 0.505000 time:34.6 s
+Train: [4/30] iter: 120/200. lr: 0.01 . Loss: 0.693105, Acc: 0.511458 time:34.8 s
+Train: [4/30] iter: 140/200. lr: 0.01 . Loss: 0.693182, Acc: 0.511607 time:34.9 s
+Train: [4/30] iter: 160/200. lr: 0.01 . Loss: 0.693825, Acc: 0.500781 time:35.0 s
+Train: [4/30] iter: 180/200. lr: 0.01 . Loss: 0.693847, Acc: 0.497222 time:35.1 s
+Train: [4/30] iter: 200/200. lr: 0.01 . Loss: 0.693585, Acc: 0.503125 time:35.4 s
+Train: Finish 4 epoch, Loss: 0.693585, Acc: 0.503125
+Time:356.7 s
+Test: Finish 4 epoch, Acc: 0.500000
+----------
+epoch 5
+Train: [5/30] iter: 20/200. lr: 0.01 . Loss: 0.696008, Acc: 0.487500 time:41.7 s
+Train: [5/30] iter: 40/200. lr: 0.01 . Loss: 0.693565, Acc: 0.512500 time:34.6 s
+Train: [5/30] iter: 60/200. lr: 0.01 . Loss: 0.694067, Acc: 0.504167 time:34.9 s
+Train: [5/30] iter: 80/200. lr: 0.01 . Loss: 0.694222, Acc: 0.487500 time:35.0 s
+Train: [5/30] iter: 100/200. lr: 0.01 . Loss: 0.694221, Acc: 0.483750 time:35.2 s
+Train: [5/30] iter: 120/200. lr: 0.01 . Loss: 0.693866, Acc: 0.489583 time:35.3 s
+Train: [5/30] iter: 140/200. lr: 0.01 . Loss: 0.694541, Acc: 0.482143 time:35.5 s
+Train: [5/30] iter: 160/200. lr: 0.01 . Loss: 0.694410, Acc: 0.481250 time:35.4 s
+Train: [5/30] iter: 180/200. lr: 0.01 . Loss: 0.694396, Acc: 0.480556 time:34.7 s
+Train: [5/30] iter: 200/200. lr: 0.01 . Loss: 0.694332, Acc: 0.478125 time:34.6 s
+Train: Finish 5 epoch, Loss: 0.694332, Acc: 0.478125
+Time:356.9 s
+Test: Finish 5 epoch, Acc: 0.500000
+----------
+epoch 6
+Train: [6/30] iter: 20/200. lr: 0.01 . Loss: 0.692728, Acc: 0.537500 time:40.0 s
+Train: [6/30] iter: 40/200. lr: 0.01 . Loss: 0.693664, Acc: 0.490625 time:34.8 s
+Train: [6/30] iter: 60/200. lr: 0.01 . Loss: 0.693798, Acc: 0.462500 time:34.8 s
+Train: [6/30] iter: 80/200. lr: 0.01 . Loss: 0.693832, Acc: 0.462500 time:34.6 s
+Train: [6/30] iter: 100/200. lr: 0.01 . Loss: 0.693682, Acc: 0.473750 time:34.7 s
+Train: [6/30] iter: 120/200. lr: 0.01 . Loss: 0.693963, Acc: 0.468750 time:34.8 s
+Train: [6/30] iter: 140/200. lr: 0.01 . Loss: 0.694465, Acc: 0.466071 time:34.8 s
+Train: [6/30] iter: 160/200. lr: 0.01 . Loss: 0.694376, Acc: 0.466406 time:34.5 s
+Train: [6/30] iter: 180/200. lr: 0.01 . Loss: 0.694431, Acc: 0.468056 time:34.8 s
+Train: [6/30] iter: 200/200. lr: 0.01 . Loss: 0.694378, Acc: 0.471250 time:34.8 s
+Train: Finish 6 epoch, Loss: 0.694378, Acc: 0.471250
+Time:352.8 s
+Test: Finish 6 epoch, Acc: 0.500000
+----------
+epoch 7
+Train: [7/30] iter: 20/200. lr: 0.01 . Loss: 0.694256, Acc: 0.468750 time:40.4 s
+Train: [7/30] iter: 40/200. lr: 0.01 . Loss: 0.694133, Acc: 0.493750 time:34.8 s
+Train: [7/30] iter: 60/200. lr: 0.01 . Loss: 0.693636, Acc: 0.502083 time:34.7 s
+Train: [7/30] iter: 80/200. lr: 0.01 . Loss: 0.694062, Acc: 0.495312 time:34.6 s
+Train: [7/30] iter: 100/200. lr: 0.01 . Loss: 0.693837, Acc: 0.495000 time:34.8 s
+Train: [7/30] iter: 120/200. lr: 0.01 . Loss: 0.694084, Acc: 0.491667 time:34.8 s
+Train: [7/30] iter: 140/200. lr: 0.01 . Loss: 0.694174, Acc: 0.486607 time:34.5 s
+Train: [7/30] iter: 160/200. lr: 0.01 . Loss: 0.694392, Acc: 0.483594 time:34.7 s
+Train: [7/30] iter: 180/200. lr: 0.01 . Loss: 0.694314, Acc: 0.483333 time:34.8 s
+Train: [7/30] iter: 200/200. lr: 0.01 . Loss: 0.694224, Acc: 0.486250 time:34.8 s
+Train: Finish 7 epoch, Loss: 0.694224, Acc: 0.486250
+Time:353.0 s
+Test: Finish 7 epoch, Acc: 0.500000
+----------
+epoch 8
+Train: [8/30] iter: 20/200. lr: 0.01 . Loss: 0.691731, Acc: 0.575000 time:42.1 s
+Train: [8/30] iter: 40/200. lr: 0.01 . Loss: 0.691262, Acc: 0.556250 time:34.8 s
+Train: [8/30] iter: 60/200. lr: 0.01 . Loss: 0.693852, Acc: 0.516667 time:34.5 s
+Train: [8/30] iter: 80/200. lr: 0.01 . Loss: 0.693634, Acc: 0.517188 time:34.8 s
+Train: [8/30] iter: 100/200. lr: 0.01 . Loss: 0.693447, Acc: 0.513750 time:34.9 s
+Train: [8/30] iter: 120/200. lr: 0.01 . Loss: 0.692933, Acc: 0.519792 time:34.8 s
+Train: [8/30] iter: 140/200. lr: 0.01 . Loss: 0.693326, Acc: 0.516964 time:34.4 s
+Train: [8/30] iter: 160/200. lr: 0.01 . Loss: 0.693852, Acc: 0.508594 time:34.8 s
+Train: [8/30] iter: 180/200. lr: 0.01 . Loss: 0.693743, Acc: 0.511111 time:34.8 s
+Train: [8/30] iter: 200/200. lr: 0.01 . Loss: 0.693758, Acc: 0.504375 time:34.8 s
+Train: Finish 8 epoch, Loss: 0.693758, Acc: 0.504375
+Time:354.9 s
+Test: Finish 8 epoch, Acc: 0.500000
+----------
+epoch 9
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+Train: [1/30] iter: 20/200. lr: 0.01 . Loss: 0.697003, Acc: 0.481250 time:47.0 s
+Train: [1/30] iter: 40/200. lr: 0.01 . Loss: 0.698411, Acc: 0.484375 time:34.8 s
+Train: [1/30] iter: 60/200. lr: 0.01 . Loss: 0.697621, Acc: 0.493750 time:34.7 s
+Train: [1/30] iter: 80/200. lr: 0.01 . Loss: 0.698103, Acc: 0.496875 time:34.5 s
+Train: [1/30] iter: 100/200. lr: 0.01 . Loss: 0.698130, Acc: 0.485000 time:34.8 s
+Train: [1/30] iter: 120/200. lr: 0.01 . Loss: 0.697492, Acc: 0.493750 time:34.8 s
+Train: [1/30] iter: 140/200. lr: 0.01 . Loss: 0.697197, Acc: 0.494643 time:34.6 s
+Train: [1/30] iter: 160/200. lr: 0.01 . Loss: 0.697157, Acc: 0.492188 time:34.6 s
+Train: [1/30] iter: 180/200. lr: 0.01 . Loss: 0.696294, Acc: 0.500000 time:34.8 s
+Train: [1/30] iter: 200/200. lr: 0.01 . Loss: 0.696261, Acc: 0.500625 time:34.8 s
+Train: Finish 1 epoch, Loss: 0.696261, Acc: 0.500625
+Time:359.6 s
+Test: Finish 1 epoch, Acc: 0.500000
+----------
+epoch 2
+Train: [2/30] iter: 20/200. lr: 0.01 . Loss: 0.693438, Acc: 0.468750 time:41.2 s
+Train: [2/30] iter: 40/200. lr: 0.01 . Loss: 0.695507, Acc: 0.468750 time:34.8 s
+Train: [2/30] iter: 60/200. lr: 0.01 . Loss: 0.697121, Acc: 0.452083 time:34.7 s
+Train: [2/30] iter: 80/200. lr: 0.01 . Loss: 0.695700, Acc: 0.478125 time:34.6 s
+Train: [2/30] iter: 100/200. lr: 0.01 . Loss: 0.696543, Acc: 0.473750 time:34.8 s
+Train: [2/30] iter: 120/200. lr: 0.01 . Loss: 0.696351, Acc: 0.478125 time:34.8 s
+Train: [2/30] iter: 140/200. lr: 0.01 . Loss: 0.695667, Acc: 0.487500 time:34.6 s
+Train: [2/30] iter: 160/200. lr: 0.01 . Loss: 0.695534, Acc: 0.491406 time:34.6 s
+Train: [2/30] iter: 180/200. lr: 0.01 . Loss: 0.696118, Acc: 0.487500 time:34.8 s
+Train: [2/30] iter: 200/200. lr: 0.01 . Loss: 0.696055, Acc: 0.488750 time:34.7 s
+Train: Finish 2 epoch, Loss: 0.696055, Acc: 0.488750
+Time:353.8 s
+Test: Finish 2 epoch, Acc: 0.500000
+----------
+epoch 3
+Train: [3/30] iter: 20/200. lr: 0.01 . Loss: 0.697751, Acc: 0.481250 time:41.5 s
+Train: [3/30] iter: 40/200. lr: 0.01 . Loss: 0.689495, Acc: 0.537500 time:34.8 s
+Train: [3/30] iter: 60/200. lr: 0.01 . Loss: 0.696846, Acc: 0.512500 time:34.5 s
+Train: [3/30] iter: 80/200. lr: 0.01 . Loss: 0.696515, Acc: 0.512500 time:34.8 s
+Train: [3/30] iter: 100/200. lr: 0.01 . Loss: 0.695662, Acc: 0.510000 time:34.8 s
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+Train: [1/30] iter: 20/200. lr: 0.01 . Loss: 0.696170, Acc: 0.412500 time:46.7 s
+Train: [1/30] iter: 40/200. lr: 0.01 . Loss: 0.695146, Acc: 0.446875 time:34.7 s
+Train: [1/30] iter: 60/200. lr: 0.01 . Loss: 0.695729, Acc: 0.454167 time:34.8 s
+Train: [1/30] iter: 80/200. lr: 0.01 . Loss: 0.696351, Acc: 0.453125 time:34.8 s
+Train: [1/30] iter: 100/200. lr: 0.01 . Loss: 0.695853, Acc: 0.463750 time:34.5 s
+Train: [1/30] iter: 120/200. lr: 0.01 . Loss: 0.696745, Acc: 0.453125 time:34.6 s
+Train: [1/30] iter: 140/200. lr: 0.01 . Loss: 0.696761, Acc: 0.455357 time:34.8 s
+Train: [1/30] iter: 160/200. lr: 0.01 . Loss: 0.696679, Acc: 0.464844 time:34.8 s
+Train: [1/30] iter: 180/200. lr: 0.01 . Loss: 0.696572, Acc: 0.470833 time:34.6 s
+Train: [1/30] iter: 200/200. lr: 0.01 . Loss: 0.696105, Acc: 0.476250 time:34.6 s
+Train: Finish 1 epoch, Loss: 0.696105, Acc: 0.476250
+Time:359.2 s
+Test: [1/30] iter: 200/200. Acc: 0.000000
+Test: [1/30] iter: 200/200. Acc: 0.000000
+Test: [1/30] iter: 200/200. Acc: 0.390244
+Test: Finish 1 epoch, Acc: 0.500000
+----------
+epoch 2
+Train: [2/30] iter: 20/200. lr: 0.01 . Loss: 0.693080, Acc: 0.537500 time:41.6 s
+Train: [2/30] iter: 40/200. lr: 0.01 . Loss: 0.693827, Acc: 0.531250 time:34.6 s
+Train: [2/30] iter: 60/200. lr: 0.01 . Loss: 0.693496, Acc: 0.529167 time:34.8 s
+Train: [2/30] iter: 80/200. lr: 0.01 . Loss: 0.693962, Acc: 0.512500 time:34.8 s
+Train: [2/30] iter: 100/200. lr: 0.01 . Loss: 0.693510, Acc: 0.517500 time:34.5 s
+Train: [2/30] iter: 120/200. lr: 0.01 . Loss: 0.693683, Acc: 0.518750 time:34.7 s
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+Train: [1/30] iter: 20/200. lr: 0.01 . Loss: 0.702402, Acc: 0.468750 time:46.5 s
+Train: [1/30] iter: 40/200. lr: 0.01 . Loss: 0.698325, Acc: 0.490625 time:34.6 s
+Train: [1/30] iter: 60/200. lr: 0.01 . Loss: 0.698815, Acc: 0.485417 time:34.6 s
+Train: [1/30] iter: 80/200. lr: 0.01 . Loss: 0.697127, Acc: 0.493750 time:34.8 s
+Train: [1/30] iter: 100/200. lr: 0.01 . Loss: 0.695290, Acc: 0.506250 time:34.8 s
+Train: [1/30] iter: 120/200. lr: 0.01 . Loss: 0.696086, Acc: 0.502083 time:34.6 s
+Train: [1/30] iter: 140/200. lr: 0.01 . Loss: 0.695782, Acc: 0.495536 time:34.6 s
+Train: [1/30] iter: 160/200. lr: 0.01 . Loss: 0.695710, Acc: 0.496875 time:34.8 s
+Train: [1/30] iter: 180/200. lr: 0.01 . Loss: 0.696387, Acc: 0.490972 time:34.8 s
+Train: [1/30] iter: 200/200. lr: 0.01 . Loss: 0.695983, Acc: 0.493125 time:34.6 s
+Train: Finish 1 epoch, Loss: 0.695983, Acc: 0.493125
+Time:358.9 s
+Test: [1/30] iter: 0/50. Acc: 1.000000
+Test: [1/30] iter: 20/50. Acc: 1.000000
+Test: [1/30] iter: 40/50. Acc: 0.609756
+Test: Finish 1 epoch, Acc: 0.500000
+----------
+epoch 2
+Train: [2/30] iter: 20/200. lr: 0.01 . Loss: 0.702472, Acc: 0.462500 time:40.7 s
+Train: [2/30] iter: 40/200. lr: 0.01 . Loss: 0.698996, Acc: 0.465625 time:34.5 s
+Train: [2/30] iter: 60/200. lr: 0.01 . Loss: 0.696901, Acc: 0.491667 time:34.8 s
+Train: [2/30] iter: 80/200. lr: 0.01 . Loss: 0.697099, Acc: 0.478125 time:34.8 s
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+Train: [1/30] iter: 20/200. lr: 0.01 . Loss: 0.698367, Acc: 0.500000 time:47.3 s
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 0, 1, 0, 0, 1, 0, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 1, 0, 1, 1, 1, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+Train: [1/30] iter: 40/200. lr: 0.01 . Loss: 0.698349, Acc: 0.471875 time:34.7 s
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 1, 1, 0, 0, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 0, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+Train: [1/30] iter: 60/200. lr: 0.01 . Loss: 0.698474, Acc: 0.458333 time:34.6 s
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 0, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+Train: [1/30] iter: 80/200. lr: 0.01 . Loss: 0.696303, Acc: 0.485938 time:34.8 s
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+Train: [1/30] iter: 100/200. lr: 0.01 . Loss: 0.696922, Acc: 0.488750 time:34.8 s
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 1, 1, 1, 0, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 1, 1, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+Train: [1/30] iter: 120/200. lr: 0.01 . Loss: 0.696507, Acc: 0.489583 time:34.7 s
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+Train: [1/30] iter: 140/200. lr: 0.01 . Loss: 0.696987, Acc: 0.490179 time:34.6 s
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+Train: [1/30] iter: 20/200. lr: 0.01 . Loss: nan, Acc: 0.512500 time:46.5 s
+Train: [1/30] iter: 40/200. lr: 0.01 . Loss: nan, Acc: 0.528125 time:34.7 s
+Train: [1/30] iter: 60/200. lr: 0.01 . Loss: nan, Acc: 0.512500 time:34.7 s
+Train: [1/30] iter: 80/200. lr: 0.01 . Loss: nan, Acc: 0.504687 time:34.6 s
+Train: [1/30] iter: 100/200. lr: 0.01 . Loss: nan, Acc: 0.483750 time:34.8 s
+Train: [1/30] iter: 120/200. lr: 0.01 . Loss: nan, Acc: 0.489583 time:34.8 s
+Train: [1/30] iter: 140/200. lr: 0.01 . Loss: nan, Acc: 0.500893 time:34.6 s
+Train: [1/30] iter: 160/200. lr: 0.01 . Loss: nan, Acc: 0.505469 time:34.6 s
+Train: [1/30] iter: 180/200. lr: 0.01 . Loss: nan, Acc: 0.503472 time:34.8 s
+Train: [1/30] iter: 200/200. lr: 0.01 . Loss: nan, Acc: 0.500625 time:34.7 s
+Train: Finish 1 epoch, Loss: nan, Acc: 0.500625
+Time:358.9 s
+Test: [1/30] iter: 0/50. Acc: 1.000000
+Test: [1/30] iter: 20/50. Acc: 1.000000
+Test: [1/30] iter: 40/50. Acc: 0.609756
+Test: Finish 1 epoch, Acc: 0.500000
+----------
+epoch 2
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+Train: [1/30] iter: 20/200. lr: 0.01 . Loss: 3.239498, Acc: 0.525000 time:47.2 s
+Train: [1/30] iter: 40/200. lr: 0.01 . Loss: 3.156894, Acc: 0.484375 time:34.8 s
+Train: [1/30] iter: 60/200. lr: 0.01 . Loss: 3.106443, Acc: 0.493750 time:34.6 s
+Train: [1/30] iter: 80/200. lr: 0.01 . Loss: 3.071842, Acc: 0.507812 time:34.5 s
+Train: [1/30] iter: 100/200. lr: 0.01 . Loss: 3.057331, Acc: 0.510000 time:34.8 s
+Train: [1/30] iter: 120/200. lr: 0.01 . Loss: 3.064325, Acc: 0.494792 time:34.8 s
+Train: [1/30] iter: 140/200. lr: 0.01 . Loss: 3.056820, Acc: 0.496429 time:34.5 s
+Train: [1/30] iter: 160/200. lr: 0.01 . Loss: 3.052753, Acc: 0.496094 time:34.7 s
+Train: [1/30] iter: 180/200. lr: 0.01 . Loss: 3.048202, Acc: 0.497222 time:34.8 s
+Train: [1/30] iter: 200/200. lr: 0.01 . Loss: 3.047061, Acc: 0.495625 time:34.8 s
+Train: Finish 1 epoch, Loss: 3.047061, Acc: 0.495625
+Time:359.5 s
+Test: [1/30] iter: 0/50. Acc: 0.000000
+Test: [1/30] iter: 20/50. Acc: 0.000000
+Test: [1/30] iter: 40/50. Acc: 0.390244
+Test: Finish 1 epoch, Acc: 0.500000
+----------
+epoch 2
+Train: [2/30] iter: 20/200. lr: 0.01 . Loss: 2.986790, Acc: 0.531250 time:41.8 s
+Train: [2/30] iter: 40/200. lr: 0.01 . Loss: 2.993040, Acc: 0.525000 time:34.8 s
+Train: [2/30] iter: 60/200. lr: 0.01 . Loss: 3.005540, Acc: 0.512500 time:34.8 s
+Train: [2/30] iter: 80/200. lr: 0.01 . Loss: 3.008665, Acc: 0.509375 time:34.6 s
+Train: [2/30] iter: 100/200. lr: 0.01 . Loss: 3.006790, Acc: 0.511250 time:34.7 s
+Train: [2/30] iter: 120/200. lr: 0.01 . Loss: 3.007623, Acc: 0.510417 time:34.8 s
+Train: [2/30] iter: 140/200. lr: 0.01 . Loss: 3.006433, Acc: 0.511607 time:34.8 s
+Train: [2/30] iter: 160/200. lr: 0.01 . Loss: 3.012571, Acc: 0.505469 time:34.5 s
+Train: [2/30] iter: 180/200. lr: 0.01 . Loss: 3.013179, Acc: 0.504861 time:34.7 s
+Train: [2/30] iter: 200/200. lr: 0.01 . Loss: 3.018040, Acc: 0.500000 time:34.8 s
+Train: Finish 2 epoch, Loss: 3.018040, Acc: 0.500000
+Time:354.5 s
+Test: [2/30] iter: 0/50. Acc: 0.000000
+Test: [2/30] iter: 20/50. Acc: 0.000000
+Test: [2/30] iter: 40/50. Acc: 0.390244
+Test: Finish 2 epoch, Acc: 0.500000
+----------
+epoch 3
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+Train: [1/30] iter: 20/200. lr: 0.01 . Loss: 3.244271, Acc: 0.487500 time:46.1 s
+Train: [1/30] iter: 40/200. lr: 0.01 . Loss: 3.109281, Acc: 0.515625 time:34.8 s
+Train: [1/30] iter: 60/200. lr: 0.01 . Loss: 3.087200, Acc: 0.502083 time:34.8 s
+Train: [1/30] iter: 80/200. lr: 0.01 . Loss: 3.048035, Acc: 0.523438 time:34.6 s
+Train: [1/30] iter: 100/200. lr: 0.01 . Loss: 3.053286, Acc: 0.507500 time:34.7 s
+Train: [1/30] iter: 120/200. lr: 0.01 . Loss: 3.050537, Acc: 0.503125 time:34.8 s
+Train: [1/30] iter: 140/200. lr: 0.01 . Loss: 3.049466, Acc: 0.499107 time:34.8 s
+Train: [1/30] iter: 160/200. lr: 0.01 . Loss: 3.050225, Acc: 0.494531 time:34.0 s
+Train: [1/30] iter: 180/200. lr: 0.01 . Loss: 3.049427, Acc: 0.492361 time:34.0 s
+Train: [1/30] iter: 200/200. lr: 0.01 . Loss: 3.044413, Acc: 0.495000 time:34.0 s
+Train: Finish 1 epoch, Loss: 3.044413, Acc: 0.495000
+Time:356.8 s
+Test: [1/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [1/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [1/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 1 epoch, Acc: 0.500000
+----------
+epoch 2
+Train: [2/30] iter: 20/200. lr: 0.01 . Loss: 3.068040, Acc: 0.450000 time:41.2 s
+Train: [2/30] iter: 40/200. lr: 0.01 . Loss: 3.043040, Acc: 0.475000 time:34.0 s
+Train: [2/30] iter: 60/200. lr: 0.01 . Loss: 3.032623, Acc: 0.485417 time:34.0 s
+Train: [2/30] iter: 80/200. lr: 0.01 . Loss: 3.041477, Acc: 0.476562 time:34.0 s
+Train: [2/30] iter: 100/200. lr: 0.01 . Loss: 3.038040, Acc: 0.480000 time:34.0 s
+Train: [2/30] iter: 120/200. lr: 0.01 . Loss: 3.026373, Acc: 0.491667 time:34.0 s
+Train: [2/30] iter: 140/200. lr: 0.01 . Loss: 3.015361, Acc: 0.502679 time:34.0 s
+Train: [2/30] iter: 160/200. lr: 0.01 . Loss: 3.012571, Acc: 0.505469 time:34.0 s
+Train: [2/30] iter: 180/200. lr: 0.01 . Loss: 3.014568, Acc: 0.503472 time:34.0 s
+Train: [2/30] iter: 200/200. lr: 0.01 . Loss: 3.018040, Acc: 0.500000 time:34.0 s
+Train: Finish 2 epoch, Loss: 3.018040, Acc: 0.500000
+Time:347.3 s
+Test: [2/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [2/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [2/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 2 epoch, Acc: 0.500000
+----------
+epoch 3
+Train: [3/30] iter: 20/200. lr: 0.01 . Loss: 3.086790, Acc: 0.431250 time:41.4 s
+Train: [3/30] iter: 40/200. lr: 0.01 . Loss: 3.024290, Acc: 0.493750 time:34.0 s
+Train: [3/30] iter: 60/200. lr: 0.01 . Loss: 3.034707, Acc: 0.483333 time:34.0 s
+Train: [3/30] iter: 80/200. lr: 0.01 . Loss: 3.036790, Acc: 0.481250 time:34.0 s
+Train: [3/30] iter: 100/200. lr: 0.01 . Loss: 3.016790, Acc: 0.501250 time:34.0 s
+Train: [3/30] iter: 120/200. lr: 0.01 . Loss: 3.019082, Acc: 0.498958 time:34.0 s
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+Train: [1/30] iter: 20/200. lr: 0.01 . Loss: 3.285176, Acc: 0.468750 time:46.5 s
+Train: [1/30] iter: 40/200. lr: 0.01 . Loss: 3.164108, Acc: 0.471875 time:34.0 s
+Train: [1/30] iter: 60/200. lr: 0.01 . Loss: 3.113335, Acc: 0.483333 time:34.0 s
+Train: [1/30] iter: 80/200. lr: 0.01 . Loss: 3.086386, Acc: 0.490625 time:34.0 s
+Train: [1/30] iter: 100/200. lr: 0.01 . Loss: 3.072717, Acc: 0.492500 time:34.0 s
+Train: [1/30] iter: 120/200. lr: 0.01 . Loss: 3.061521, Acc: 0.495833 time:34.0 s
+Train: [1/30] iter: 140/200. lr: 0.01 . Loss: 3.054416, Acc: 0.497321 time:34.0 s
+Train: [1/30] iter: 160/200. lr: 0.01 . Loss: 3.045182, Acc: 0.502344 time:34.0 s
+Train: [1/30] iter: 180/200. lr: 0.01 . Loss: 3.051888, Acc: 0.492361 time:34.0 s
+Train: [1/30] iter: 200/200. lr: 0.01 . Loss: 3.046629, Acc: 0.495000 time:33.9 s
+Train: Finish 1 epoch, Loss: 3.046629, Acc: 0.495000
+Time:352.5 s
+Test: [1/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [1/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [1/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 1 epoch, Acc: 0.500000
+----------
+epoch 2
+Train: [2/30] iter: 20/200. lr: 0.01 . Loss: 3.074290, Acc: 0.443750 time:41.1 s
+Train: [2/30] iter: 40/200. lr: 0.01 . Loss: 3.036790, Acc: 0.481250 time:34.0 s
+Train: [2/30] iter: 60/200. lr: 0.01 . Loss: 2.997207, Acc: 0.520833 time:34.0 s
+Train: [2/30] iter: 80/200. lr: 0.01 . Loss: 3.007102, Acc: 0.510938 time:34.0 s
+Train: [2/30] iter: 100/200. lr: 0.01 . Loss: 3.000540, Acc: 0.517500 time:34.0 s
+Train: [2/30] iter: 120/200. lr: 0.01 . Loss: 3.000332, Acc: 0.517708 time:34.0 s
+Train: [2/30] iter: 140/200. lr: 0.01 . Loss: 3.014469, Acc: 0.503571 time:34.0 s
+Train: [2/30] iter: 160/200. lr: 0.01 . Loss: 3.019602, Acc: 0.498437 time:34.0 s
+Train: [2/30] iter: 180/200. lr: 0.01 . Loss: 3.020818, Acc: 0.497222 time:34.0 s
+Train: [2/30] iter: 200/200. lr: 0.01 . Loss: 3.018040, Acc: 0.500000 time:34.0 s
+Train: Finish 2 epoch, Loss: 3.018040, Acc: 0.500000
+Time:347.3 s
+Test: [2/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [2/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [2/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 2 epoch, Acc: 0.500000
+----------
+epoch 3
+Train: [3/30] iter: 20/200. lr: 0.01 . Loss: 2.955540, Acc: 0.562500 time:40.4 s
+Train: [3/30] iter: 40/200. lr: 0.01 . Loss: 2.980540, Acc: 0.537500 time:34.0 s
+Train: [3/30] iter: 60/200. lr: 0.01 . Loss: 3.022207, Acc: 0.495833 time:34.1 s
+Train: [3/30] iter: 80/200. lr: 0.01 . Loss: 3.030540, Acc: 0.487500 time:34.0 s
+Train: [3/30] iter: 100/200. lr: 0.01 . Loss: 3.014290, Acc: 0.503750 time:34.0 s
+Train: [3/30] iter: 120/200. lr: 0.01 . Loss: 3.007623, Acc: 0.510417 time:34.0 s
+Train: [3/30] iter: 140/200. lr: 0.01 . Loss: 3.012683, Acc: 0.505357 time:34.0 s
+Train: [3/30] iter: 160/200. lr: 0.01 . Loss: 3.015696, Acc: 0.502344 time:34.0 s
+Train: [3/30] iter: 180/200. lr: 0.01 . Loss: 3.018040, Acc: 0.500000 time:34.0 s
+Train: [3/30] iter: 200/200. lr: 0.01 . Loss: 3.018040, Acc: 0.500000 time:34.3 s
+Train: Finish 3 epoch, Loss: 3.018040, Acc: 0.500000
+Time:347.1 s
+Test: [3/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [3/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [3/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 3 epoch, Acc: 0.500000
+----------
+epoch 4
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+Train: [1/30] iter: 20/200. lr: 0.01 . Loss: 0.763463, Acc: 0.550000 time:46.2 s
+Train: [1/30] iter: 40/200. lr: 0.01 . Loss: 0.835237, Acc: 0.478125 time:34.8 s
+Train: [1/30] iter: 60/200. lr: 0.01 . Loss: 0.829995, Acc: 0.483333 time:34.7 s
+Train: [1/30] iter: 80/200. lr: 0.01 . Loss: 0.813312, Acc: 0.500000 time:34.5 s
+Train: [1/30] iter: 100/200. lr: 0.01 . Loss: 0.822052, Acc: 0.491250 time:34.8 s
+Train: [1/30] iter: 120/200. lr: 0.01 . Loss: 0.820587, Acc: 0.492708 time:34.8 s
+Train: [1/30] iter: 140/200. lr: 0.01 . Loss: 0.822219, Acc: 0.491071 time:34.7 s
+Train: [1/30] iter: 160/200. lr: 0.01 . Loss: 0.811724, Acc: 0.501563 time:34.5 s
+Train: [1/30] iter: 180/200. lr: 0.01 . Loss: 0.816756, Acc: 0.496528 time:34.8 s
+Train: [1/30] iter: 200/200. lr: 0.01 . Loss: 0.813282, Acc: 0.500000 time:34.8 s
+Train: Finish 1 epoch, Loss: 0.813282, Acc: 0.500000
+Time:358.8 s
+Test: [1/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [1/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [1/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 1 epoch, Acc: 0.500000
+----------
+epoch 2
+Train: [2/30] iter: 20/200. lr: 0.01 . Loss: 0.782012, Acc: 0.531250 time:40.3 s
+Train: [2/30] iter: 40/200. lr: 0.01 . Loss: 0.778887, Acc: 0.534375 time:34.8 s
+Train: [2/30] iter: 60/200. lr: 0.01 . Loss: 0.794512, Acc: 0.518750 time:34.5 s
+Train: [2/30] iter: 80/200. lr: 0.01 . Loss: 0.817949, Acc: 0.495312 time:34.8 s
+Train: [2/30] iter: 100/200. lr: 0.01 . Loss: 0.814512, Acc: 0.498750 time:34.8 s
+Train: [2/30] iter: 120/200. lr: 0.01 . Loss: 0.808053, Acc: 0.505208 time:34.7 s
+Train: [2/30] iter: 140/200. lr: 0.01 . Loss: 0.807012, Acc: 0.506250 time:34.5 s
+Train: [2/30] iter: 160/200. lr: 0.01 . Loss: 0.810918, Acc: 0.502344 time:34.8 s
+Train: [2/30] iter: 180/200. lr: 0.01 . Loss: 0.815345, Acc: 0.497917 time:34.8 s
+Train: [2/30] iter: 200/200. lr: 0.01 . Loss: 0.813262, Acc: 0.500000 time:34.7 s
+Train: Finish 2 epoch, Loss: 0.813262, Acc: 0.500000
+Time:352.9 s
+Test: [2/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [2/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [2/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 2 epoch, Acc: 0.500000
+----------
+epoch 3
+Train: [3/30] iter: 20/200. lr: 0.01 . Loss: 0.788262, Acc: 0.525000 time:41.1 s
+Train: [3/30] iter: 40/200. lr: 0.01 . Loss: 0.807012, Acc: 0.506250 time:34.6 s
+Train: [3/30] iter: 60/200. lr: 0.01 . Loss: 0.838262, Acc: 0.475000 time:34.7 s
+Train: [3/30] iter: 80/200. lr: 0.01 . Loss: 0.821074, Acc: 0.492188 time:34.8 s
+Train: [3/30] iter: 100/200. lr: 0.01 . Loss: 0.830762, Acc: 0.482500 time:34.8 s
+Train: [3/30] iter: 120/200. lr: 0.01 . Loss: 0.820553, Acc: 0.492708 time:34.6 s
+Train: [3/30] iter: 140/200. lr: 0.01 . Loss: 0.826654, Acc: 0.486607 time:34.7 s
+Train: [3/30] iter: 160/200. lr: 0.01 . Loss: 0.816387, Acc: 0.496875 time:34.9 s
+Train: [3/30] iter: 180/200. lr: 0.01 . Loss: 0.813956, Acc: 0.499306 time:34.8 s
+Train: [3/30] iter: 200/200. lr: 0.01 . Loss: 0.813262, Acc: 0.500000 time:34.5 s
+Train: Finish 3 epoch, Loss: 0.813262, Acc: 0.500000
+Time:353.6 s
+Test: [3/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [3/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [3/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 3 epoch, Acc: 0.500000
+----------
+epoch 4
+Train: [4/30] iter: 20/200. lr: 0.01 . Loss: 0.838262, Acc: 0.475000 time:41.9 s
+Train: [4/30] iter: 40/200. lr: 0.01 . Loss: 0.832012, Acc: 0.481250 time:34.5 s
+Train: [4/30] iter: 60/200. lr: 0.01 . Loss: 0.815345, Acc: 0.497917 time:34.7 s
+Train: [4/30] iter: 80/200. lr: 0.01 . Loss: 0.817949, Acc: 0.495312 time:34.8 s
+Train: [4/30] iter: 100/200. lr: 0.01 . Loss: 0.813262, Acc: 0.500000 time:34.8 s
+Train: [4/30] iter: 120/200. lr: 0.01 . Loss: 0.810137, Acc: 0.503125 time:34.4 s
+Train: [4/30] iter: 140/200. lr: 0.01 . Loss: 0.807904, Acc: 0.505357 time:34.8 s
+Train: [4/30] iter: 160/200. lr: 0.01 . Loss: 0.812480, Acc: 0.500781 time:34.8 s
+Train: [4/30] iter: 180/200. lr: 0.01 . Loss: 0.811873, Acc: 0.501389 time:34.7 s
+Train: [4/30] iter: 200/200. lr: 0.01 . Loss: 0.813262, Acc: 0.500000 time:34.5 s
+Train: Finish 4 epoch, Loss: 0.813262, Acc: 0.500000
+Time:354.1 s
+Test: [4/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [4/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [4/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 4 epoch, Acc: 0.500000
+----------
+epoch 5
+Train: [5/30] iter: 20/200. lr: 0.01 . Loss: 0.782012, Acc: 0.531250 time:41.6 s
+Train: [5/30] iter: 40/200. lr: 0.01 . Loss: 0.778887, Acc: 0.534375 time:34.8 s
+Train: [5/30] iter: 60/200. lr: 0.01 . Loss: 0.779928, Acc: 0.533333 time:34.8 s
+Train: [5/30] iter: 80/200. lr: 0.01 . Loss: 0.788262, Acc: 0.525000 time:34.5 s
+Train: [5/30] iter: 100/200. lr: 0.01 . Loss: 0.805762, Acc: 0.507500 time:34.7 s
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+Train: [1/30] iter: 20/200. lr: 0.01 . Loss: 0.690307, Acc: 0.618750 time:46.8 s
+Train: [1/30] iter: 40/200. lr: 0.01 . Loss: 0.693684, Acc: 0.550000 time:34.8 s
+Train: [1/30] iter: 60/200. lr: 0.01 . Loss: 0.693209, Acc: 0.541667 time:34.7 s
+Train: [1/30] iter: 80/200. lr: 0.01 . Loss: 0.693730, Acc: 0.525000 time:34.6 s
+Train: [1/30] iter: 100/200. lr: 0.01 . Loss: 0.693953, Acc: 0.508750 time:34.8 s
+Train: [1/30] iter: 120/200. lr: 0.01 . Loss: 0.693842, Acc: 0.503125 time:34.8 s
+Train: [1/30] iter: 140/200. lr: 0.01 . Loss: 0.693753, Acc: 0.502679 time:34.7 s
+Train: [1/30] iter: 160/200. lr: 0.01 . Loss: 0.693728, Acc: 0.502344 time:34.6 s
+Train: [1/30] iter: 180/200. lr: 0.01 . Loss: 0.693469, Acc: 0.508333 time:34.8 s
+Train: [1/30] iter: 200/200. lr: 0.01 . Loss: 0.693616, Acc: 0.506250 time:34.8 s
+Train: Finish 1 epoch, Loss: 0.693616, Acc: 0.506250
+Time:359.7 s
+Test: [1/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [1/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [1/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 1 epoch, Acc: 0.500000
+----------
+epoch 2
+Train: [2/30] iter: 20/200. lr: 0.01 . Loss: 0.694012, Acc: 0.487500 time:40.1 s
+Train: [2/30] iter: 40/200. lr: 0.01 . Loss: 0.693476, Acc: 0.509375 time:34.7 s
+Train: [2/30] iter: 60/200. lr: 0.01 . Loss: 0.694068, Acc: 0.481250 time:34.6 s
+Train: [2/30] iter: 80/200. lr: 0.01 . Loss: 0.693892, Acc: 0.479687 time:34.8 s
+Train: [2/30] iter: 100/200. lr: 0.01 . Loss: 0.693832, Acc: 0.477500 time:34.8 s
+Train: [2/30] iter: 120/200. lr: 0.01 . Loss: 0.693623, Acc: 0.487500 time:34.7 s
+Train: [2/30] iter: 140/200. lr: 0.01 . Loss: 0.693786, Acc: 0.484821 time:34.5 s
+Train: [2/30] iter: 160/200. lr: 0.01 . Loss: 0.693750, Acc: 0.485938 time:34.8 s
+Train: [2/30] iter: 180/200. lr: 0.01 . Loss: 0.693684, Acc: 0.484028 time:34.8 s
+Train: [2/30] iter: 200/200. lr: 0.01 . Loss: 0.693735, Acc: 0.483750 time:34.8 s
+Train: Finish 2 epoch, Loss: 0.693735, Acc: 0.483750
+Time:352.8 s
+Test: [2/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [2/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [2/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 2 epoch, Acc: 0.500000
+----------
+epoch 3
+Train: [3/30] iter: 20/200. lr: 0.01 . Loss: 0.692763, Acc: 0.537500 time:41.9 s
+Train: [3/30] iter: 40/200. lr: 0.01 . Loss: 0.693373, Acc: 0.512500 time:34.8 s
+Train: [3/30] iter: 60/200. lr: 0.01 . Loss: 0.692128, Acc: 0.533333 time:34.8 s
+Train: [3/30] iter: 80/200. lr: 0.01 . Loss: 0.693436, Acc: 0.512500 time:34.5 s
+Train: [3/30] iter: 100/200. lr: 0.01 . Loss: 0.693757, Acc: 0.495000 time:34.7 s
+Train: [3/30] iter: 120/200. lr: 0.01 . Loss: 0.693887, Acc: 0.493750 time:34.8 s
+Train: [3/30] iter: 140/200. lr: 0.01 . Loss: 0.693953, Acc: 0.488393 time:34.8 s
+Train: [3/30] iter: 160/200. lr: 0.01 . Loss: 0.694020, Acc: 0.482812 time:34.5 s
+Train: [3/30] iter: 180/200. lr: 0.01 . Loss: 0.693973, Acc: 0.480556 time:34.7 s
+Train: [3/30] iter: 200/200. lr: 0.01 . Loss: 0.693930, Acc: 0.480000 time:34.8 s
+Train: Finish 3 epoch, Loss: 0.693930, Acc: 0.480000
+Time:354.4 s
+Test: [3/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [3/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [3/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 3 epoch, Acc: 0.500000
+----------
+epoch 4
+Train: [4/30] iter: 20/200. lr: 0.01 . Loss: 0.693439, Acc: 0.500000 time:41.7 s
+Train: [4/30] iter: 40/200. lr: 0.01 . Loss: 0.693456, Acc: 0.496875 time:34.8 s
+Train: [4/30] iter: 60/200. lr: 0.01 . Loss: 0.693788, Acc: 0.485417 time:34.8 s
+Train: [4/30] iter: 80/200. lr: 0.01 . Loss: 0.693172, Acc: 0.509375 time:34.7 s
+Train: [4/30] iter: 100/200. lr: 0.01 . Loss: 0.694006, Acc: 0.491250 time:34.6 s
+Train: [4/30] iter: 120/200. lr: 0.01 . Loss: 0.693953, Acc: 0.484375 time:34.8 s
+Train: [4/30] iter: 140/200. lr: 0.01 . Loss: 0.693906, Acc: 0.483929 time:34.8 s
+Train: [4/30] iter: 160/200. lr: 0.01 . Loss: 0.693815, Acc: 0.487500 time:34.6 s
+Train: [4/30] iter: 180/200. lr: 0.01 . Loss: 0.693786, Acc: 0.485417 time:34.7 s
+Train: [4/30] iter: 200/200. lr: 0.01 . Loss: 0.693731, Acc: 0.488750 time:34.8 s
+Train: Finish 4 epoch, Loss: 0.693731, Acc: 0.488750
+Time:354.5 s
+Test: [4/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [4/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [4/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 4 epoch, Acc: 0.500000
+----------
+epoch 5
+Train: [5/30] iter: 20/200. lr: 0.01 . Loss: 0.693196, Acc: 0.512500 time:41.1 s
+Train: [5/30] iter: 40/200. lr: 0.01 . Loss: 0.693932, Acc: 0.490625 time:34.8 s
+Train: [5/30] iter: 60/200. lr: 0.01 . Loss: 0.693114, Acc: 0.520833 time:34.6 s
+Train: [5/30] iter: 80/200. lr: 0.01 . Loss: 0.693906, Acc: 0.500000 time:34.7 s
+Train: [5/30] iter: 100/200. lr: 0.01 . Loss: 0.693748, Acc: 0.502500 time:34.8 s
+Train: [5/30] iter: 120/200. lr: 0.01 . Loss: 0.693774, Acc: 0.495833 time:34.8 s
+Train: [5/30] iter: 140/200. lr: 0.01 . Loss: 0.693768, Acc: 0.496429 time:34.5 s
+Train: [5/30] iter: 160/200. lr: 0.01 . Loss: 0.693711, Acc: 0.496875 time:34.8 s
+Train: [5/30] iter: 180/200. lr: 0.01 . Loss: 0.693688, Acc: 0.495833 time:34.8 s
+Train: [5/30] iter: 200/200. lr: 0.01 . Loss: 0.693664, Acc: 0.496250 time:34.8 s
+Train: Finish 5 epoch, Loss: 0.693664, Acc: 0.496250
+Time:353.8 s
+Test: [5/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [5/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [5/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 5 epoch, Acc: 0.500000
+----------
+epoch 6
+Train: [6/30] iter: 20/200. lr: 0.01 . Loss: 0.693569, Acc: 0.500000 time:40.3 s
+Train: [6/30] iter: 40/200. lr: 0.01 . Loss: 0.693494, Acc: 0.475000 time:34.6 s
+Train: [6/30] iter: 60/200. lr: 0.01 . Loss: 0.693682, Acc: 0.475000 time:34.7 s
+Train: [6/30] iter: 80/200. lr: 0.01 . Loss: 0.693101, Acc: 0.496875 time:34.9 s
+Train: [6/30] iter: 100/200. lr: 0.01 . Loss: 0.693680, Acc: 0.490000 time:34.9 s
+Train: [6/30] iter: 120/200. lr: 0.01 . Loss: 0.693796, Acc: 0.487500 time:34.7 s
+Train: [6/30] iter: 140/200. lr: 0.01 . Loss: 0.693553, Acc: 0.493750 time:34.6 s
+Train: [6/30] iter: 160/200. lr: 0.01 . Loss: 0.693965, Acc: 0.488281 time:34.9 s
+Train: [6/30] iter: 180/200. lr: 0.01 . Loss: 0.693962, Acc: 0.484722 time:34.9 s
+Train: [6/30] iter: 200/200. lr: 0.01 . Loss: 0.693926, Acc: 0.485000 time:34.7 s
+Train: Finish 6 epoch, Loss: 0.693926, Acc: 0.485000
+Time:353.3 s
+Test: [6/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [6/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [6/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 6 epoch, Acc: 0.500000
+----------
+epoch 7
+Train: [7/30] iter: 20/200. lr: 0.01 . Loss: 0.693275, Acc: 0.525000 time:42.2 s
+Train: [7/30] iter: 40/200. lr: 0.01 . Loss: 0.693568, Acc: 0.496875 time:34.5 s
+Train: [7/30] iter: 60/200. lr: 0.01 . Loss: 0.693192, Acc: 0.508333 time:34.8 s
+Train: [7/30] iter: 80/200. lr: 0.01 . Loss: 0.692824, Acc: 0.517188 time:34.8 s
+Train: [7/30] iter: 100/200. lr: 0.01 . Loss: 0.693887, Acc: 0.500000 time:34.8 s
+Train: [7/30] iter: 120/200. lr: 0.01 . Loss: 0.693826, Acc: 0.503125 time:34.5 s
+Train: [7/30] iter: 140/200. lr: 0.01 . Loss: 0.693896, Acc: 0.493750 time:34.8 s
+Train: [7/30] iter: 160/200. lr: 0.01 . Loss: 0.693838, Acc: 0.493750 time:34.8 s
+Train: [7/30] iter: 180/200. lr: 0.01 . Loss: 0.693700, Acc: 0.497222 time:34.7 s
+Train: [7/30] iter: 200/200. lr: 0.01 . Loss: 0.693824, Acc: 0.494375 time:34.5 s
+Train: Finish 7 epoch, Loss: 0.693824, Acc: 0.494375
+Time:354.6 s
+Test: [7/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [7/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [7/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 7 epoch, Acc: 0.500000
+----------
+epoch 8
+Train: [8/30] iter: 20/200. lr: 0.01 . Loss: 0.692157, Acc: 0.550000 time:41.5 s
+Train: [8/30] iter: 40/200. lr: 0.01 . Loss: 0.693349, Acc: 0.506250 time:34.8 s
+Train: [8/30] iter: 60/200. lr: 0.01 . Loss: 0.693323, Acc: 0.508333 time:34.8 s
+Train: [8/30] iter: 80/200. lr: 0.01 . Loss: 0.693747, Acc: 0.501563 time:34.8 s
+Train: [8/30] iter: 100/200. lr: 0.01 . Loss: 0.693776, Acc: 0.495000 time:34.5 s
+Train: [8/30] iter: 120/200. lr: 0.01 . Loss: 0.693694, Acc: 0.495833 time:34.7 s
+Train: [8/30] iter: 140/200. lr: 0.01 . Loss: 0.693678, Acc: 0.492857 time:34.8 s
+Train: [8/30] iter: 160/200. lr: 0.01 . Loss: 0.693714, Acc: 0.487500 time:34.8 s
+Train: [8/30] iter: 180/200. lr: 0.01 . Loss: 0.693730, Acc: 0.480556 time:34.5 s
+Train: [8/30] iter: 200/200. lr: 0.01 . Loss: 0.693701, Acc: 0.478125 time:34.7 s
+Train: Finish 8 epoch, Loss: 0.693701, Acc: 0.478125
+Time:354.1 s
+Test: [8/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [8/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [8/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 8 epoch, Acc: 0.500000
+----------
+epoch 9
+Train: [9/30] iter: 20/200. lr: 0.01 . Loss: 0.692323, Acc: 0.556250 time:40.9 s
+Train: [9/30] iter: 40/200. lr: 0.01 . Loss: 0.693879, Acc: 0.509375 time:34.8 s
+Train: [9/30] iter: 60/200. lr: 0.01 . Loss: 0.693810, Acc: 0.500000 time:34.8 s
+Train: [9/30] iter: 80/200. lr: 0.01 . Loss: 0.693823, Acc: 0.500000 time:34.5 s
+Train: [9/30] iter: 100/200. lr: 0.01 . Loss: 0.693499, Acc: 0.506250 time:34.8 s
+Train: [9/30] iter: 120/200. lr: 0.01 . Loss: 0.693846, Acc: 0.494792 time:34.8 s
+Train: [9/30] iter: 140/200. lr: 0.01 . Loss: 0.693765, Acc: 0.496429 time:34.7 s
+Train: [9/30] iter: 160/200. lr: 0.01 . Loss: 0.693794, Acc: 0.497656 time:34.6 s
+Train: [9/30] iter: 180/200. lr: 0.01 . Loss: 0.693795, Acc: 0.495833 time:34.8 s
+Train: [9/30] iter: 200/200. lr: 0.01 . Loss: 0.693790, Acc: 0.487500 time:34.8 s
+Train: Finish 9 epoch, Loss: 0.693790, Acc: 0.487500
+Time:353.7 s
+Test: [9/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [9/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [9/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 9 epoch, Acc: 0.500000
+----------
+epoch 10
+Train: [10/30] iter: 20/200. lr: 0.01 . Loss: 0.693276, Acc: 0.506250 time:40.1 s
+Train: [10/30] iter: 40/200. lr: 0.01 . Loss: 0.693240, Acc: 0.500000 time:34.8 s
+Train: [10/30] iter: 60/200. lr: 0.01 . Loss: 0.692965, Acc: 0.500000 time:34.5 s
+Train: [10/30] iter: 80/200. lr: 0.01 . Loss: 0.693242, Acc: 0.496875 time:34.8 s
+Train: [10/30] iter: 100/200. lr: 0.01 . Loss: 0.693347, Acc: 0.497500 time:34.8 s
+Train: [10/30] iter: 120/200. lr: 0.01 . Loss: 0.693389, Acc: 0.495833 time:34.8 s
+Train: [10/30] iter: 140/200. lr: 0.01 . Loss: 0.693372, Acc: 0.500893 time:34.5 s
+Train: [10/30] iter: 160/200. lr: 0.01 . Loss: 0.693518, Acc: 0.503125 time:34.8 s
+Train: [10/30] iter: 180/200. lr: 0.01 . Loss: 0.693512, Acc: 0.502083 time:34.8 s
+Train: [10/30] iter: 200/200. lr: 0.01 . Loss: 0.693480, Acc: 0.505625 time:34.8 s
+Train: Finish 10 epoch, Loss: 0.693480, Acc: 0.505625
+Time:352.7 s
+Test: [10/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [10/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [10/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 10 epoch, Acc: 0.500000
+----------
+epoch 11
+Train: [11/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.694775, Acc: 0.512500 time:40.6 s
+Train: [11/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.694075, Acc: 0.515625 time:34.7 s
+Train: [11/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.693941, Acc: 0.504167 time:34.5 s
+Train: [11/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.693886, Acc: 0.495312 time:34.8 s
+Train: [11/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.693903, Acc: 0.495000 time:34.8 s
+Train: [11/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.693575, Acc: 0.503125 time:34.5 s
+Train: [11/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.693769, Acc: 0.494643 time:34.7 s
+Train: [11/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.693685, Acc: 0.496094 time:34.8 s
+Train: [11/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.693461, Acc: 0.501389 time:34.8 s
+Train: [11/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.693783, Acc: 0.493750 time:34.4 s
+Train: Finish 11 epoch, Loss: 0.693783, Acc: 0.493750
+Time:352.8 s
+Test: [11/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [11/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [11/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 11 epoch, Acc: 0.500000
+----------
+epoch 12
+Train: [12/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.692819, Acc: 0.531250 time:42.0 s
+Train: [12/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.693306, Acc: 0.515625 time:34.9 s
+Train: [12/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.693272, Acc: 0.500000 time:34.6 s
+Train: [12/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.693088, Acc: 0.518750 time:34.7 s
+Train: [12/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.693108, Acc: 0.512500 time:34.9 s
+Train: [12/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.692518, Acc: 0.514583 time:34.8 s
+Train: [12/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.693161, Acc: 0.503571 time:34.7 s
+Train: [12/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.693058, Acc: 0.507031 time:34.6 s
+Train: [12/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.692750, Acc: 0.509028 time:34.9 s
+Train: [12/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.692971, Acc: 0.506875 time:34.8 s
+Train: Finish 12 epoch, Loss: 0.692971, Acc: 0.506875
+Time:355.0 s
+Test: [12/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [12/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [12/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 12 epoch, Acc: 0.500000
+----------
+epoch 13
+Train: [13/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.692999, Acc: 0.506250 time:41.6 s
+Train: [13/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.691590, Acc: 0.521875 time:34.0 s
+Train: [13/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.692197, Acc: 0.522917 time:34.0 s
+Train: [13/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.693723, Acc: 0.503125 time:34.0 s
+Train: [13/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.693564, Acc: 0.503750 time:34.0 s
+Train: [13/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.693156, Acc: 0.512500 time:34.0 s
+Train: [13/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.692996, Acc: 0.514286 time:34.0 s
+Train: [13/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.693385, Acc: 0.505469 time:34.0 s
+Train: [13/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.693128, Acc: 0.510417 time:34.0 s
+Train: [13/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.693092, Acc: 0.507500 time:34.0 s
+Train: Finish 13 epoch, Loss: 0.693092, Acc: 0.507500
+Time:347.6 s
+Test: [13/30] iter: 0/50. 2.0/8.0. Acc: 0.250000.
+Test: [13/30] iter: 20/50. 99.0/168.0. Acc: 0.589286.
+Test: [13/30] iter: 40/50. 216.0/328.0. Acc: 0.658537.
+Test: Finish 13 epoch, Acc: 0.685000
+----------
+epoch 14
+Train: [14/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.680878, Acc: 0.581250 time:41.0 s
+Train: [14/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.691107, Acc: 0.534375 time:34.0 s
+Train: [14/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.693808, Acc: 0.497917 time:34.0 s
+Train: [14/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.692816, Acc: 0.492188 time:34.0 s
+Train: [14/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.691411, Acc: 0.492500 time:34.0 s
+Train: [14/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.690463, Acc: 0.496875 time:34.0 s
+Train: [14/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.689131, Acc: 0.504464 time:34.0 s
+Train: [14/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.686503, Acc: 0.515625 time:34.0 s
+Train: [14/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.681384, Acc: 0.535417 time:34.0 s
+Train: [14/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.687901, Acc: 0.531250 time:34.0 s
+Train: Finish 14 epoch, Loss: 0.687901, Acc: 0.531250
+Time:347.0 s
+Test: [14/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [14/30] iter: 20/50. 157.0/168.0. Acc: 0.934524.
+Test: [14/30] iter: 40/50. 224.0/328.0. Acc: 0.682927.
+Test: Finish 14 epoch, Acc: 0.612500
+----------
+epoch 15
+Train: [15/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.654828, Acc: 0.612500 time:41.3 s
+Train: [15/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.646606, Acc: 0.628125 time:34.0 s
+Train: [15/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.653458, Acc: 0.620833 time:34.0 s
+Train: [15/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.648439, Acc: 0.635938 time:34.0 s
+Train: [15/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.644237, Acc: 0.642500 time:34.0 s
+Train: [15/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.629068, Acc: 0.659375 time:34.0 s
+Train: [15/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.655381, Acc: 0.636607 time:34.0 s
+Train: [15/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.676679, Acc: 0.617969 time:34.0 s
+Train: [15/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.688383, Acc: 0.608333 time:34.0 s
+Train: [15/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.704620, Acc: 0.593750 time:34.0 s
+Train: Finish 15 epoch, Loss: 0.704620, Acc: 0.593750
+Time:347.2 s
+Test: [15/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [15/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [15/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 15 epoch, Acc: 0.500000
+----------
+epoch 16
+Train: [16/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.832012, Acc: 0.481250 time:39.4 s
+Train: [16/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.810137, Acc: 0.503125 time:34.0 s
+Train: [16/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.794512, Acc: 0.518750 time:34.0 s
+Train: [16/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.791387, Acc: 0.521875 time:34.0 s
+Train: [16/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.803262, Acc: 0.510000 time:34.0 s
+Train: [16/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.810137, Acc: 0.503125 time:34.0 s
+Train: [16/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.819512, Acc: 0.493750 time:34.0 s
+Train: [16/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.816387, Acc: 0.496875 time:34.0 s
+Train: [16/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.815345, Acc: 0.497917 time:34.0 s
+Train: [16/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.813262, Acc: 0.500000 time:34.0 s
+Train: Finish 16 epoch, Loss: 0.813262, Acc: 0.500000
+Time:345.4 s
+Test: [16/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [16/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [16/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 16 epoch, Acc: 0.500000
+----------
+epoch 17
+Train: [17/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.825762, Acc: 0.487500 time:41.3 s
+Train: [17/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.800762, Acc: 0.512500 time:34.0 s
+Train: [17/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.790345, Acc: 0.522917 time:34.0 s
+Train: [17/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.803887, Acc: 0.509375 time:34.0 s
+Train: [17/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.798262, Acc: 0.515000 time:34.0 s
+Train: [17/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.797637, Acc: 0.515625 time:34.0 s
+Train: [17/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.801654, Acc: 0.511607 time:34.0 s
+Train: [17/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.806230, Acc: 0.507031 time:34.0 s
+Train: [17/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.809095, Acc: 0.504167 time:34.0 s
+Train: [17/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.813262, Acc: 0.500000 time:34.0 s
+Train: Finish 17 epoch, Loss: 0.813262, Acc: 0.500000
+Time:347.5 s
+Test: [17/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [17/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [17/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 17 epoch, Acc: 0.500000
+----------
+epoch 18
+Train: [18/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.794512, Acc: 0.518750 time:42.2 s
+Train: [18/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.800762, Acc: 0.512500 time:34.6 s
+Train: [18/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.807012, Acc: 0.506250 time:34.6 s
+Train: [18/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.824199, Acc: 0.489063 time:34.8 s
+Train: [18/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.819512, Acc: 0.493750 time:34.8 s
+Train: [18/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.818470, Acc: 0.494792 time:34.6 s
+Train: [18/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.814154, Acc: 0.499107 time:34.7 s
+Train: [18/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.808574, Acc: 0.504687 time:34.9 s
+Train: [18/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.807706, Acc: 0.505556 time:34.8 s
+Train: [18/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.813262, Acc: 0.500000 time:34.5 s
+Train: Finish 18 epoch, Loss: 0.813262, Acc: 0.500000
+Time:354.5 s
+Test: [18/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [18/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [18/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 18 epoch, Acc: 0.500000
+----------
+epoch 19
+Train: [19/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.882012, Acc: 0.431250 time:42.0 s
+Train: [19/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.857012, Acc: 0.456250 time:34.5 s
+Train: [19/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.850762, Acc: 0.462500 time:34.7 s
+Train: [19/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.839824, Acc: 0.473438 time:34.9 s
+Train: [19/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.834512, Acc: 0.478750 time:34.8 s
+Train: [19/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.838262, Acc: 0.475000 time:34.6 s
+Train: [19/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.832012, Acc: 0.481250 time:34.7 s
+Train: [19/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.839043, Acc: 0.474219 time:34.8 s
+Train: [19/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.822984, Acc: 0.490278 time:34.8 s
+Train: [19/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.813262, Acc: 0.500000 time:34.6 s
+Train: Finish 19 epoch, Loss: 0.813262, Acc: 0.500000
+Time:354.6 s
+Test: [19/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [19/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [19/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 19 epoch, Acc: 0.500000
+----------
+epoch 20
+Train: [20/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.838262, Acc: 0.475000 time:42.0 s
+Train: [20/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.819512, Acc: 0.493750 time:34.6 s
+Train: [20/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.836178, Acc: 0.477083 time:34.7 s
+Train: [20/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.825762, Acc: 0.487500 time:34.9 s
+Train: [20/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.810762, Acc: 0.502500 time:34.8 s
+Train: [20/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.813262, Acc: 0.500000 time:34.4 s
+Train: [20/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.814154, Acc: 0.499107 time:34.8 s
+Train: [20/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.817949, Acc: 0.495312 time:34.8 s
+Train: [20/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.813262, Acc: 0.500000 time:34.7 s
+Train: [20/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.813262, Acc: 0.500000 time:34.5 s
+Train: Finish 20 epoch, Loss: 0.813262, Acc: 0.500000
+Time:354.2 s
+Test: [20/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [20/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [20/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 20 epoch, Acc: 0.500000
+----------
+epoch 21
+Train: [21/30] iter: 20/200. lr: 0.0049 . Loss: 0.769512, Acc: 0.543750 time:40.6 s
+Train: [21/30] iter: 40/200. lr: 0.0049 . Loss: 0.797637, Acc: 0.515625 time:34.6 s
+Train: [21/30] iter: 60/200. lr: 0.0049 . Loss: 0.792428, Acc: 0.520833 time:34.8 s
+Train: [21/30] iter: 80/200. lr: 0.0049 . Loss: 0.819512, Acc: 0.493750 time:34.8 s
+Train: [21/30] iter: 100/200. lr: 0.0049 . Loss: 0.824512, Acc: 0.488750 time:34.6 s
+Train: [21/30] iter: 120/200. lr: 0.0049 . Loss: 0.817428, Acc: 0.495833 time:34.7 s
+Train: [21/30] iter: 140/200. lr: 0.0049 . Loss: 0.819512, Acc: 0.493750 time:34.8 s
+Train: [21/30] iter: 160/200. lr: 0.0049 . Loss: 0.809355, Acc: 0.503906 time:34.8 s
+Train: [21/30] iter: 180/200. lr: 0.0049 . Loss: 0.814651, Acc: 0.498611 time:34.5 s
+Train: [21/30] iter: 200/200. lr: 0.0049 . Loss: 0.813262, Acc: 0.500000 time:34.7 s
+Train: Finish 21 epoch, Loss: 0.813262, Acc: 0.500000
+Time:353.0 s
+Test: [21/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [21/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [21/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 21 epoch, Acc: 0.500000
+----------
+epoch 22
+Train: [22/30] iter: 20/200. lr: 0.0049 . Loss: 0.782012, Acc: 0.531250 time:41.6 s
+Train: [22/30] iter: 40/200. lr: 0.0049 . Loss: 0.772637, Acc: 0.540625 time:34.8 s
+Train: [22/30] iter: 60/200. lr: 0.0049 . Loss: 0.798678, Acc: 0.514583 time:34.8 s
+Train: [22/30] iter: 80/200. lr: 0.0049 . Loss: 0.807012, Acc: 0.506250 time:34.6 s
+Train: [22/30] iter: 100/200. lr: 0.0049 . Loss: 0.804512, Acc: 0.508750 time:34.6 s
+Train: [22/30] iter: 120/200. lr: 0.0049 . Loss: 0.812220, Acc: 0.501042 time:34.8 s
+Train: [22/30] iter: 140/200. lr: 0.0049 . Loss: 0.812369, Acc: 0.500893 time:34.8 s
+Train: [22/30] iter: 160/200. lr: 0.0049 . Loss: 0.801543, Acc: 0.511719 time:34.4 s
+Train: [22/30] iter: 180/200. lr: 0.0049 . Loss: 0.809095, Acc: 0.504167 time:34.8 s
+Train: [22/30] iter: 200/200. lr: 0.0049 . Loss: 0.813262, Acc: 0.500000 time:34.8 s
+Train: Finish 22 epoch, Loss: 0.813262, Acc: 0.500000
+Time:354.0 s
+Test: [22/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [22/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [22/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 22 epoch, Acc: 0.500000
+----------
+epoch 23
+Train: [23/30] iter: 20/200. lr: 0.0049 . Loss: 0.819512, Acc: 0.493750 time:41.2 s
+Train: [23/30] iter: 40/200. lr: 0.0049 . Loss: 0.838262, Acc: 0.475000 time:34.8 s
+Train: [23/30] iter: 60/200. lr: 0.0049 . Loss: 0.832012, Acc: 0.481250 time:34.8 s
+Train: [23/30] iter: 80/200. lr: 0.0049 . Loss: 0.814824, Acc: 0.498437 time:34.6 s
+Train: [23/30] iter: 100/200. lr: 0.0049 . Loss: 0.805762, Acc: 0.507500 time:34.7 s
+Train: [23/30] iter: 120/200. lr: 0.0049 . Loss: 0.798678, Acc: 0.514583 time:34.8 s
+Train: [23/30] iter: 140/200. lr: 0.0049 . Loss: 0.805226, Acc: 0.508036 time:34.8 s
+Train: [23/30] iter: 160/200. lr: 0.0049 . Loss: 0.815605, Acc: 0.497656 time:34.5 s
+Train: [23/30] iter: 180/200. lr: 0.0049 . Loss: 0.815345, Acc: 0.497917 time:34.7 s
+Train: [23/30] iter: 200/200. lr: 0.0049 . Loss: 0.813262, Acc: 0.500000 time:34.8 s
+Train: Finish 23 epoch, Loss: 0.813262, Acc: 0.500000
+Time:354.0 s
+Test: [23/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [23/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [23/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 23 epoch, Acc: 0.500000
+----------
+epoch 24
+Train: [24/30] iter: 20/200. lr: 0.0049 . Loss: 0.825762, Acc: 0.487500 time:41.1 s
+Train: [24/30] iter: 40/200. lr: 0.0049 . Loss: 0.797637, Acc: 0.515625 time:34.8 s
+Train: [24/30] iter: 60/200. lr: 0.0049 . Loss: 0.802845, Acc: 0.510417 time:34.8 s
+Train: [24/30] iter: 80/200. lr: 0.0049 . Loss: 0.810137, Acc: 0.503125 time:34.6 s
+Train: [24/30] iter: 100/200. lr: 0.0049 . Loss: 0.795762, Acc: 0.517500 time:34.8 s
+Train: [24/30] iter: 120/200. lr: 0.0049 . Loss: 0.796595, Acc: 0.516667 time:34.8 s
+Train: [24/30] iter: 140/200. lr: 0.0049 . Loss: 0.798083, Acc: 0.515179 time:34.7 s
+Train: [24/30] iter: 160/200. lr: 0.0049 . Loss: 0.806230, Acc: 0.507031 time:34.5 s
+Train: [24/30] iter: 180/200. lr: 0.0049 . Loss: 0.810484, Acc: 0.502778 time:34.8 s
+Train: [24/30] iter: 200/200. lr: 0.0049 . Loss: 0.813262, Acc: 0.500000 time:34.8 s
+Train: Finish 24 epoch, Loss: 0.813262, Acc: 0.500000
+Time:354.0 s
+Test: [24/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [24/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [24/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 24 epoch, Acc: 0.500000
+----------
+epoch 25
+Train: [25/30] iter: 20/200. lr: 0.0049 . Loss: 0.788262, Acc: 0.525000 time:41.9 s
+Train: [25/30] iter: 40/200. lr: 0.0049 . Loss: 0.772637, Acc: 0.540625 time:34.8 s
+Train: [25/30] iter: 60/200. lr: 0.0049 . Loss: 0.786178, Acc: 0.527083 time:34.8 s
+Train: [25/30] iter: 80/200. lr: 0.0049 . Loss: 0.796074, Acc: 0.517188 time:34.4 s
+Train: [25/30] iter: 100/200. lr: 0.0049 . Loss: 0.802012, Acc: 0.511250 time:34.8 s
+Train: [25/30] iter: 120/200. lr: 0.0049 . Loss: 0.802845, Acc: 0.510417 time:34.8 s
+Train: [25/30] iter: 140/200. lr: 0.0049 . Loss: 0.809690, Acc: 0.503571 time:34.6 s
+Train: [25/30] iter: 160/200. lr: 0.0049 . Loss: 0.813262, Acc: 0.500000 time:34.6 s
+Train: [25/30] iter: 180/200. lr: 0.0049 . Loss: 0.816734, Acc: 0.496528 time:34.8 s
+Train: [25/30] iter: 200/200. lr: 0.0049 . Loss: 0.813262, Acc: 0.500000 time:34.8 s
+Train: Finish 25 epoch, Loss: 0.813262, Acc: 0.500000
+Time:354.4 s
+Test: [25/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [25/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [25/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 25 epoch, Acc: 0.500000
+----------
+epoch 26
+Train: [26/30] iter: 20/200. lr: 0.0049 . Loss: 0.875762, Acc: 0.437500 time:41.0 s
+Train: [26/30] iter: 40/200. lr: 0.0049 . Loss: 0.853887, Acc: 0.459375 time:34.8 s
+Train: [26/30] iter: 60/200. lr: 0.0049 . Loss: 0.827845, Acc: 0.485417 time:34.7 s
+Train: [26/30] iter: 80/200. lr: 0.0049 . Loss: 0.842949, Acc: 0.470313 time:34.7 s
+Train: [26/30] iter: 100/200. lr: 0.0049 . Loss: 0.829512, Acc: 0.483750 time:34.8 s
+Train: [26/30] iter: 120/200. lr: 0.0049 . Loss: 0.828887, Acc: 0.484375 time:34.8 s
+Train: [26/30] iter: 140/200. lr: 0.0049 . Loss: 0.826654, Acc: 0.486607 time:34.7 s
+Train: [26/30] iter: 160/200. lr: 0.0049 . Loss: 0.823418, Acc: 0.489844 time:34.5 s
+Train: [26/30] iter: 180/200. lr: 0.0049 . Loss: 0.816734, Acc: 0.496528 time:34.8 s
+Train: [26/30] iter: 200/200. lr: 0.0049 . Loss: 0.813262, Acc: 0.500000 time:34.8 s
+Train: Finish 26 epoch, Loss: 0.813262, Acc: 0.500000
+Time:353.9 s
+Test: [26/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [26/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [26/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 26 epoch, Acc: 0.500000
+----------
+epoch 27
+Train: [27/30] iter: 20/200. lr: 0.0049 . Loss: 0.844512, Acc: 0.468750 time:42.0 s
+Train: [27/30] iter: 40/200. lr: 0.0049 . Loss: 0.850762, Acc: 0.462500 time:34.8 s
+Train: [27/30] iter: 60/200. lr: 0.0049 . Loss: 0.857012, Acc: 0.456250 time:34.8 s
+Train: [27/30] iter: 80/200. lr: 0.0049 . Loss: 0.838262, Acc: 0.475000 time:34.6 s
+Train: [27/30] iter: 100/200. lr: 0.0049 . Loss: 0.834512, Acc: 0.478750 time:34.9 s
+Train: [27/30] iter: 120/200. lr: 0.0049 . Loss: 0.824720, Acc: 0.488542 time:34.9 s
+Train: [27/30] iter: 140/200. lr: 0.0049 . Loss: 0.817726, Acc: 0.495536 time:34.8 s
+Train: [27/30] iter: 160/200. lr: 0.0049 . Loss: 0.814043, Acc: 0.499219 time:34.6 s
+Train: [27/30] iter: 180/200. lr: 0.0049 . Loss: 0.813956, Acc: 0.499306 time:34.8 s
+Train: [27/30] iter: 200/200. lr: 0.0049 . Loss: 0.813262, Acc: 0.500000 time:34.8 s
+Train: Finish 27 epoch, Loss: 0.813262, Acc: 0.500000
+Time:355.1 s
+Test: [27/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [27/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [27/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 27 epoch, Acc: 0.500000
+----------
+epoch 28
+Train: [28/30] iter: 20/200. lr: 0.0049 . Loss: 0.869512, Acc: 0.443750 time:40.2 s
+Train: [28/30] iter: 40/200. lr: 0.0049 . Loss: 0.860137, Acc: 0.453125 time:34.9 s
+Train: [28/30] iter: 60/200. lr: 0.0049 . Loss: 0.823678, Acc: 0.489583 time:34.9 s
+Train: [28/30] iter: 80/200. lr: 0.0049 . Loss: 0.830449, Acc: 0.482812 time:34.5 s
+Train: [28/30] iter: 100/200. lr: 0.0049 . Loss: 0.817012, Acc: 0.496250 time:34.8 s
+Train: [28/30] iter: 120/200. lr: 0.0049 . Loss: 0.811178, Acc: 0.502083 time:34.8 s
+Train: [28/30] iter: 140/200. lr: 0.0049 . Loss: 0.803440, Acc: 0.509821 time:34.7 s
+Train: [28/30] iter: 160/200. lr: 0.0049 . Loss: 0.804668, Acc: 0.508594 time:34.5 s
+Train: [28/30] iter: 180/200. lr: 0.0049 . Loss: 0.809789, Acc: 0.503472 time:34.8 s
+Train: [28/30] iter: 200/200. lr: 0.0049 . Loss: 0.813262, Acc: 0.500000 time:34.8 s
+Train: Finish 28 epoch, Loss: 0.813262, Acc: 0.500000
+Time:353.0 s
+Test: [28/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [28/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [28/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 28 epoch, Acc: 0.500000
+----------
+epoch 29
+Train: [29/30] iter: 20/200. lr: 0.0049 . Loss: 0.819512, Acc: 0.493750 time:40.5 s
+Train: [29/30] iter: 40/200. lr: 0.0049 . Loss: 0.847637, Acc: 0.465625 time:34.4 s
+Train: [29/30] iter: 60/200. lr: 0.0049 . Loss: 0.836178, Acc: 0.477083 time:34.8 s
+Train: [29/30] iter: 80/200. lr: 0.0049 . Loss: 0.838262, Acc: 0.475000 time:34.8 s
+Train: [29/30] iter: 100/200. lr: 0.0049 . Loss: 0.823262, Acc: 0.490000 time:34.8 s
+Train: [29/30] iter: 120/200. lr: 0.0049 . Loss: 0.824720, Acc: 0.488542 time:34.5 s
+Train: [29/30] iter: 140/200. lr: 0.0049 . Loss: 0.815047, Acc: 0.498214 time:34.8 s
+Train: [29/30] iter: 160/200. lr: 0.0049 . Loss: 0.815605, Acc: 0.497656 time:34.8 s
+Train: [29/30] iter: 180/200. lr: 0.0049 . Loss: 0.816734, Acc: 0.496528 time:34.7 s
+Train: [29/30] iter: 200/200. lr: 0.0049 . Loss: 0.813262, Acc: 0.500000 time:34.5 s
+Train: Finish 29 epoch, Loss: 0.813262, Acc: 0.500000
+Time:352.8 s
+Test: [29/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [29/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [29/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 29 epoch, Acc: 0.500000
+----------
+epoch 30
+Train: [30/30] iter: 20/200. lr: 0.0049 . Loss: 0.813262, Acc: 0.500000 time:40.6 s
+Train: [30/30] iter: 40/200. lr: 0.0049 . Loss: 0.828887, Acc: 0.484375 time:34.7 s
+Train: [30/30] iter: 60/200. lr: 0.0049 . Loss: 0.817428, Acc: 0.495833 time:34.9 s
+Train: [30/30] iter: 80/200. lr: 0.0049 . Loss: 0.814824, Acc: 0.498437 time:34.9 s
+Train: [30/30] iter: 100/200. lr: 0.0049 . Loss: 0.808262, Acc: 0.505000 time:34.7 s
+Train: [30/30] iter: 120/200. lr: 0.0049 . Loss: 0.816387, Acc: 0.496875 time:34.6 s
+Train: [30/30] iter: 140/200. lr: 0.0049 . Loss: 0.814154, Acc: 0.499107 time:34.9 s
+Train: [30/30] iter: 160/200. lr: 0.0049 . Loss: 0.811699, Acc: 0.501563 time:34.8 s
+Train: [30/30] iter: 180/200. lr: 0.0049 . Loss: 0.812567, Acc: 0.500694 time:34.6 s
+Train: [30/30] iter: 200/200. lr: 0.0049 . Loss: 0.813262, Acc: 0.500000 time:34.6 s
+Train: Finish 30 epoch, Loss: 0.813262, Acc: 0.500000
+Time:353.4 s
+Test: [30/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [30/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [30/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 30 epoch, Acc: 0.500000
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+----------
+epoch 1
+Train: [1/30] iter: 20/200. lr: 0.01 . Loss: 0.692883, Acc: 0.512500 time:46.7 s
+Train: [1/30] iter: 40/200. lr: 0.01 . Loss: 0.694899, Acc: 0.493750 time:34.4 s
+Train: [1/30] iter: 60/200. lr: 0.01 . Loss: 0.693586, Acc: 0.510417 time:34.0 s
+Train: [1/30] iter: 80/200. lr: 0.01 . Loss: 0.696444, Acc: 0.498437 time:34.0 s
+Train: [1/30] iter: 100/200. lr: 0.01 . Loss: 0.695388, Acc: 0.511250 time:34.0 s
+Train: [1/30] iter: 120/200. lr: 0.01 . Loss: 0.695548, Acc: 0.508333 time:34.0 s
+Train: [1/30] iter: 140/200. lr: 0.01 . Loss: 0.695146, Acc: 0.511607 time:34.0 s
+Train: [1/30] iter: 160/200. lr: 0.01 . Loss: 0.695687, Acc: 0.507031 time:34.0 s
+Train: [1/30] iter: 180/200. lr: 0.01 . Loss: 0.695556, Acc: 0.505556 time:34.0 s
+Train: [1/30] iter: 200/200. lr: 0.01 . Loss: 0.695386, Acc: 0.509375 time:33.9 s
+Train: Finish 1 epoch, Loss: 0.695386, Acc: 0.509375
+Time:353.0 s
+Test: [1/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [1/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [1/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 1 epoch, Acc: 0.500000
+----------
+epoch 2
+Train: [2/30] iter: 20/200. lr: 0.01 . Loss: 0.696408, Acc: 0.450000 time:40.3 s
+Train: [2/30] iter: 40/200. lr: 0.01 . Loss: 0.696112, Acc: 0.440625 time:34.0 s
+Train: [2/30] iter: 60/200. lr: 0.01 . Loss: 0.693248, Acc: 0.485417 time:34.0 s
+Train: [2/30] iter: 80/200. lr: 0.01 . Loss: 0.692930, Acc: 0.498437 time:34.0 s
+Train: [2/30] iter: 100/200. lr: 0.01 . Loss: 0.693669, Acc: 0.500000 time:34.1 s
+Train: [2/30] iter: 120/200. lr: 0.01 . Loss: 0.694340, Acc: 0.490625 time:34.2 s
+Train: [2/30] iter: 140/200. lr: 0.01 . Loss: 0.694447, Acc: 0.491964 time:34.2 s
+Train: [2/30] iter: 160/200. lr: 0.01 . Loss: 0.694275, Acc: 0.498437 time:34.2 s
+Train: [2/30] iter: 180/200. lr: 0.01 . Loss: 0.694118, Acc: 0.501389 time:34.2 s
+Train: [2/30] iter: 200/200. lr: 0.01 . Loss: 0.694256, Acc: 0.502500 time:34.6 s
+Train: Finish 2 epoch, Loss: 0.694256, Acc: 0.502500
+Time:348.0 s
+Test: [2/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [2/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [2/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 2 epoch, Acc: 0.500000
+----------
+epoch 3
+Train: [3/30] iter: 20/200. lr: 0.01 . Loss: 0.691398, Acc: 0.537500 time:42.1 s
+Train: [3/30] iter: 40/200. lr: 0.01 . Loss: 0.691633, Acc: 0.534375 time:35.0 s
+Train: [3/30] iter: 60/200. lr: 0.01 . Loss: 0.694391, Acc: 0.510417 time:35.0 s
+Train: [3/30] iter: 80/200. lr: 0.01 . Loss: 0.694465, Acc: 0.517188 time:35.0 s
+Train: [3/30] iter: 100/200. lr: 0.01 . Loss: 0.695817, Acc: 0.506250 time:34.7 s
+Train: [3/30] iter: 120/200. lr: 0.01 . Loss: 0.695978, Acc: 0.502083 time:34.9 s
+Train: [3/30] iter: 140/200. lr: 0.01 . Loss: 0.695688, Acc: 0.501786 time:35.0 s
+Train: [3/30] iter: 160/200. lr: 0.01 . Loss: 0.695346, Acc: 0.507812 time:35.0 s
+Train: [3/30] iter: 180/200. lr: 0.01 . Loss: 0.695448, Acc: 0.502778 time:34.7 s
+Train: [3/30] iter: 200/200. lr: 0.01 . Loss: 0.695324, Acc: 0.502500 time:34.8 s
+Train: Finish 3 epoch, Loss: 0.695324, Acc: 0.502500
+Time:356.1 s
+Test: [3/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [3/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [3/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 3 epoch, Acc: 0.500000
+----------
+epoch 4
+Train: [4/30] iter: 20/200. lr: 0.01 . Loss: 0.694190, Acc: 0.481250 time:42.0 s
+Train: [4/30] iter: 40/200. lr: 0.01 . Loss: 0.692865, Acc: 0.509375 time:34.9 s
+Train: [4/30] iter: 60/200. lr: 0.01 . Loss: 0.694692, Acc: 0.504167 time:35.0 s
+Train: [4/30] iter: 80/200. lr: 0.01 . Loss: 0.694658, Acc: 0.501563 time:35.0 s
+Train: [4/30] iter: 100/200. lr: 0.01 . Loss: 0.694619, Acc: 0.502500 time:34.8 s
+Train: [4/30] iter: 120/200. lr: 0.01 . Loss: 0.694589, Acc: 0.496875 time:34.8 s
+Train: [4/30] iter: 140/200. lr: 0.01 . Loss: 0.694983, Acc: 0.499107 time:35.0 s
+Train: [4/30] iter: 160/200. lr: 0.01 . Loss: 0.693653, Acc: 0.507031 time:35.0 s
+Train: [4/30] iter: 180/200. lr: 0.01 . Loss: 0.694381, Acc: 0.509028 time:34.8 s
+Train: [4/30] iter: 200/200. lr: 0.01 . Loss: 0.695586, Acc: 0.502500 time:34.7 s
+Train: Finish 4 epoch, Loss: 0.695586, Acc: 0.502500
+Time:356.2 s
+Test: [4/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [4/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [4/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 4 epoch, Acc: 0.500000
+----------
+epoch 5
+Train: [5/30] iter: 20/200. lr: 0.01 . Loss: 0.692997, Acc: 0.512500 time:41.1 s
+Train: [5/30] iter: 40/200. lr: 0.01 . Loss: 0.693466, Acc: 0.512500 time:34.9 s
+Train: [5/30] iter: 60/200. lr: 0.01 . Loss: 0.693886, Acc: 0.506250 time:35.0 s
+Train: [5/30] iter: 80/200. lr: 0.01 . Loss: 0.693872, Acc: 0.506250 time:35.0 s
+Train: [5/30] iter: 100/200. lr: 0.01 . Loss: 0.694128, Acc: 0.505000 time:34.7 s
+Train: [5/30] iter: 120/200. lr: 0.01 . Loss: 0.694101, Acc: 0.506250 time:34.9 s
+Train: [5/30] iter: 140/200. lr: 0.01 . Loss: 0.694137, Acc: 0.505357 time:35.0 s
+Train: [5/30] iter: 160/200. lr: 0.01 . Loss: 0.694153, Acc: 0.499219 time:35.0 s
+Train: [5/30] iter: 180/200. lr: 0.01 . Loss: 0.694393, Acc: 0.497222 time:34.7 s
+Train: [5/30] iter: 200/200. lr: 0.01 . Loss: 0.694393, Acc: 0.493750 time:34.9 s
+Train: Finish 5 epoch, Loss: 0.694393, Acc: 0.493750
+Time:355.3 s
+Test: [5/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [5/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [5/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 5 epoch, Acc: 0.500000
+----------
+epoch 6
+Train: [6/30] iter: 20/200. lr: 0.01 . Loss: 0.695600, Acc: 0.512500 time:41.7 s
+Train: [6/30] iter: 40/200. lr: 0.01 . Loss: 0.695928, Acc: 0.481250 time:35.0 s
+Train: [6/30] iter: 60/200. lr: 0.01 . Loss: 0.695477, Acc: 0.495833 time:35.0 s
+Train: [6/30] iter: 80/200. lr: 0.01 . Loss: 0.695617, Acc: 0.485938 time:34.8 s
+Train: [6/30] iter: 100/200. lr: 0.01 . Loss: 0.695477, Acc: 0.482500 time:34.7 s
+Train: [6/30] iter: 120/200. lr: 0.01 . Loss: 0.694213, Acc: 0.497917 time:35.0 s
+Train: [6/30] iter: 140/200. lr: 0.01 . Loss: 0.695244, Acc: 0.487500 time:35.0 s
+Train: [6/30] iter: 160/200. lr: 0.01 . Loss: 0.695450, Acc: 0.488281 time:34.7 s
+Train: [6/30] iter: 180/200. lr: 0.01 . Loss: 0.694887, Acc: 0.494444 time:34.8 s
+Train: [6/30] iter: 200/200. lr: 0.01 . Loss: 0.695359, Acc: 0.493750 time:35.0 s
+Train: Finish 6 epoch, Loss: 0.695359, Acc: 0.493750
+Time:355.7 s
+Test: [6/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [6/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [6/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 6 epoch, Acc: 0.500000
+----------
+epoch 7
+Train: [7/30] iter: 20/200. lr: 0.01 . Loss: 0.693583, Acc: 0.493750 time:41.6 s
+Train: [7/30] iter: 40/200. lr: 0.01 . Loss: 0.695592, Acc: 0.481250 time:35.0 s
+Train: [7/30] iter: 60/200. lr: 0.01 . Loss: 0.694803, Acc: 0.500000 time:35.0 s
+Train: [7/30] iter: 80/200. lr: 0.01 . Loss: 0.695093, Acc: 0.496875 time:34.8 s
+Train: [7/30] iter: 100/200. lr: 0.01 . Loss: 0.695110, Acc: 0.495000 time:34.8 s
+Train: [7/30] iter: 120/200. lr: 0.01 . Loss: 0.695277, Acc: 0.496875 time:35.1 s
+Train: [7/30] iter: 140/200. lr: 0.01 . Loss: 0.694848, Acc: 0.501786 time:35.2 s
+Train: [7/30] iter: 160/200. lr: 0.01 . Loss: 0.694753, Acc: 0.500000 time:34.7 s
+Train: [7/30] iter: 180/200. lr: 0.01 . Loss: 0.694432, Acc: 0.504861 time:34.8 s
+Train: [7/30] iter: 200/200. lr: 0.01 . Loss: 0.694369, Acc: 0.505625 time:35.0 s
+Train: Finish 7 epoch, Loss: 0.694369, Acc: 0.505625
+Time:356.0 s
+Test: [7/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [7/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [7/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 7 epoch, Acc: 0.500000
+----------
+epoch 8
+Train: [8/30] iter: 20/200. lr: 0.01 . Loss: 0.696664, Acc: 0.506250 time:41.0 s
+Train: [8/30] iter: 40/200. lr: 0.01 . Loss: 0.695358, Acc: 0.496875 time:35.0 s
+Train: [8/30] iter: 60/200. lr: 0.01 . Loss: 0.694997, Acc: 0.493750 time:35.0 s
+Train: [8/30] iter: 80/200. lr: 0.01 . Loss: 0.694662, Acc: 0.489063 time:34.7 s
+Train: [8/30] iter: 100/200. lr: 0.01 . Loss: 0.695122, Acc: 0.485000 time:34.9 s
+Train: [8/30] iter: 120/200. lr: 0.01 . Loss: 0.694889, Acc: 0.489583 time:35.0 s
+Train: [8/30] iter: 140/200. lr: 0.01 . Loss: 0.695395, Acc: 0.477679 time:35.0 s
+Train: [8/30] iter: 160/200. lr: 0.01 . Loss: 0.694891, Acc: 0.485938 time:34.8 s
+Train: [8/30] iter: 180/200. lr: 0.01 . Loss: 0.695259, Acc: 0.482639 time:34.8 s
+Train: [8/30] iter: 200/200. lr: 0.01 . Loss: 0.695123, Acc: 0.484375 time:35.0 s
+Train: Finish 8 epoch, Loss: 0.695123, Acc: 0.484375
+Time:355.3 s
+Test: [8/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [8/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [8/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 8 epoch, Acc: 0.500000
+----------
+epoch 9
+Train: [9/30] iter: 20/200. lr: 0.01 . Loss: 0.695801, Acc: 0.475000 time:42.1 s
+Train: [9/30] iter: 40/200. lr: 0.01 . Loss: 0.694228, Acc: 0.503125 time:34.7 s
+Train: [9/30] iter: 60/200. lr: 0.01 . Loss: 0.695307, Acc: 0.493750 time:35.0 s
+Train: [9/30] iter: 80/200. lr: 0.01 . Loss: 0.696131, Acc: 0.492188 time:35.0 s
+Train: [9/30] iter: 100/200. lr: 0.01 . Loss: 0.695774, Acc: 0.491250 time:34.9 s
+Train: [9/30] iter: 120/200. lr: 0.01 . Loss: 0.695577, Acc: 0.491667 time:34.7 s
+Train: [9/30] iter: 140/200. lr: 0.01 . Loss: 0.695561, Acc: 0.485714 time:35.0 s
+Train: [9/30] iter: 160/200. lr: 0.01 . Loss: 0.695414, Acc: 0.485156 time:35.0 s
+Train: [9/30] iter: 180/200. lr: 0.01 . Loss: 0.695431, Acc: 0.484028 time:34.8 s
+Train: [9/30] iter: 200/200. lr: 0.01 . Loss: 0.695319, Acc: 0.485625 time:34.7 s
+Train: Finish 9 epoch, Loss: 0.695319, Acc: 0.485625
+Time:356.0 s
+Test: [9/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [9/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [9/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 9 epoch, Acc: 0.500000
+----------
+epoch 10
+Train: [10/30] iter: 20/200. lr: 0.01 . Loss: 0.694103, Acc: 0.493750 time:42.3 s
+Train: [10/30] iter: 40/200. lr: 0.01 . Loss: 0.696950, Acc: 0.493750 time:34.8 s
+Train: [10/30] iter: 60/200. lr: 0.01 . Loss: 0.696099, Acc: 0.481250 time:35.0 s
+Train: [10/30] iter: 80/200. lr: 0.01 . Loss: 0.695602, Acc: 0.479687 time:35.0 s
+Train: [10/30] iter: 100/200. lr: 0.01 . Loss: 0.694886, Acc: 0.485000 time:35.0 s
+Train: [10/30] iter: 120/200. lr: 0.01 . Loss: 0.694616, Acc: 0.491667 time:34.7 s
+Train: [10/30] iter: 140/200. lr: 0.01 . Loss: 0.694867, Acc: 0.491071 time:35.0 s
+Train: [10/30] iter: 160/200. lr: 0.01 . Loss: 0.694775, Acc: 0.492969 time:35.0 s
+Train: [10/30] iter: 180/200. lr: 0.01 . Loss: 0.694903, Acc: 0.489583 time:35.0 s
+Train: [10/30] iter: 200/200. lr: 0.01 . Loss: 0.695208, Acc: 0.487500 time:34.6 s
+Train: Finish 10 epoch, Loss: 0.695208, Acc: 0.487500
+Time:356.5 s
+Test: [10/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [10/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [10/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 10 epoch, Acc: 0.500000
+----------
+epoch 11
+Train: [11/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.692356, Acc: 0.512500 time:40.8 s
+Train: [11/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.694917, Acc: 0.484375 time:34.8 s
+Train: [11/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.694129, Acc: 0.495833 time:35.1 s
+Train: [11/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.692842, Acc: 0.507812 time:35.0 s
+Train: [11/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.693531, Acc: 0.508750 time:34.8 s
+Train: [11/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.694747, Acc: 0.500000 time:34.9 s
+Train: [11/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.694723, Acc: 0.500000 time:35.0 s
+Train: [11/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.694589, Acc: 0.499219 time:35.0 s
+Train: [11/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.694697, Acc: 0.493056 time:34.6 s
+Train: [11/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.694561, Acc: 0.493750 time:34.9 s
+Train: Finish 11 epoch, Loss: 0.694561, Acc: 0.493750
+Time:355.0 s
+Test: [11/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [11/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [11/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 11 epoch, Acc: 0.500000
+----------
+epoch 12
+Train: [12/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.692261, Acc: 0.531250 time:41.1 s
+Train: [12/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.690842, Acc: 0.518750 time:35.0 s
+Train: [12/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.691006, Acc: 0.512500 time:34.9 s
+Train: [12/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.692592, Acc: 0.507812 time:34.6 s
+Train: [12/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.693457, Acc: 0.498750 time:35.0 s
+Train: [12/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.692376, Acc: 0.516667 time:35.0 s
+Train: [12/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.691185, Acc: 0.521429 time:34.9 s
+Train: [12/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.693187, Acc: 0.510156 time:34.6 s
+Train: [12/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.693887, Acc: 0.509722 time:35.0 s
+Train: [12/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.693338, Acc: 0.512500 time:35.0 s
+Train: Finish 12 epoch, Loss: 0.693338, Acc: 0.512500
+Time:355.2 s
+Test: [12/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [12/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [12/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 12 epoch, Acc: 0.497500
+----------
+epoch 13
+Train: [13/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.685720, Acc: 0.537500 time:41.8 s
+Train: [13/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.674995, Acc: 0.612500 time:35.0 s
+Train: [13/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.663861, Acc: 0.614583 time:35.1 s
+Train: [13/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.658279, Acc: 0.625000 time:34.9 s
+Train: [13/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.662415, Acc: 0.623750 time:34.8 s
+Train: [13/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.676795, Acc: 0.587500 time:35.0 s
+Train: [13/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.678829, Acc: 0.584821 time:35.0 s
+Train: [13/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.681025, Acc: 0.566406 time:34.9 s
+Train: [13/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.682428, Acc: 0.557639 time:34.7 s
+Train: [13/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.683631, Acc: 0.555000 time:35.0 s
+Train: Finish 13 epoch, Loss: 0.683631, Acc: 0.555000
+Time:356.4 s
+Test: [13/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [13/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [13/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 13 epoch, Acc: 0.500000
+----------
+epoch 14
+Train: [14/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.696764, Acc: 0.468750 time:42.3 s
+Train: [14/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.695325, Acc: 0.500000 time:35.3 s
+Train: [14/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.695988, Acc: 0.485417 time:35.6 s
+Train: [14/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.693921, Acc: 0.503125 time:36.6 s
+Train: [14/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.696449, Acc: 0.492500 time:36.6 s
+Train: [14/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.695995, Acc: 0.498958 time:36.6 s
+Train: [14/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.695445, Acc: 0.499107 time:35.8 s
+Train: [14/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.695603, Acc: 0.500000 time:37.8 s
+Train: [14/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.695520, Acc: 0.500694 time:38.9 s
+Train: [14/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.695310, Acc: 0.503125 time:38.9 s
+Train: Finish 14 epoch, Loss: 0.695310, Acc: 0.503125
+Time:374.8 s
+Test: [14/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [14/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [14/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 14 epoch, Acc: 0.500000
+----------
+epoch 15
+Train: [15/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.695314, Acc: 0.506250 time:43.4 s
+Train: [15/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.694889, Acc: 0.493750 time:35.0 s
+Train: [15/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.694144, Acc: 0.502083 time:35.0 s
+Train: [15/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.694356, Acc: 0.501563 time:34.7 s
+Train: [15/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.694419, Acc: 0.497500 time:35.0 s
+Train: [15/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.694296, Acc: 0.494792 time:35.0 s
+Train: [15/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.694361, Acc: 0.495536 time:35.1 s
+Train: [15/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.694592, Acc: 0.494531 time:34.8 s
+Train: [15/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.693730, Acc: 0.502778 time:34.8 s
+Train: [15/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.694609, Acc: 0.498750 time:35.0 s
+Train: Finish 15 epoch, Loss: 0.694609, Acc: 0.498750
+Time:357.9 s
+Test: [15/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [15/30] iter: 20/50. 0.0/168.0. Acc: 0.000000.
+Test: [15/30] iter: 40/50. 128.0/328.0. Acc: 0.390244.
+Test: Finish 15 epoch, Acc: 0.500000
+----------
+epoch 16
+Train: [16/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.692985, Acc: 0.525000 time:42.2 s
+Train: [16/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.689175, Acc: 0.562500 time:35.0 s
+Train: [16/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.692139, Acc: 0.541667 time:35.0 s
+Train: [16/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.690774, Acc: 0.550000 time:35.0 s
+Train: [16/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.691700, Acc: 0.543750 time:34.7 s
+Train: [16/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.693385, Acc: 0.525000 time:35.0 s
+Train: [16/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.693441, Acc: 0.517857 time:35.0 s
+Train: [16/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.693368, Acc: 0.520312 time:35.0 s
+Train: [16/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.693137, Acc: 0.522222 time:34.7 s
+Train: [16/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.692028, Acc: 0.530000 time:34.9 s
+Train: Finish 16 epoch, Loss: 0.692028, Acc: 0.530000
+Time:356.6 s
+Test: [16/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [16/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [16/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 16 epoch, Acc: 0.500000
+----------
+epoch 17
+Train: [17/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.698236, Acc: 0.537500 time:42.2 s
+Train: [17/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.699912, Acc: 0.515625 time:35.0 s
+Train: [17/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.699024, Acc: 0.487500 time:35.0 s
+Train: [17/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.697719, Acc: 0.493750 time:34.6 s
+Train: [17/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.696029, Acc: 0.511250 time:34.9 s
+Train: [17/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.696332, Acc: 0.508333 time:35.0 s
+Train: [17/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.696372, Acc: 0.500000 time:34.9 s
+Train: [17/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.696167, Acc: 0.494531 time:34.7 s
+Train: [17/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.695442, Acc: 0.498611 time:34.9 s
+Train: [17/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.695364, Acc: 0.498125 time:34.9 s
+Train: Finish 17 epoch, Loss: 0.695364, Acc: 0.498125
+Time:356.4 s
+Test: [17/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [17/30] iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: [17/30] iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Finish 17 epoch, Acc: 0.500000
+----------
+epoch 18
+Train: [18/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.694311, Acc: 0.487500 time:40.9 s
+Train: [18/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.693874, Acc: 0.503125 time:35.0 s
+Train: [18/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.693776, Acc: 0.502083 time:35.0 s
+Train: [18/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.692190, Acc: 0.504687 time:34.7 s
+Train: [18/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.690197, Acc: 0.505000 time:34.9 s
+Train: [18/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.689049, Acc: 0.516667 time:35.0 s
+Train: [18/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.687303, Acc: 0.529464 time:35.0 s
+Train: [18/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.679460, Acc: 0.543750 time:34.9 s
+Train: [18/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.675110, Acc: 0.555556 time:34.7 s
+Train: [18/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.678997, Acc: 0.551250 time:35.0 s
+Train: Finish 18 epoch, Loss: 0.678997, Acc: 0.551250
+Time:355.2 s
+Test: [18/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [18/30] iter: 20/50. 126.0/168.0. Acc: 0.750000.
+Test: [18/30] iter: 40/50. 245.0/328.0. Acc: 0.746951.
+Test: Finish 18 epoch, Acc: 0.750000
+----------
+epoch 19
+Train: [19/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.654708, Acc: 0.681250 time:40.5 s
+Train: [19/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.645029, Acc: 0.684375 time:35.0 s
+Train: [19/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.635747, Acc: 0.683333 time:35.0 s
+Train: [19/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.615605, Acc: 0.698438 time:34.8 s
+Train: [19/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.620460, Acc: 0.681250 time:34.8 s
+Train: [19/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.619990, Acc: 0.678125 time:35.0 s
+Train: [19/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.613798, Acc: 0.678571 time:34.2 s
+Train: [19/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.604342, Acc: 0.685937 time:34.2 s
+Train: [19/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.604553, Acc: 0.688194 time:34.1 s
+Train: [19/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.602441, Acc: 0.691875 time:34.1 s
+Train: Finish 19 epoch, Loss: 0.602441, Acc: 0.691875
+Time:351.7 s
+Test: [19/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [19/30] iter: 20/50. 131.0/168.0. Acc: 0.779762.
+Test: [19/30] iter: 40/50. 257.0/328.0. Acc: 0.783537.
+Test: Finish 19 epoch, Acc: 0.790000
+----------
+epoch 20
+Train: [20/30] iter: 20/200. lr: 0.006999999999999999 . Loss: 0.511143, Acc: 0.731250 time:41.5 s
+Train: [20/30] iter: 40/200. lr: 0.006999999999999999 . Loss: 0.527360, Acc: 0.731250 time:34.1 s
+Train: [20/30] iter: 60/200. lr: 0.006999999999999999 . Loss: 0.527138, Acc: 0.731250 time:34.1 s
+Train: [20/30] iter: 80/200. lr: 0.006999999999999999 . Loss: 0.533729, Acc: 0.735938 time:34.0 s
+Train: [20/30] iter: 100/200. lr: 0.006999999999999999 . Loss: 0.572403, Acc: 0.703750 time:34.2 s
+Train: [20/30] iter: 120/200. lr: 0.006999999999999999 . Loss: 0.577458, Acc: 0.705208 time:34.2 s
+Train: [20/30] iter: 140/200. lr: 0.006999999999999999 . Loss: 0.573682, Acc: 0.712500 time:34.2 s
+Train: [20/30] iter: 160/200. lr: 0.006999999999999999 . Loss: 0.574693, Acc: 0.715625 time:34.2 s
+Train: [20/30] iter: 180/200. lr: 0.006999999999999999 . Loss: 0.576539, Acc: 0.709722 time:34.2 s
+Train: [20/30] iter: 200/200. lr: 0.006999999999999999 . Loss: 0.572001, Acc: 0.712500 time:34.1 s
+Train: Finish 20 epoch, Loss: 0.572001, Acc: 0.712500
+Time:348.9 s
+Test: [20/30] iter: 0/50. 1.0/8.0. Acc: 0.125000.
+Test: [20/30] iter: 20/50. 32.0/168.0. Acc: 0.190476.
+Test: [20/30] iter: 40/50. 164.0/328.0. Acc: 0.500000.
+Test: Finish 20 epoch, Acc: 0.590000
+----------
+epoch 21
+Train: [21/30] iter: 20/200. lr: 0.0049 . Loss: 0.517888, Acc: 0.750000 time:40.0 s
+Train: [21/30] iter: 40/200. lr: 0.0049 . Loss: 0.605601, Acc: 0.675000 time:34.7 s
+Train: [21/30] iter: 60/200. lr: 0.0049 . Loss: 0.591511, Acc: 0.691667 time:34.9 s
+Train: [21/30] iter: 80/200. lr: 0.0049 . Loss: 0.569991, Acc: 0.703125 time:34.8 s
+Train: [21/30] iter: 100/200. lr: 0.0049 . Loss: 0.542247, Acc: 0.727500 time:34.6 s
+Train: [21/30] iter: 120/200. lr: 0.0049 . Loss: 0.540226, Acc: 0.736458 time:34.7 s
+Train: [21/30] iter: 140/200. lr: 0.0049 . Loss: 0.535431, Acc: 0.737500 time:34.8 s
+Train: [21/30] iter: 160/200. lr: 0.0049 . Loss: 0.530533, Acc: 0.739062 time:34.8 s
+Train: [21/30] iter: 180/200. lr: 0.0049 . Loss: 0.530573, Acc: 0.736806 time:34.6 s
+Train: [21/30] iter: 200/200. lr: 0.0049 . Loss: 0.526306, Acc: 0.740000 time:34.9 s
+Train: Finish 21 epoch, Loss: 0.526306, Acc: 0.740000
+Time:353.0 s
+Test: [21/30] iter: 0/50. 4.0/8.0. Acc: 0.500000.
+Test: [21/30] iter: 20/50. 113.0/168.0. Acc: 0.672619.
+Test: [21/30] iter: 40/50. 253.0/328.0. Acc: 0.771341.
+Test: Finish 21 epoch, Acc: 0.790000
+----------
+epoch 22
+Train: [22/30] iter: 20/200. lr: 0.0049 . Loss: 0.596737, Acc: 0.718750 time:41.2 s
+Train: [22/30] iter: 40/200. lr: 0.0049 . Loss: 0.542417, Acc: 0.756250 time:34.9 s
+Train: [22/30] iter: 60/200. lr: 0.0049 . Loss: 0.514446, Acc: 0.764583 time:35.0 s
+Train: [22/30] iter: 80/200. lr: 0.0049 . Loss: 0.480477, Acc: 0.785937 time:35.0 s
+Train: [22/30] iter: 100/200. lr: 0.0049 . Loss: 0.480692, Acc: 0.781250 time:34.7 s
+Train: [22/30] iter: 120/200. lr: 0.0049 . Loss: 0.480516, Acc: 0.782292 time:34.9 s
+Train: [22/30] iter: 140/200. lr: 0.0049 . Loss: 0.487528, Acc: 0.783036 time:35.0 s
+Train: [22/30] iter: 160/200. lr: 0.0049 . Loss: 0.494157, Acc: 0.780469 time:35.0 s
+Train: [22/30] iter: 180/200. lr: 0.0049 . Loss: 0.500200, Acc: 0.777083 time:34.8 s
+Train: [22/30] iter: 200/200. lr: 0.0049 . Loss: 0.503018, Acc: 0.773750 time:34.7 s
+Train: Finish 22 epoch, Loss: 0.503018, Acc: 0.773750
+Time:355.4 s
+Test: [22/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [22/30] iter: 20/50. 127.0/168.0. Acc: 0.755952.
+Test: [22/30] iter: 40/50. 262.0/328.0. Acc: 0.798780.
+Test: Finish 22 epoch, Acc: 0.817500
+----------
+epoch 23
+Train: [23/30] iter: 20/200. lr: 0.0049 . Loss: 0.474579, Acc: 0.781250 time:41.2 s
+Train: [23/30] iter: 40/200. lr: 0.0049 . Loss: 0.456362, Acc: 0.784375 time:35.0 s
+Train: [23/30] iter: 60/200. lr: 0.0049 . Loss: 0.472169, Acc: 0.793750 time:35.0 s
+Train: [23/30] iter: 80/200. lr: 0.0049 . Loss: 0.491497, Acc: 0.776563 time:35.0 s
+Train: [23/30] iter: 100/200. lr: 0.0049 . Loss: 0.501490, Acc: 0.773750 time:34.8 s
+Train: [23/30] iter: 120/200. lr: 0.0049 . Loss: 0.502812, Acc: 0.780208 time:34.9 s
+Train: [23/30] iter: 140/200. lr: 0.0049 . Loss: 0.490589, Acc: 0.780357 time:35.1 s
+Train: [23/30] iter: 160/200. lr: 0.0049 . Loss: 0.483209, Acc: 0.779687 time:35.0 s
+Train: [23/30] iter: 180/200. lr: 0.0049 . Loss: 0.487534, Acc: 0.775694 time:34.9 s
+Train: [23/30] iter: 200/200. lr: 0.0049 . Loss: 0.486548, Acc: 0.774375 time:34.7 s
+Train: Finish 23 epoch, Loss: 0.486548, Acc: 0.774375
+Time:355.9 s
+Test: [23/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [23/30] iter: 20/50. 123.0/168.0. Acc: 0.732143.
+Test: [23/30] iter: 40/50. 257.0/328.0. Acc: 0.783537.
+Test: Finish 23 epoch, Acc: 0.807500
+----------
+epoch 24
+Train: [24/30] iter: 20/200. lr: 0.0049 . Loss: 0.478065, Acc: 0.731250 time:42.7 s
+Train: [24/30] iter: 40/200. lr: 0.0049 . Loss: 0.457736, Acc: 0.762500 time:34.8 s
+Train: [24/30] iter: 60/200. lr: 0.0049 . Loss: 0.427416, Acc: 0.791667 time:34.9 s
+Train: [24/30] iter: 80/200. lr: 0.0049 . Loss: 0.470246, Acc: 0.782813 time:35.0 s
+Train: [24/30] iter: 100/200. lr: 0.0049 . Loss: 0.475247, Acc: 0.778750 time:35.0 s
+Train: [24/30] iter: 120/200. lr: 0.0049 . Loss: 0.482624, Acc: 0.779167 time:34.9 s
+Train: [24/30] iter: 140/200. lr: 0.0049 . Loss: 0.484270, Acc: 0.777679 time:34.7 s
+Train: [24/30] iter: 160/200. lr: 0.0049 . Loss: 0.474191, Acc: 0.783594 time:35.0 s
+Train: [24/30] iter: 180/200. lr: 0.0049 . Loss: 0.463406, Acc: 0.790972 time:35.0 s
+Train: [24/30] iter: 200/200. lr: 0.0049 . Loss: 0.483709, Acc: 0.783125 time:34.9 s
+Train: Finish 24 epoch, Loss: 0.483709, Acc: 0.783125
+Time:357.0 s
+Test: [24/30] iter: 0/50. 2.0/8.0. Acc: 0.250000.
+Test: [24/30] iter: 20/50. 61.0/168.0. Acc: 0.363095.
+Test: [24/30] iter: 40/50. 194.0/328.0. Acc: 0.591463.
+Test: Finish 24 epoch, Acc: 0.665000
+----------
+epoch 25
+Train: [25/30] iter: 20/200. lr: 0.0049 . Loss: 0.538622, Acc: 0.712500 time:42.3 s
+Train: [25/30] iter: 40/200. lr: 0.0049 . Loss: 0.463508, Acc: 0.768750 time:35.0 s
+Train: [25/30] iter: 60/200. lr: 0.0049 . Loss: 0.457641, Acc: 0.779167 time:35.0 s
+Train: [25/30] iter: 80/200. lr: 0.0049 . Loss: 0.445692, Acc: 0.789062 time:34.7 s
+Train: [25/30] iter: 100/200. lr: 0.0049 . Loss: 0.452688, Acc: 0.786250 time:34.9 s
+Train: [25/30] iter: 120/200. lr: 0.0049 . Loss: 0.449507, Acc: 0.790625 time:35.0 s
+Train: [25/30] iter: 140/200. lr: 0.0049 . Loss: 0.441516, Acc: 0.793750 time:35.0 s
+Train: [25/30] iter: 160/200. lr: 0.0049 . Loss: 0.442387, Acc: 0.793750 time:34.7 s
+Train: [25/30] iter: 180/200. lr: 0.0049 . Loss: 0.447609, Acc: 0.790972 time:34.9 s
+Train: [25/30] iter: 200/200. lr: 0.0049 . Loss: 0.445267, Acc: 0.795000 time:34.9 s
+Train: Finish 25 epoch, Loss: 0.445267, Acc: 0.795000
+Time:356.6 s
+Test: [25/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [25/30] iter: 20/50. 142.0/168.0. Acc: 0.845238.
+Test: [25/30] iter: 40/50. 280.0/328.0. Acc: 0.853659.
+Test: Finish 25 epoch, Acc: 0.847500
+----------
+epoch 26
+Train: [26/30] iter: 20/200. lr: 0.0049 . Loss: 0.446406, Acc: 0.775000 time:42.4 s
+Train: [26/30] iter: 40/200. lr: 0.0049 . Loss: 0.439089, Acc: 0.790625 time:34.7 s
+Train: [26/30] iter: 60/200. lr: 0.0049 . Loss: 0.404576, Acc: 0.808333 time:35.0 s
+Train: [26/30] iter: 80/200. lr: 0.0049 . Loss: 0.425743, Acc: 0.806250 time:35.0 s
+Train: [26/30] iter: 100/200. lr: 0.0049 . Loss: 0.414926, Acc: 0.808750 time:34.9 s
+Train: [26/30] iter: 120/200. lr: 0.0049 . Loss: 0.426198, Acc: 0.804167 time:34.7 s
+Train: [26/30] iter: 140/200. lr: 0.0049 . Loss: 0.433677, Acc: 0.797321 time:35.0 s
+Train: [26/30] iter: 160/200. lr: 0.0049 . Loss: 0.439288, Acc: 0.795312 time:35.0 s
+Train: [26/30] iter: 180/200. lr: 0.0049 . Loss: 0.439467, Acc: 0.795139 time:35.0 s
+Train: [26/30] iter: 200/200. lr: 0.0049 . Loss: 0.430994, Acc: 0.800625 time:34.7 s
+Train: Finish 26 epoch, Loss: 0.430994, Acc: 0.800625
+Time:356.6 s
+Test: [26/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [26/30] iter: 20/50. 137.0/168.0. Acc: 0.815476.
+Test: [26/30] iter: 40/50. 268.0/328.0. Acc: 0.817073.
+Test: Finish 26 epoch, Acc: 0.827500
+----------
+epoch 27
+Train: [27/30] iter: 20/200. lr: 0.0049 . Loss: 0.408155, Acc: 0.831250 time:42.3 s
+Train: [27/30] iter: 40/200. lr: 0.0049 . Loss: 0.436183, Acc: 0.828125 time:34.8 s
+Train: [27/30] iter: 60/200. lr: 0.0049 . Loss: 0.411405, Acc: 0.822917 time:34.8 s
+Train: [27/30] iter: 80/200. lr: 0.0049 . Loss: 0.413169, Acc: 0.818750 time:35.0 s
+Train: [27/30] iter: 100/200. lr: 0.0049 . Loss: 0.436381, Acc: 0.810000 time:35.0 s
+Train: [27/30] iter: 120/200. lr: 0.0049 . Loss: 0.439573, Acc: 0.801042 time:34.7 s
+Train: [27/30] iter: 140/200. lr: 0.0049 . Loss: 0.428570, Acc: 0.806250 time:34.9 s
+Train: [27/30] iter: 160/200. lr: 0.0049 . Loss: 0.431361, Acc: 0.805469 time:35.0 s
+Train: [27/30] iter: 180/200. lr: 0.0049 . Loss: 0.429102, Acc: 0.811111 time:35.0 s
+Train: [27/30] iter: 200/200. lr: 0.0049 . Loss: 0.426144, Acc: 0.808750 time:34.7 s
+Train: Finish 27 epoch, Loss: 0.426144, Acc: 0.808750
+Time:356.4 s
+Test: [27/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [27/30] iter: 20/50. 135.0/168.0. Acc: 0.803571.
+Test: [27/30] iter: 40/50. 270.0/328.0. Acc: 0.823171.
+Test: Finish 27 epoch, Acc: 0.830000
+----------
+epoch 28
+Train: [28/30] iter: 20/200. lr: 0.0049 . Loss: 0.338353, Acc: 0.887500 time:41.5 s
+Train: [28/30] iter: 40/200. lr: 0.0049 . Loss: 0.377952, Acc: 0.865625 time:34.9 s
+Train: [28/30] iter: 60/200. lr: 0.0049 . Loss: 0.360104, Acc: 0.866667 time:34.7 s
+Train: [28/30] iter: 80/200. lr: 0.0049 . Loss: 0.383030, Acc: 0.848437 time:35.0 s
+Train: [28/30] iter: 100/200. lr: 0.0049 . Loss: 0.393225, Acc: 0.836250 time:35.0 s
+Train: [28/30] iter: 120/200. lr: 0.0049 . Loss: 0.393786, Acc: 0.832292 time:35.0 s
+Train: [28/30] iter: 140/200. lr: 0.0049 . Loss: 0.408461, Acc: 0.822321 time:34.7 s
+Train: [28/30] iter: 160/200. lr: 0.0049 . Loss: 0.413998, Acc: 0.820312 time:35.0 s
+Train: [28/30] iter: 180/200. lr: 0.0049 . Loss: 0.409679, Acc: 0.823611 time:35.0 s
+Train: [28/30] iter: 200/200. lr: 0.0049 . Loss: 0.413922, Acc: 0.820000 time:35.0 s
+Train: Finish 28 epoch, Loss: 0.413922, Acc: 0.820000
+Time:356.0 s
+Test: [28/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [28/30] iter: 20/50. 127.0/168.0. Acc: 0.755952.
+Test: [28/30] iter: 40/50. 268.0/328.0. Acc: 0.817073.
+Test: Finish 28 epoch, Acc: 0.830000
+----------
+epoch 29
+Train: [29/30] iter: 20/200. lr: 0.0049 . Loss: 0.326961, Acc: 0.862500 time:42.0 s
+Train: [29/30] iter: 40/200. lr: 0.0049 . Loss: 0.334775, Acc: 0.853125 time:35.0 s
+Train: [29/30] iter: 60/200. lr: 0.0049 . Loss: 0.322760, Acc: 0.866667 time:35.0 s
+Train: [29/30] iter: 80/200. lr: 0.0049 . Loss: 0.362497, Acc: 0.840625 time:34.8 s
+Train: [29/30] iter: 100/200. lr: 0.0049 . Loss: 0.387844, Acc: 0.833750 time:34.8 s
+Train: [29/30] iter: 120/200. lr: 0.0049 . Loss: 0.390577, Acc: 0.826042 time:35.0 s
+Train: [29/30] iter: 140/200. lr: 0.0049 . Loss: 0.381096, Acc: 0.827679 time:35.0 s
+Train: [29/30] iter: 160/200. lr: 0.0049 . Loss: 0.382948, Acc: 0.831250 time:34.8 s
+Train: [29/30] iter: 180/200. lr: 0.0049 . Loss: 0.384918, Acc: 0.829167 time:34.7 s
+Train: [29/30] iter: 200/200. lr: 0.0049 . Loss: 0.387703, Acc: 0.830000 time:35.0 s
+Train: Finish 29 epoch, Loss: 0.387703, Acc: 0.830000
+Time:356.4 s
+Test: [29/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [29/30] iter: 20/50. 139.0/168.0. Acc: 0.827381.
+Test: [29/30] iter: 40/50. 273.0/328.0. Acc: 0.832317.
+Test: Finish 29 epoch, Acc: 0.830000
+----------
+epoch 30
+Train: [30/30] iter: 20/200. lr: 0.0049 . Loss: 0.356792, Acc: 0.843750 time:42.4 s
+Train: [30/30] iter: 40/200. lr: 0.0049 . Loss: 0.354200, Acc: 0.843750 time:34.7 s
+Train: [30/30] iter: 60/200. lr: 0.0049 . Loss: 0.362772, Acc: 0.839583 time:35.1 s
+Train: [30/30] iter: 80/200. lr: 0.0049 . Loss: 0.369822, Acc: 0.840625 time:35.9 s
+Train: [30/30] iter: 100/200. lr: 0.0049 . Loss: 0.372857, Acc: 0.838750 time:35.0 s
+Train: [30/30] iter: 120/200. lr: 0.0049 . Loss: 0.371555, Acc: 0.839583 time:35.0 s
+Train: [30/30] iter: 140/200. lr: 0.0049 . Loss: 0.367407, Acc: 0.841964 time:36.2 s
+Train: [30/30] iter: 160/200. lr: 0.0049 . Loss: 0.380318, Acc: 0.835156 time:34.9 s
+Train: [30/30] iter: 180/200. lr: 0.0049 . Loss: 0.381935, Acc: 0.832639 time:34.7 s
+Train: [30/30] iter: 200/200. lr: 0.0049 . Loss: 0.383327, Acc: 0.832500 time:34.9 s
+Train: Finish 30 epoch, Loss: 0.383327, Acc: 0.832500
+Time:358.9 s
+Test: [30/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [30/30] iter: 20/50. 137.0/168.0. Acc: 0.815476.
+Test: [30/30] iter: 40/50. 268.0/328.0. Acc: 0.817073.
+Test: Finish 30 epoch, Acc: 0.830000
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 4.0/8.0. Acc: 0.500000.
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 4.0/8.0. Acc: 0.500000.
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 4.0/8.0. Acc: 0.500000.
+Test: iter: 20/50. 107.0/168.0. Acc: 0.636905.
+Test: iter: 40/50. 244.0/328.0. Acc: 0.743902.
+Test: Loss:0.524825 Acc: 0.780000
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 4.0/8.0. Acc: 0.500000.
+Test: iter: 20/50. 107.0/168.0. Acc: 0.636905.
+Test: iter: 40/50. 244.0/328.0. Acc: 0.743902.
+Test: Loss:0.524825 Acc: 0.780000
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 4.0/8.0. Acc: 0.500000.
+Test: iter: 20/50. 107.0/168.0. Acc: 0.636905.
+Test: iter: 40/50. 244.0/328.0. Acc: 0.743902.
+Test: Loss:0.524825 Acc: 0.780000
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: iter: 20/50. 168.0/168.0. Acc: 1.000000.
+Test: iter: 40/50. 200.0/328.0. Acc: 0.609756.
+Test: Loss:0.708785 Acc: 0.500000
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: iter: 20/50. 17.0/168.0. Acc: 0.101190.
+Test: iter: 40/50. 145.0/328.0. Acc: 0.442073.
+Test: Loss:0.667525 Acc: 0.542500
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: iter: 20/50. 17.0/168.0. Acc: 0.101190.
+Test: iter: 40/50. 145.0/328.0. Acc: 0.442073.
+Test: Loss:0.667525 217.0/400.0 Acc: 0.542500
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: iter: 20/50. 16.0/168.0. Acc: 0.095238.
+Test: iter: 40/50. 142.0/328.0. Acc: 0.432927.
+Test: Loss:0.669695 214.0/400.0 Acc: 0.535000
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+Test: iter: 0/50. 0.0/8.0. Acc: 0.000000.
+tensor([1, 1, 0, 1, 1, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 0, 1, 1, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 0, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 0, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 0, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 0, 1, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 0, 1, 0, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 0, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 1, 1, 1, 1, 0, 1, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 0, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 0, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+Test: iter: 20/50. 16.0/168.0. Acc: 0.095238.
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 0, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+Test: iter: 40/50. 142.0/328.0. Acc: 0.432927.
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+Test: Loss:0.669695 214.0/400.0 Acc: 0.535000
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+tensor([0, 0, 0, 1, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+Test: iter: 0/50. 7.0/8.0. Acc: 0.875000.
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 1, 1, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 0, 0, 1, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 0, 1, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 1, 0, 0, 0, 1, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 1, 0, 0, 1, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 0, 0, 1, 0, 1, 0, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 1, 1, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 1, 1, 0, 1, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 0, 1, 1, 0, 1, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 1, 0, 0, 1, 0, 1, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 1, 1, 0, 0, 1, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 1, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 1, 0, 1, 0, 1, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 1, 0, 0, 0, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 1, 1, 0, 1, 0, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+Test: iter: 20/50. 127.0/168.0. Acc: 0.755952.
+tensor([1, 0, 1, 0, 1, 1, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 1, 0, 0, 0, 1, 0, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 1, 1, 0, 1, 0, 1, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 1, 1, 1, 1, 0, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 0, 1, 1, 1, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 0, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 0, 1, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 0, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 0, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 0, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 0, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 0, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+Test: iter: 40/50. 262.0/328.0. Acc: 0.798780.
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 1, 1, 1, 1, 0, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 0, 0, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 0, 1, 0, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 0, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+Test: Loss:0.468500 327.0/400.0 Acc: 0.817500
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+Test: iter: 0/50. 8.0/8.0. Acc: 1.000000.
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+Test: iter: 20/50. 168.0/168.0. Acc: 1.000000.
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+Test: iter: 40/50. 200.0/328.0. Acc: 0.609756.
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+Test: Loss:0.708788 200.0/400.0 Acc: 0.500000
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+tensor([1, 1, 1, 1, 1, 0, 0, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+Test: iter: 0/50. 2.0/8.0. Acc: 0.250000.
+tensor([1, 1, 0, 0, 1, 0, 1, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 1, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 0, 1, 0, 0, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 1, 1, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 1, 1, 1, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 0, 0, 0, 1, 1, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 0, 0, 1, 0, 1, 0, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 0, 0, 0, 1, 1, 1, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 1, 0, 1, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 0, 1, 0, 1, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 0, 0, 0, 1, 0, 1, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 0, 1, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 1, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 1, 1, 1, 0, 1, 0, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 1, 0, 0, 0, 0, 0, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 0, 1, 0, 1, 1, 1, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+Test: iter: 20/50. 99.0/168.0. Acc: 0.589286.
+tensor([1, 0, 1, 0, 0, 1, 1, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 0, 1, 1, 1, 1, 0, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 0], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 0, 0, 0, 0, 0, 0, 1], device='cuda:0') tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0')
+tensor([0, 1, 1, 0, 0, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 0, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 0, 1, 1, 1, 1, 0, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 0, 1, 0, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 1, 1, 1, 1, 0, 1, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 0, 1, 1, 1, 0, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 0, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 0, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 0, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 0, 1, 1, 1, 1, 0, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 0, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 0, 0, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 1, 0, 1, 1, 1, 0, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+Test: iter: 40/50. 216.0/328.0. Acc: 0.658537.
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([0, 1, 1, 1, 1, 0, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 0, 1, 1, 1, 1, 1, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 0, 0, 1, 0, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 0], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 0, 0, 0, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 0, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 0, 1, 1, 0, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0') tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0')
+Test: Loss:0.700019 274.0/400.0 Acc: 0.685000
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+init test
+init test
+init test
+init test
+init test
+init test
+init test
+init test
+init test
+init test
+init test
+init test
+init test
+init test
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+init test
+init test
+init test
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: iter: 20/50. 142.0/168.0. Acc: 0.845238.
+Test: iter: 40/50. 280.0/328.0. Acc: 0.853659.
+Test: Loss:0.402667 339.0/400.0 Acc: 0.847500

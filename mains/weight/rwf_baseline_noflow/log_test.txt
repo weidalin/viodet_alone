@@ -1,0 +1,192 @@
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: iter: 20/50. 142.0/168.0. Acc: 0.845238.
+Test: iter: 40/50. 280.0/328.0. Acc: 0.853659.
+Test: Loss:0.402667 339.0/400.0 Acc: 0.847500
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: iter: 20/50. 142.0/168.0. Acc: 0.845238.
+Test: iter: 40/50. 280.0/328.0. Acc: 0.853659.
+Test: Loss: 0.402667 339.0/400.0 Acc: 0.847500
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: iter: 20/50. 142.0/168.0. Acc: 0.845238.
+Test: iter: 40/50. 280.0/328.0. Acc: 0.853659.
+Test: Loss: 0.402667 339.0/400.0 Acc: 0.847500
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: iter: 20/50. 142.0/168.0. Acc: 0.845238.
+Test: iter: 40/50. 280.0/328.0. Acc: 0.853659.
+Test: Loss: 0.402667 339.0/400.0 Acc: 0.847500
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: iter: 20/50. 142.0/168.0. Acc: 0.845238.
+Test: iter: 40/50. 280.0/328.0. Acc: 0.853659.
+Test: Loss: 0.402667 339.0/400.0 Acc: 0.847500
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: iter: 20/50. 142.0/168.0. Acc: 0.845238.
+Test: iter: 40/50. 280.0/328.0. Acc: 0.853659.
+Test: Loss: 0.402667 339.0/400.0 Acc: 0.847500
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: iter: 20/50. 142.0/168.0. Acc: 0.845238.
+Test: iter: 40/50. 280.0/328.0. Acc: 0.853659.
+Test: Loss: 0.402667 339.0/400.0 Acc: 0.847500
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: iter: 20/50. 142.0/168.0. Acc: 0.845238.
+Test: iter: 40/50. 280.0/328.0. Acc: 0.853659.
+Test: Loss: 0.402667 339.0/400.0 Acc: 0.847500
+Found 27 files belonging to 1 dirs.
+Found 27 files belonging to 1 dirs.
+Found 27 files belonging to 1 dirs.
+Found 142 files belonging to 3 dirs.
+Found 109 files belonging to 3 dirs.
+Found 44 files belonging to 3 dirs.
+Found 44 files belonging to 3 dirs.
+Found 44 files belonging to 3 dirs.
+Found 44 files belonging to 3 dirs.
+Found 44 files belonging to 3 dirs.
+Found 109 files belonging to 4 dirs.
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 4.0/8.0. Acc: 0.500000.
+Test: iter: 20/50. 107.0/168.0. Acc: 0.636905.
+Test: iter: 40/50. 244.0/328.0. Acc: 0.743902.
+Test: Loss: 0.524825 312.0/400.0 Acc: 0.780000
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 4.0/8.0. Acc: 0.500000.
+Test: iter: 20/50. 107.0/168.0. Acc: 0.636905.
+Test: iter: 40/50. 244.0/328.0. Acc: 0.743902.
+Test: Loss: 0.524825 312.0/400.0 Acc: 0.780000
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 4.0/8.0. Acc: 0.500000.
+Test: iter: 20/50. 107.0/168.0. Acc: 0.636905.
+Test: iter: 40/50. 244.0/328.0. Acc: 0.743902.
+Test: Loss: 0.524825 312.0/400.0 Acc: 0.780000
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 4.0/8.0. Acc: 0.500000.
+Test: iter: 20/50. 107.0/168.0. Acc: 0.636905.
+Test: iter: 40/50. 244.0/328.0. Acc: 0.743902.
+Test: Loss: 0.524825 312.0/400.0 Acc: 0.780000
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+torch.Size([8, 64, 224, 224, 3])
+Test: iter: 0/50. 4.0/8.0. Acc: 0.500000.
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+Test: iter: 20/50. 107.0/168.0. Acc: 0.636905.
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+Test: iter: 40/50. 244.0/328.0. Acc: 0.743902.
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+torch.Size([8, 64, 224, 224, 3])
+Test: Loss: 0.524825 312.0/400.0 Acc: 0.780000
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 4.0/8.0. Acc: 0.500000.
+Test: iter: 20/50. 107.0/168.0. Acc: 0.636905.
+Test: iter: 40/50. 244.0/328.0. Acc: 0.743902.
+Test: Loss: 0.524825 312.0/400.0 Acc: 0.780000
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 4.0/8.0. Acc: 0.500000.
+Test: iter: 20/50. 107.0/168.0. Acc: 0.636905.
+Test: iter: 40/50. 244.0/328.0. Acc: 0.743902.
+Test: Loss: 0.524825 312.0/400.0 Acc: 0.780000
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+Test: iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: iter: 20/50. 142.0/168.0. Acc: 0.845238.
+Test: iter: 40/50. 280.0/328.0. Acc: 0.853659.
+Test: Loss: 0.402667 339.0/400.0 Acc: 0.847500

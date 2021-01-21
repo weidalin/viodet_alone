@@ -1,0 +1,1179 @@
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 9600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 2400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 2400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+DataParallel(
+  (module): RWF_RGB(
+    (relu): ReLU(inplace=True)
+    (conv3d11): Conv3d(3, 16, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d12): Conv3d(16, 16, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling1): MaxPool3d(kernel_size=(1, 2, 2), stride=(1, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d21): Conv3d(16, 16, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d22): Conv3d(16, 16, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling2): MaxPool3d(kernel_size=(1, 2, 2), stride=(1, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d31): Conv3d(16, 32, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d32): Conv3d(32, 32, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling3): MaxPool3d(kernel_size=(1, 2, 2), stride=(1, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d41): Conv3d(32, 32, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d42): Conv3d(32, 32, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling4): MaxPool3d(kernel_size=(1, 2, 2), stride=(1, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (max_pooling5): MaxPool3d(kernel_size=(8, 1, 1), stride=(8, 1, 1), padding=0, dilation=1, ceil_mode=False)
+    (conv3d61): Conv3d(32, 64, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d62): Conv3d(64, 64, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling6): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d71): Conv3d(64, 64, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d72): Conv3d(64, 64, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling7): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d81): Conv3d(64, 128, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d82): Conv3d(128, 128, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling8): MaxPool3d(kernel_size=(2, 3, 3), stride=(2, 3, 3), padding=0, dilation=1, ceil_mode=False)
+    (L1): Linear(in_features=128, out_features=128, bias=True)
+    (dropout): Dropout(p=0.2, inplace=False)
+    (L2): Linear(in_features=128, out_features=32, bias=True)
+    (Classify): Linear(in_features=32, out_features=2, bias=True)
+  )
+)
+Model size: 0.24840M
+----------
+epoch 1
+Train: [1/30] iter: 20/1200. lr: 0.0001 . Loss: 17.817210, Acc: 0.425000 time:10.2 s
+Train: [1/30] iter: 40/1200. lr: 0.0001 . Loss: 9.273868, Acc: 0.471875 time:6.9 s
+Train: [1/30] iter: 60/1200. lr: 0.0001 . Loss: 6.424643, Acc: 0.464583 time:6.9 s
+Train: [1/30] iter: 80/1200. lr: 0.0001 . Loss: 4.994644, Acc: 0.470313 time:6.7 s
+Train: [1/30] iter: 100/1200. lr: 0.0001 . Loss: 4.135237, Acc: 0.473750 time:6.6 s
+Train: [1/30] iter: 120/1200. lr: 0.0001 . Loss: 3.562003, Acc: 0.478125 time:6.8 s
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 9600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 2400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 2400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+DataParallel(
+  (module): RWF_RGB(
+    (relu): ReLU(inplace=True)
+    (conv3d11): Conv3d(3, 16, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d12): Conv3d(16, 16, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling1): MaxPool3d(kernel_size=(1, 2, 2), stride=(1, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d21): Conv3d(16, 16, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d22): Conv3d(16, 16, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling2): MaxPool3d(kernel_size=(1, 2, 2), stride=(1, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d31): Conv3d(16, 32, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d32): Conv3d(32, 32, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling3): MaxPool3d(kernel_size=(1, 2, 2), stride=(1, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d41): Conv3d(32, 32, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d42): Conv3d(32, 32, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling4): MaxPool3d(kernel_size=(1, 2, 2), stride=(1, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (max_pooling5): MaxPool3d(kernel_size=(8, 1, 1), stride=(8, 1, 1), padding=0, dilation=1, ceil_mode=False)
+    (conv3d61): Conv3d(32, 64, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d62): Conv3d(64, 64, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling6): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d71): Conv3d(64, 64, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d72): Conv3d(64, 64, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling7): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d81): Conv3d(64, 128, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d82): Conv3d(128, 128, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling8): MaxPool3d(kernel_size=(2, 3, 3), stride=(2, 3, 3), padding=0, dilation=1, ceil_mode=False)
+    (L1): Linear(in_features=128, out_features=128, bias=True)
+    (dropout): Dropout(p=0.2, inplace=False)
+    (L2): Linear(in_features=128, out_features=32, bias=True)
+    (Classify): Linear(in_features=32, out_features=2, bias=True)
+  )
+)
+Model size: 0.24840M
+----------
+epoch 1
+Train: [1/30] iter: 20/1200. lr: 0.0001 . Loss: 29.711228, Acc: 0.512500 time:11.3 s
+Train: [1/30] iter: 40/1200. lr: 0.0001 . Loss: 15.242302, Acc: 0.493750 time:5.0 s
+Train: [1/30] iter: 60/1200. lr: 0.0001 . Loss: 10.403255, Acc: 0.487500 time:4.9 s
+Train: [1/30] iter: 80/1200. lr: 0.0001 . Loss: 7.977543, Acc: 0.468750 time:4.9 s
+Train: [1/30] iter: 100/1200. lr: 0.0001 . Loss: 6.523124, Acc: 0.473750 time:5.0 s
+Train: [1/30] iter: 120/1200. lr: 0.0001 . Loss: 5.550917, Acc: 0.473958 time:5.0 s
+Train: [1/30] iter: 140/1200. lr: 0.0001 . Loss: 4.857805, Acc: 0.479464 time:4.9 s
+Train: [1/30] iter: 160/1200. lr: 0.0001 . Loss: 4.337574, Acc: 0.478125 time:4.9 s
+Train: [1/30] iter: 180/1200. lr: 0.0001 . Loss: 3.934157, Acc: 0.476389 time:4.9 s
+Train: [1/30] iter: 200/1200. lr: 0.0001 . Loss: 3.610171, Acc: 0.479375 time:5.0 s
+Train: [1/30] iter: 220/1200. lr: 0.0001 . Loss: 3.344932, Acc: 0.478977 time:5.0 s
+Train: [1/30] iter: 240/1200. lr: 0.0001 . Loss: 3.123832, Acc: 0.480729 time:5.0 s
+Train: [1/30] iter: 260/1200. lr: 0.0001 . Loss: 2.936797, Acc: 0.486058 time:4.9 s
+Train: [1/30] iter: 280/1200. lr: 0.0001 . Loss: 2.776800, Acc: 0.491518 time:5.0 s
+Train: [1/30] iter: 300/1200. lr: 0.0001 . Loss: 2.638242, Acc: 0.490000 time:5.0 s
+Train: [1/30] iter: 320/1200. lr: 0.0001 . Loss: 2.517965, Acc: 0.488672 time:4.8 s
+Train: [1/30] iter: 340/1200. lr: 0.0001 . Loss: 2.410903, Acc: 0.488235 time:4.9 s
+Train: [1/30] iter: 360/1200. lr: 0.0001 . Loss: 2.315478, Acc: 0.486806 time:5.0 s
+Train: [1/30] iter: 380/1200. lr: 0.0001 . Loss: 2.230159, Acc: 0.485855 time:4.8 s
+Train: [1/30] iter: 400/1200. lr: 0.0001 . Loss: 2.153152, Acc: 0.487500 time:4.8 s
+Train: [1/30] iter: 420/1200. lr: 0.0001 . Loss: 2.083583, Acc: 0.487798 time:4.8 s
+Train: [1/30] iter: 440/1200. lr: 0.0001 . Loss: 2.020446, Acc: 0.489489 time:4.7 s
+Train: [1/30] iter: 460/1200. lr: 0.0001 . Loss: 1.963039, Acc: 0.487500 time:4.8 s
+Train: [1/30] iter: 480/1200. lr: 0.0001 . Loss: 1.909894, Acc: 0.489583 time:4.8 s
+Train: [1/30] iter: 500/1200. lr: 0.0001 . Loss: 1.861207, Acc: 0.490000 time:4.8 s
+Train: [1/30] iter: 520/1200. lr: 0.0001 . Loss: 1.816182, Acc: 0.491827 time:4.7 s
+Train: [1/30] iter: 540/1200. lr: 0.0001 . Loss: 1.774510, Acc: 0.494213 time:4.8 s
+Train: [1/30] iter: 560/1200. lr: 0.0001 . Loss: 1.736000, Acc: 0.495089 time:4.8 s
+Train: [1/30] iter: 580/1200. lr: 0.0001 . Loss: 1.700071, Acc: 0.495690 time:4.8 s
+Train: [1/30] iter: 600/1200. lr: 0.0001 . Loss: 1.666660, Acc: 0.495417 time:4.7 s
+Train: [1/30] iter: 620/1200. lr: 0.0001 . Loss: 1.635344, Acc: 0.495766 time:4.8 s
+Train: [1/30] iter: 640/1200. lr: 0.0001 . Loss: 1.605514, Acc: 0.498047 time:4.8 s
+Train: [1/30] iter: 660/1200. lr: 0.0001 . Loss: 1.577672, Acc: 0.498864 time:4.8 s
+Train: [1/30] iter: 680/1200. lr: 0.0001 . Loss: 1.551765, Acc: 0.498162 time:4.8 s
+Train: [1/30] iter: 700/1200. lr: 0.0001 . Loss: 1.527137, Acc: 0.497857 time:4.7 s
+Train: [1/30] iter: 720/1200. lr: 0.0001 . Loss: 1.503916, Acc: 0.497569 time:4.7 s
+Train: [1/30] iter: 740/1200. lr: 0.0001 . Loss: 1.481547, Acc: 0.500000 time:4.7 s
+Train: [1/30] iter: 760/1200. lr: 0.0001 . Loss: 1.461067, Acc: 0.498520 time:4.7 s
+Train: [1/30] iter: 780/1200. lr: 0.0001 . Loss: 1.441553, Acc: 0.498397 time:4.8 s
+Train: [1/30] iter: 800/1200. lr: 0.0001 . Loss: 1.422748, Acc: 0.499531 time:4.7 s
+Train: [1/30] iter: 820/1200. lr: 0.0001 . Loss: 1.404907, Acc: 0.499848 time:4.7 s
+Train: [1/30] iter: 840/1200. lr: 0.0001 . Loss: 1.387998, Acc: 0.498958 time:4.7 s
+Train: [1/30] iter: 860/1200. lr: 0.0001 . Loss: 1.371887, Acc: 0.499128 time:4.7 s
+Train: [1/30] iter: 880/1200. lr: 0.0001 . Loss: 1.356561, Acc: 0.498011 time:4.7 s
+Train: [1/30] iter: 900/1200. lr: 0.0001 . Loss: 1.341840, Acc: 0.498333 time:4.7 s
+Train: [1/30] iter: 920/1200. lr: 0.0001 . Loss: 1.327874, Acc: 0.498913 time:4.7 s
+Train: [1/30] iter: 940/1200. lr: 0.0001 . Loss: 1.314293, Acc: 0.498138 time:4.7 s
+Train: [1/30] iter: 960/1200. lr: 0.0001 . Loss: 1.301313, Acc: 0.498047 time:4.7 s
+Train: [1/30] iter: 980/1200. lr: 0.0001 . Loss: 1.288984, Acc: 0.496301 time:4.7 s
+Train: [1/30] iter: 1000/1200. lr: 0.0001 . Loss: 1.277140, Acc: 0.495750 time:4.7 s
+Train: [1/30] iter: 1020/1200. lr: 0.0001 . Loss: 1.265660, Acc: 0.497059 time:4.7 s
+Train: [1/30] iter: 1040/1200. lr: 0.0001 . Loss: 1.254808, Acc: 0.497115 time:4.7 s
+Train: [1/30] iter: 1060/1200. lr: 0.0001 . Loss: 1.244185, Acc: 0.498113 time:4.7 s
+Train: [1/30] iter: 1080/1200. lr: 0.0001 . Loss: 1.234019, Acc: 0.498380 time:4.7 s
+Train: [1/30] iter: 1100/1200. lr: 0.0001 . Loss: 1.224395, Acc: 0.496932 time:4.7 s
+Train: [1/30] iter: 1120/1200. lr: 0.0001 . Loss: 1.214870, Acc: 0.496987 time:4.7 s
+Train: [1/30] iter: 1140/1200. lr: 0.0001 . Loss: 1.205698, Acc: 0.497039 time:4.7 s
+Train: [1/30] iter: 1160/1200. lr: 0.0001 . Loss: 1.196888, Acc: 0.496875 time:4.7 s
+Train: [1/30] iter: 1180/1200. lr: 0.0001 . Loss: 1.188436, Acc: 0.496610 time:4.7 s
+Train: [1/30] iter: 1200/1200. lr: 0.0001 . Loss: 1.180176, Acc: 0.497812 time:4.5 s
+Train: Finish 1 epoch, Loss: 1.180176, Acc: 0.497812
+Time:293.8 s
+Test: [1/30] iter: 0/300. 5.0/8.0. Acc: 0.625000.
+Test: [1/30] iter: 20/300. 143.0/168.0. Acc: 0.851190.
+Test: [1/30] iter: 40/300. 281.0/328.0. Acc: 0.856707.
+Test: [1/30] iter: 60/300. 424.0/488.0. Acc: 0.868852.
+Test: [1/30] iter: 80/300. 564.0/648.0. Acc: 0.870370.
+Test: [1/30] iter: 100/300. 698.0/808.0. Acc: 0.863861.
+Test: [1/30] iter: 120/300. 832.0/968.0. Acc: 0.859504.
+Test: [1/30] iter: 140/300. 970.0/1128.0. Acc: 0.859929.
+Test: [1/30] iter: 160/300. 1041.0/1288.0. Acc: 0.808230.
+Test: [1/30] iter: 180/300. 1060.0/1448.0. Acc: 0.732044.
+Test: [1/30] iter: 200/300. 1082.0/1608.0. Acc: 0.672886.
+Test: [1/30] iter: 220/300. 1099.0/1768.0. Acc: 0.621606.
+Test: [1/30] iter: 240/300. 1111.0/1928.0. Acc: 0.576245.
+Test: [1/30] iter: 260/300. 1140.0/2088.0. Acc: 0.545977.
+Test: [1/30] iter: 280/300. 1157.0/2248.0. Acc: 0.514680.
+Test: Finish 1 epoch, Acc: 0.488750
+Test: [1/30] iter: 0/300. 5.0/8.0. Acc: 0.625000.
+Test: [1/30] iter: 20/300. 143.0/168.0. Acc: 0.851190.
+Test: [1/30] iter: 40/300. 281.0/328.0. Acc: 0.856707.
+Test: [1/30] iter: 60/300. 424.0/488.0. Acc: 0.868852.
+Test: [1/30] iter: 80/300. 564.0/648.0. Acc: 0.870370.
+Test: [1/30] iter: 100/300. 698.0/808.0. Acc: 0.863861.
+Test: [1/30] iter: 120/300. 832.0/968.0. Acc: 0.859504.
+Test: [1/30] iter: 140/300. 970.0/1128.0. Acc: 0.859929.
+Test: [1/30] iter: 160/300. 1041.0/1288.0. Acc: 0.808230.
+Test: [1/30] iter: 180/300. 1060.0/1448.0. Acc: 0.732044.
+Test: [1/30] iter: 200/300. 1082.0/1608.0. Acc: 0.672886.
+Test: [1/30] iter: 220/300. 1099.0/1768.0. Acc: 0.621606.
+Test: [1/30] iter: 240/300. 1111.0/1928.0. Acc: 0.576245.
+Test: [1/30] iter: 260/300. 1140.0/2088.0. Acc: 0.545977.
+Test: [1/30] iter: 280/300. 1157.0/2248.0. Acc: 0.514680.
+Test: Finish 1 epoch, Acc: 0.488750
+----------
+epoch 2
+Train: [2/30] iter: 20/1200. lr: 0.0001 . Loss: 0.692495, Acc: 0.537500 time:7.7 s
+Train: [2/30] iter: 40/1200. lr: 0.0001 . Loss: 0.692619, Acc: 0.531250 time:4.6 s
+Train: [2/30] iter: 60/1200. lr: 0.0001 . Loss: 0.693220, Acc: 0.520833 time:4.8 s
+Train: [2/30] iter: 80/1200. lr: 0.0001 . Loss: 0.692676, Acc: 0.529687 time:4.8 s
+Train: [2/30] iter: 100/1200. lr: 0.0001 . Loss: 0.694788, Acc: 0.508750 time:4.6 s
+Train: [2/30] iter: 120/1200. lr: 0.0001 . Loss: 0.694251, Acc: 0.511458 time:4.8 s
+Train: [2/30] iter: 140/1200. lr: 0.0001 . Loss: 0.694378, Acc: 0.509821 time:4.9 s
+Train: [2/30] iter: 160/1200. lr: 0.0001 . Loss: 0.694537, Acc: 0.503906 time:4.6 s
+Train: [2/30] iter: 180/1200. lr: 0.0001 . Loss: 0.694586, Acc: 0.500000 time:4.8 s
+Train: [2/30] iter: 200/1200. lr: 0.0001 . Loss: 0.694528, Acc: 0.500000 time:4.9 s
+Train: [2/30] iter: 220/1200. lr: 0.0001 . Loss: 0.694471, Acc: 0.497159 time:4.7 s
+Train: [2/30] iter: 240/1200. lr: 0.0001 . Loss: 0.694113, Acc: 0.500000 time:4.9 s
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 9600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 2400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 2400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+DataParallel(
+  (module): RWF_RGB(
+    (relu): ReLU(inplace=True)
+    (conv3d11): Conv3d(3, 16, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d12): Conv3d(16, 16, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling1): MaxPool3d(kernel_size=(1, 2, 2), stride=(1, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d21): Conv3d(16, 16, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d22): Conv3d(16, 16, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling2): MaxPool3d(kernel_size=(1, 2, 2), stride=(1, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d31): Conv3d(16, 32, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d32): Conv3d(32, 32, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling3): MaxPool3d(kernel_size=(1, 2, 2), stride=(1, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d41): Conv3d(32, 32, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d42): Conv3d(32, 32, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling4): MaxPool3d(kernel_size=(1, 2, 2), stride=(1, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (max_pooling5): MaxPool3d(kernel_size=(8, 1, 1), stride=(8, 1, 1), padding=0, dilation=1, ceil_mode=False)
+    (conv3d61): Conv3d(32, 64, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d62): Conv3d(64, 64, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling6): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d71): Conv3d(64, 64, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d72): Conv3d(64, 64, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling7): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d81): Conv3d(64, 128, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d82): Conv3d(128, 128, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling8): MaxPool3d(kernel_size=(2, 3, 3), stride=(2, 3, 3), padding=0, dilation=1, ceil_mode=False)
+    (L1): Linear(in_features=128, out_features=128, bias=True)
+    (dropout): Dropout(p=0.2, inplace=False)
+    (L2): Linear(in_features=128, out_features=32, bias=True)
+    (Classify): Linear(in_features=32, out_features=2, bias=True)
+  )
+)
+Model size: 0.24840M
+----------
+epoch 1
+Train: [1/30] iter: 20/1200. lr: 0.0001 . Loss: 92.649656, Acc: 0.468750 time:11.2 s
+Train: [1/30] iter: 40/1200. lr: 0.0001 . Loss: 46.715929, Acc: 0.481250 time:5.0 s
+Train: [1/30] iter: 60/1200. lr: 0.0001 . Loss: 31.378602, Acc: 0.481250 time:5.0 s
+Train: [1/30] iter: 80/1200. lr: 0.0001 . Loss: 23.708924, Acc: 0.478125 time:5.0 s
+Train: [1/30] iter: 100/1200. lr: 0.0001 . Loss: 19.106768, Acc: 0.481250 time:5.0 s
+Train: [1/30] iter: 120/1200. lr: 0.0001 . Loss: 16.038032, Acc: 0.482292 time:5.0 s
+Train: [1/30] iter: 140/1200. lr: 0.0001 . Loss: 13.847477, Acc: 0.489286 time:5.0 s
+Train: [1/30] iter: 160/1200. lr: 0.0001 . Loss: 12.203506, Acc: 0.486719 time:5.0 s
+Train: [1/30] iter: 180/1200. lr: 0.0001 . Loss: 10.924355, Acc: 0.489583 time:5.0 s
+Train: [1/30] iter: 200/1200. lr: 0.0001 . Loss: 9.902698, Acc: 0.485000 time:4.9 s
+Train: [1/30] iter: 220/1200. lr: 0.0001 . Loss: 9.066114, Acc: 0.485795 time:5.0 s
+Train: [1/30] iter: 240/1200. lr: 0.0001 . Loss: 8.368451, Acc: 0.491667 time:5.0 s
+Train: [1/30] iter: 260/1200. lr: 0.0001 . Loss: 7.777334, Acc: 0.500481 time:5.0 s
+Train: [1/30] iter: 280/1200. lr: 0.0001 . Loss: 7.271446, Acc: 0.502679 time:5.0 s
+Train: [1/30] iter: 300/1200. lr: 0.0001 . Loss: 6.833057, Acc: 0.502500 time:5.0 s
+Train: [1/30] iter: 320/1200. lr: 0.0001 . Loss: 6.449480, Acc: 0.501563 time:5.0 s
+Train: [1/30] iter: 340/1200. lr: 0.0001 . Loss: 6.110833, Acc: 0.503676 time:5.0 s
+Train: [1/30] iter: 360/1200. lr: 0.0001 . Loss: 5.809971, Acc: 0.505208 time:4.9 s
+Train: [1/30] iter: 380/1200. lr: 0.0001 . Loss: 5.541070, Acc: 0.504934 time:5.1 s
+Train: [1/30] iter: 400/1200. lr: 0.0001 . Loss: 5.298539, Acc: 0.508125 time:5.0 s
+Train: [1/30] iter: 420/1200. lr: 0.0001 . Loss: 5.079601, Acc: 0.505060 time:5.0 s
+Train: [1/30] iter: 440/1200. lr: 0.0001 . Loss: 4.880595, Acc: 0.503693 time:4.9 s
+Train: [1/30] iter: 460/1200. lr: 0.0001 . Loss: 4.698399, Acc: 0.506250 time:5.0 s
+Train: [1/30] iter: 480/1200. lr: 0.0001 . Loss: 4.531521, Acc: 0.505729 time:5.0 s
+Train: [1/30] iter: 500/1200. lr: 0.0001 . Loss: 4.378035, Acc: 0.505000 time:5.0 s
+Train: [1/30] iter: 520/1200. lr: 0.0001 . Loss: 4.236337, Acc: 0.504567 time:5.0 s
+Train: [1/30] iter: 540/1200. lr: 0.0001 . Loss: 4.105034, Acc: 0.505324 time:5.0 s
+Train: [1/30] iter: 560/1200. lr: 0.0001 . Loss: 3.983165, Acc: 0.506696 time:5.0 s
+Train: [1/30] iter: 580/1200. lr: 0.0001 . Loss: 3.869700, Acc: 0.506466 time:5.0 s
+Train: [1/30] iter: 600/1200. lr: 0.0001 . Loss: 3.763898, Acc: 0.506458 time:5.0 s
+Train: [1/30] iter: 620/1200. lr: 0.0001 . Loss: 3.664815, Acc: 0.507863 time:5.0 s
+Train: [1/30] iter: 640/1200. lr: 0.0001 . Loss: 3.571995, Acc: 0.506445 time:5.0 s
+Train: [1/30] iter: 660/1200. lr: 0.0001 . Loss: 3.484759, Acc: 0.507008 time:5.0 s
+Train: [1/30] iter: 680/1200. lr: 0.0001 . Loss: 3.402545, Acc: 0.508088 time:5.0 s
+Train: [1/30] iter: 700/1200. lr: 0.0001 . Loss: 3.325070, Acc: 0.508214 time:5.0 s
+Train: [1/30] iter: 720/1200. lr: 0.0001 . Loss: 3.252101, Acc: 0.507812 time:5.0 s
+Train: [1/30] iter: 740/1200. lr: 0.0001 . Loss: 3.182886, Acc: 0.508784 time:5.0 s
+Train: [1/30] iter: 760/1200. lr: 0.0001 . Loss: 3.117277, Acc: 0.509539 time:5.0 s
+Train: [1/30] iter: 780/1200. lr: 0.0001 . Loss: 3.055129, Acc: 0.508814 time:5.0 s
+Train: [1/30] iter: 800/1200. lr: 0.0001 . Loss: 2.996091, Acc: 0.510000 time:5.0 s
+Train: [1/30] iter: 820/1200. lr: 0.0001 . Loss: 2.939924, Acc: 0.509299 time:5.0 s
+Train: [1/30] iter: 840/1200. lr: 0.0001 . Loss: 2.886362, Acc: 0.511012 time:5.0 s
+Train: [1/30] iter: 860/1200. lr: 0.0001 . Loss: 2.835187, Acc: 0.512064 time:5.0 s
+Train: [1/30] iter: 880/1200. lr: 0.0001 . Loss: 2.786536, Acc: 0.512216 time:5.0 s
+Train: [1/30] iter: 900/1200. lr: 0.0001 . Loss: 2.740016, Acc: 0.512500 time:5.0 s
+Train: [1/30] iter: 920/1200. lr: 0.0001 . Loss: 2.695616, Acc: 0.512228 time:4.9 s
+Train: [1/30] iter: 940/1200. lr: 0.0001 . Loss: 2.652962, Acc: 0.513032 time:5.0 s
+Train: [1/30] iter: 960/1200. lr: 0.0001 . Loss: 2.612114, Acc: 0.512240 time:4.9 s
+Train: [1/30] iter: 980/1200. lr: 0.0001 . Loss: 2.572931, Acc: 0.512755 time:5.0 s
+Train: [1/30] iter: 1000/1200. lr: 0.0001 . Loss: 2.535250, Acc: 0.513000 time:4.9 s
+Train: [1/30] iter: 1020/1200. lr: 0.0001 . Loss: 2.499108, Acc: 0.513235 time:5.0 s
+Train: [1/30] iter: 1040/1200. lr: 0.0001 . Loss: 2.464362, Acc: 0.513462 time:5.0 s
+Train: [1/30] iter: 1060/1200. lr: 0.0001 . Loss: 2.431054, Acc: 0.512264 time:5.0 s
+Train: [1/30] iter: 1080/1200. lr: 0.0001 . Loss: 2.398942, Acc: 0.510995 time:5.0 s
+Train: [1/30] iter: 1100/1200. lr: 0.0001 . Loss: 2.367930, Acc: 0.509886 time:5.0 s
+Train: [1/30] iter: 1120/1200. lr: 0.0001 . Loss: 2.338000, Acc: 0.510379 time:5.0 s
+Train: [1/30] iter: 1140/1200. lr: 0.0001 . Loss: 2.309154, Acc: 0.509868 time:5.0 s
+Train: [1/30] iter: 1160/1200. lr: 0.0001 . Loss: 2.281249, Acc: 0.510560 time:5.1 s
+Train: [1/30] iter: 1180/1200. lr: 0.0001 . Loss: 2.254162, Acc: 0.511229 time:5.0 s
+Train: [1/30] iter: 1200/1200. lr: 0.0001 . Loss: 2.228101, Acc: 0.511458 time:5.0 s
+Train: Finish 1 epoch, Loss: 2.228101, Acc: 0.511458
+Time:305.8 s
+Test: [1/30] iter: 0/300. 8.0/8.0. Acc: 1.000000.
+Test: [1/30] iter: 20/300. 163.0/168.0. Acc: 0.970238.
+Test: [1/30] iter: 40/300. 318.0/328.0. Acc: 0.969512.
+Test: [1/30] iter: 60/300. 472.0/488.0. Acc: 0.967213.
+Test: [1/30] iter: 80/300. 629.0/648.0. Acc: 0.970679.
+Test: [1/30] iter: 100/300. 786.0/808.0. Acc: 0.972772.
+Test: [1/30] iter: 120/300. 941.0/968.0. Acc: 0.972107.
+Test: [1/30] iter: 140/300. 1101.0/1128.0. Acc: 0.976064.
+Test: [1/30] iter: 160/300. 1174.0/1288.0. Acc: 0.911491.
+Test: [1/30] iter: 180/300. 1180.0/1448.0. Acc: 0.814917.
+Test: [1/30] iter: 200/300. 1186.0/1608.0. Acc: 0.737562.
+Test: [1/30] iter: 220/300. 1187.0/1768.0. Acc: 0.671380.
+Test: [1/30] iter: 240/300. 1189.0/1928.0. Acc: 0.616701.
+Test: [1/30] iter: 260/300. 1199.0/2088.0. Acc: 0.574234.
+Test: [1/30] iter: 280/300. 1206.0/2248.0. Acc: 0.536477.
+Test: Finish 1 epoch, Acc: 0.504580
+Test: [1/30] iter: 0/300. 8.0/8.0. Acc: 1.000000.
+Test: [1/30] iter: 20/300. 163.0/168.0. Acc: 0.970238.
+Test: [1/30] iter: 40/300. 318.0/328.0. Acc: 0.969512.
+Test: [1/30] iter: 60/300. 472.0/488.0. Acc: 0.967213.
+Test: [1/30] iter: 80/300. 629.0/648.0. Acc: 0.970679.
+Test: [1/30] iter: 100/300. 786.0/808.0. Acc: 0.972772.
+Test: [1/30] iter: 120/300. 941.0/968.0. Acc: 0.972107.
+Test: [1/30] iter: 140/300. 1101.0/1128.0. Acc: 0.976064.
+Test: [1/30] iter: 160/300. 1174.0/1288.0. Acc: 0.911491.
+Test: [1/30] iter: 180/300. 1180.0/1448.0. Acc: 0.814917.
+Test: [1/30] iter: 200/300. 1186.0/1608.0. Acc: 0.737562.
+Test: [1/30] iter: 220/300. 1187.0/1768.0. Acc: 0.671380.
+Test: [1/30] iter: 240/300. 1189.0/1928.0. Acc: 0.616701.
+Test: [1/30] iter: 260/300. 1199.0/2088.0. Acc: 0.574234.
+Test: [1/30] iter: 280/300. 1206.0/2248.0. Acc: 0.536477.
+Test: Finish 1 epoch, Acc: 0.504580
+----------
+epoch 2
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 1600 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+Found 400 files belonging to 2 classes.
+     Fight :  0
+  NonFight :  1
+DataParallel(
+  (module): RWF_RGB(
+    (relu): ReLU(inplace=True)
+    (conv3d11): Conv3d(3, 16, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d12): Conv3d(16, 16, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling1): MaxPool3d(kernel_size=(1, 2, 2), stride=(1, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d21): Conv3d(16, 16, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d22): Conv3d(16, 16, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling2): MaxPool3d(kernel_size=(1, 2, 2), stride=(1, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d31): Conv3d(16, 32, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d32): Conv3d(32, 32, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling3): MaxPool3d(kernel_size=(1, 2, 2), stride=(1, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d41): Conv3d(32, 32, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d42): Conv3d(32, 32, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling4): MaxPool3d(kernel_size=(1, 2, 2), stride=(1, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (max_pooling5): MaxPool3d(kernel_size=(8, 1, 1), stride=(8, 1, 1), padding=0, dilation=1, ceil_mode=False)
+    (conv3d61): Conv3d(32, 64, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d62): Conv3d(64, 64, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling6): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d71): Conv3d(64, 64, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d72): Conv3d(64, 64, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling7): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv3d81): Conv3d(64, 128, kernel_size=(1, 3, 3), stride=(1, 1, 1), padding=(0, 1, 1))
+    (conv3d82): Conv3d(128, 128, kernel_size=(3, 1, 1), stride=(1, 1, 1), padding=(1, 0, 0))
+    (max_pooling8): MaxPool3d(kernel_size=(2, 3, 3), stride=(2, 3, 3), padding=0, dilation=1, ceil_mode=False)
+    (L1): Linear(in_features=128, out_features=128, bias=True)
+    (dropout): Dropout(p=0.2, inplace=False)
+    (L2): Linear(in_features=128, out_features=32, bias=True)
+    (Classify): Linear(in_features=32, out_features=2, bias=True)
+  )
+)
+Model size: 0.24840M
+----------
+epoch 1
+Train: [1/30] iter: 20/200. lr: 0.0001 . Loss: 21.228976, Acc: 0.475000 time:18.2 s
+Train: [1/30] iter: 40/200. lr: 0.0001 . Loss: 11.020118, Acc: 0.490625 time:7.4 s
+Train: [1/30] iter: 60/200. lr: 0.0001 . Loss: 7.601345, Acc: 0.493750 time:7.5 s
+Train: [1/30] iter: 80/200. lr: 0.0001 . Loss: 5.878680, Acc: 0.500000 time:7.4 s
+Train: [1/30] iter: 100/200. lr: 0.0001 . Loss: 4.842009, Acc: 0.505000 time:7.6 s
+Train: [1/30] iter: 120/200. lr: 0.0001 . Loss: 4.147395, Acc: 0.521875 time:7.5 s
+Train: [1/30] iter: 140/200. lr: 0.0001 . Loss: 3.659220, Acc: 0.516964 time:7.2 s
+Train: [1/30] iter: 160/200. lr: 0.0001 . Loss: 3.286846, Acc: 0.520312 time:7.3 s
+Train: [1/30] iter: 180/200. lr: 0.0001 . Loss: 2.997171, Acc: 0.533333 time:7.6 s
+Train: [1/30] iter: 200/200. lr: 0.0001 . Loss: 2.766021, Acc: 0.536250 time:7.4 s
+Train: Finish 1 epoch, Loss: 2.766021, Acc: 0.536250
+Time:85.2 s
+Test: [1/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [1/30] iter: 20/50. 147.0/168.0. Acc: 0.875000.
+Test: [1/30] iter: 40/50. 217.0/328.0. Acc: 0.661585.
+Test: Finish 1 epoch, Acc: 0.612500
+Train: [2/30] iter: 20/1200. lr: 0.0001 . Loss: 0.695867, Acc: 0.462500 time:7.9 s
+Train: [2/30] iter: 40/1200. lr: 0.0001 . Loss: 0.691433, Acc: 0.503125 time:4.7 s
+Train: [2/30] iter: 60/1200. lr: 0.0001 . Loss: 0.687187, Acc: 0.522917 time:4.7 s
+Train: [2/30] iter: 80/1200. lr: 0.0001 . Loss: 0.686987, Acc: 0.520312 time:4.9 s
+Train: [2/30] iter: 100/1200. lr: 0.0001 . Loss: 0.688509, Acc: 0.516250 time:4.8 s
+Train: [2/30] iter: 120/1200. lr: 0.0001 . Loss: 0.689689, Acc: 0.504167 time:4.8 s
+Train: [2/30] iter: 140/1200. lr: 0.0001 . Loss: 0.690394, Acc: 0.506250 time:4.7 s
+Train: [2/30] iter: 160/1200. lr: 0.0001 . Loss: 0.691268, Acc: 0.506250 time:4.7 s
+Train: [2/30] iter: 180/1200. lr: 0.0001 . Loss: 0.691344, Acc: 0.513889 time:4.8 s
+Train: [2/30] iter: 200/1200. lr: 0.0001 . Loss: 0.691803, Acc: 0.508750 time:4.7 s
+Train: [2/30] iter: 220/1200. lr: 0.0001 . Loss: 0.691736, Acc: 0.510795 time:4.6 s
+Train: [2/30] iter: 240/1200. lr: 0.0001 . Loss: 0.691063, Acc: 0.517708 time:4.8 s
+Train: [2/30] iter: 260/1200. lr: 0.0001 . Loss: 0.690965, Acc: 0.518269 time:4.8 s
+Train: [2/30] iter: 280/1200. lr: 0.0001 . Loss: 0.691313, Acc: 0.516071 time:4.8 s
+Train: [2/30] iter: 300/1200. lr: 0.0001 . Loss: 0.691607, Acc: 0.511250 time:4.7 s
+Train: [2/30] iter: 320/1200. lr: 0.0001 . Loss: 0.691272, Acc: 0.511719 time:4.6 s
+Train: [2/30] iter: 340/1200. lr: 0.0001 . Loss: 0.691283, Acc: 0.512500 time:4.7 s
+Train: [2/30] iter: 360/1200. lr: 0.0001 . Loss: 0.691728, Acc: 0.511111 time:4.6 s
+Train: [2/30] iter: 380/1200. lr: 0.0001 . Loss: 0.691916, Acc: 0.510526 time:4.6 s
+Train: [2/30] iter: 400/1200. lr: 0.0001 . Loss: 0.691547, Acc: 0.514687 time:4.6 s
+Train: [2/30] iter: 420/1200. lr: 0.0001 . Loss: 0.691724, Acc: 0.512798 time:4.7 s
+Train: [2/30] iter: 440/1200. lr: 0.0001 . Loss: 0.691816, Acc: 0.511648 time:4.6 s
+Train: [2/30] iter: 460/1200. lr: 0.0001 . Loss: 0.691854, Acc: 0.513043 time:4.7 s
+Train: [2/30] iter: 480/1200. lr: 0.0001 . Loss: 0.691840, Acc: 0.514323 time:4.6 s
+Train: [2/30] iter: 500/1200. lr: 0.0001 . Loss: 0.691790, Acc: 0.513250 time:4.7 s
+Train: [2/30] iter: 520/1200. lr: 0.0001 . Loss: 0.691829, Acc: 0.513221 time:4.7 s
+Train: [2/30] iter: 540/1200. lr: 0.0001 . Loss: 0.691664, Acc: 0.513889 time:4.7 s
+Train: [2/30] iter: 560/1200. lr: 0.0001 . Loss: 0.691769, Acc: 0.511607 time:4.7 s
+Train: [2/30] iter: 580/1200. lr: 0.0001 . Loss: 0.691815, Acc: 0.512284 time:4.8 s
+Train: [2/30] iter: 600/1200. lr: 0.0001 . Loss: 0.691903, Acc: 0.510833 time:4.7 s
+Train: [2/30] iter: 620/1200. lr: 0.0001 . Loss: 0.691872, Acc: 0.510887 time:4.6 s
+Train: [2/30] iter: 640/1200. lr: 0.0001 . Loss: 0.691803, Acc: 0.511523 time:4.8 s
+Train: [2/30] iter: 660/1200. lr: 0.0001 . Loss: 0.691722, Acc: 0.512311 time:4.7 s
+Train: [2/30] iter: 680/1200. lr: 0.0001 . Loss: 0.691728, Acc: 0.512500 time:4.7 s
+Train: [2/30] iter: 700/1200. lr: 0.0001 . Loss: 0.691874, Acc: 0.511964 time:4.7 s
+Train: [2/30] iter: 720/1200. lr: 0.0001 . Loss: 0.691761, Acc: 0.512153 time:4.8 s
+Train: [2/30] iter: 740/1200. lr: 0.0001 . Loss: 0.691958, Acc: 0.510304 time:4.8 s
+Train: [2/30] iter: 760/1200. lr: 0.0001 . Loss: 0.691738, Acc: 0.512171 time:4.8 s
+Train: [2/30] iter: 780/1200. lr: 0.0001 . Loss: 0.691400, Acc: 0.513942 time:4.7 s
+Train: [2/30] iter: 800/1200. lr: 0.0001 . Loss: 0.691760, Acc: 0.512969 time:4.7 s
+Train: [2/30] iter: 820/1200. lr: 0.0001 . Loss: 0.691760, Acc: 0.512348 time:4.8 s
+Train: [2/30] iter: 840/1200. lr: 0.0001 . Loss: 0.691663, Acc: 0.513095 time:4.9 s
+Train: [2/30] iter: 860/1200. lr: 0.0001 . Loss: 0.691530, Acc: 0.514099 time:8.4 s
+Train: [2/30] iter: 880/1200. lr: 0.0001 . Loss: 0.691571, Acc: 0.512642 time:5.6 s
+Train: [2/30] iter: 900/1200. lr: 0.0001 . Loss: 0.691564, Acc: 0.512500 time:6.9 s
+Train: [2/30] iter: 920/1200. lr: 0.0001 . Loss: 0.691516, Acc: 0.512228 time:7.1 s
+Train: [2/30] iter: 940/1200. lr: 0.0001 . Loss: 0.691547, Acc: 0.511436 time:6.8 s
+Train: [2/30] iter: 960/1200. lr: 0.0001 . Loss: 0.691592, Acc: 0.511849 time:7.1 s
+Train: [2/30] iter: 980/1200. lr: 0.0001 . Loss: 0.691530, Acc: 0.511862 time:7.2 s
+Train: [2/30] iter: 1000/1200. lr: 0.0001 . Loss: 0.691517, Acc: 0.511500 time:7.0 s
+Train: [2/30] iter: 1020/1200. lr: 0.0001 . Loss: 0.691463, Acc: 0.511275 time:6.7 s
+Train: [2/30] iter: 1040/1200. lr: 0.0001 . Loss: 0.691389, Acc: 0.510938 time:6.9 s
+Train: [2/30] iter: 1060/1200. lr: 0.0001 . Loss: 0.691328, Acc: 0.511085 time:7.1 s
+Train: [2/30] iter: 1080/1200. lr: 0.0001 . Loss: 0.691340, Acc: 0.510995 time:7.1 s
+Train: [2/30] iter: 1100/1200. lr: 0.0001 . Loss: 0.691252, Acc: 0.511364 time:5.7 s
+Train: [2/30] iter: 1120/1200. lr: 0.0001 . Loss: 0.691175, Acc: 0.511272 time:6.4 s
+Train: [2/30] iter: 1140/1200. lr: 0.0001 . Loss: 0.691096, Acc: 0.511842 time:5.4 s
+Train: [2/30] iter: 1160/1200. lr: 0.0001 . Loss: 0.691076, Acc: 0.511422 time:5.2 s
+Train: [2/30] iter: 1180/1200. lr: 0.0001 . Loss: 0.691074, Acc: 0.511547 time:5.5 s
+Train: [2/30] iter: 1200/1200. lr: 0.0001 . Loss: 0.691031, Acc: 0.511563 time:5.7 s
+Train: Finish 2 epoch, Loss: 0.691031, Acc: 0.511563
+Time:319.6 s
+Test: [1/30] iter: 0/50. 8.0/8.0. Acc: 1.000000.
+Test: [1/30] iter: 20/50. 147.0/168.0. Acc: 0.875000.
+Test: [1/30] iter: 40/50. 217.0/328.0. Acc: 0.661585.
+Test: Finish 1 epoch, Acc: 0.612500
+----------
+epoch 2
+Test: [2/30] iter: 0/300. 3.0/8.0. Acc: 0.375000.
+Test: [2/30] iter: 20/300. 114.0/168.0. Acc: 0.678571.
+Test: [2/30] iter: 40/300. 208.0/328.0. Acc: 0.634146.
+Test: [2/30] iter: 60/300. 328.0/488.0. Acc: 0.672131.
+Test: [2/30] iter: 80/300. 432.0/648.0. Acc: 0.666667.
+Test: [2/30] iter: 100/300. 531.0/808.0. Acc: 0.657178.
+Test: [2/30] iter: 120/300. 635.0/968.0. Acc: 0.655992.
+Test: [2/30] iter: 140/300. 743.0/1128.0. Acc: 0.658688.
+Test: [2/30] iter: 160/300. 836.0/1288.0. Acc: 0.649068.
+Test: [2/30] iter: 180/300. 945.0/1448.0. Acc: 0.652624.
+Test: [2/30] iter: 200/300. 1050.0/1608.0. Acc: 0.652985.
+Test: [2/30] iter: 220/300. 1149.0/1768.0. Acc: 0.649887.
+Test: [2/30] iter: 240/300. 1241.0/1928.0. Acc: 0.643672.
+Test: [2/30] iter: 260/300. 1348.0/2088.0. Acc: 0.645594.
+Test: [2/30] iter: 280/300. 1457.0/2248.0. Acc: 0.648132.
+Test: Finish 2 epoch, Acc: 0.643750
+Train: [2/30] iter: 20/200. lr: 0.0001 . Loss: 0.680825, Acc: 0.525000 time:10.6 s
+Train: [2/30] iter: 40/200. lr: 0.0001 . Loss: 0.686239, Acc: 0.537500 time:6.1 s
+Train: [2/30] iter: 60/200. lr: 0.0001 . Loss: 0.676863, Acc: 0.556250 time:6.2 s
+Train: [2/30] iter: 80/200. lr: 0.0001 . Loss: 0.675389, Acc: 0.562500 time:6.2 s
+Train: [2/30] iter: 100/200. lr: 0.0001 . Loss: 0.675136, Acc: 0.571250 time:6.1 s
+Train: [2/30] iter: 120/200. lr: 0.0001 . Loss: 0.675810, Acc: 0.572917 time:6.1 s
+Train: [2/30] iter: 140/200. lr: 0.0001 . Loss: 0.676068, Acc: 0.575000 time:6.3 s
+Train: [2/30] iter: 160/200. lr: 0.0001 . Loss: 0.673293, Acc: 0.577344 time:6.1 s
+Train: [2/30] iter: 180/200. lr: 0.0001 . Loss: 0.672165, Acc: 0.580556 time:6.1 s
+Train: [2/30] iter: 200/200. lr: 0.0001 . Loss: 0.672959, Acc: 0.575625 time:5.8 s
+Train: Finish 2 epoch, Loss: 0.672959, Acc: 0.575625
+Time:65.7 s
+Test: [2/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [2/30] iter: 20/50. 9.0/168.0. Acc: 0.053571.
+Test: [2/30] iter: 40/50. 137.0/328.0. Acc: 0.417683.
+Test: Finish 2 epoch, Acc: 0.520000
+Test: [2/30] iter: 0/50. 0.0/8.0. Acc: 0.000000.
+Test: [2/30] iter: 20/50. 9.0/168.0. Acc: 0.053571.
+Test: [2/30] iter: 40/50. 137.0/328.0. Acc: 0.417683.
+Test: Finish 2 epoch, Acc: 0.520000
+----------
+epoch 3
+Test: [2/30] iter: 0/300. 3.0/8.0. Acc: 0.375000.
+Test: [2/30] iter: 20/300. 114.0/168.0. Acc: 0.678571.
+Test: [2/30] iter: 40/300. 208.0/328.0. Acc: 0.634146.
+Test: [2/30] iter: 60/300. 328.0/488.0. Acc: 0.672131.
+Test: [2/30] iter: 80/300. 432.0/648.0. Acc: 0.666667.
+Test: [2/30] iter: 100/300. 531.0/808.0. Acc: 0.657178.
+Test: [2/30] iter: 120/300. 635.0/968.0. Acc: 0.655992.
+Test: [2/30] iter: 140/300. 743.0/1128.0. Acc: 0.658688.
+Test: [2/30] iter: 160/300. 836.0/1288.0. Acc: 0.649068.
+Test: [2/30] iter: 180/300. 945.0/1448.0. Acc: 0.652624.
+Test: [2/30] iter: 200/300. 1050.0/1608.0. Acc: 0.652985.
+Test: [2/30] iter: 220/300. 1149.0/1768.0. Acc: 0.649887.
+Test: [2/30] iter: 240/300. 1241.0/1928.0. Acc: 0.643672.
+Test: [2/30] iter: 260/300. 1348.0/2088.0. Acc: 0.645594.
+Test: [2/30] iter: 280/300. 1457.0/2248.0. Acc: 0.648132.
+Test: Finish 2 epoch, Acc: 0.643750
+----------
+epoch 3
+Train: [3/30] iter: 20/200. lr: 0.0001 . Loss: 0.683938, Acc: 0.581250 time:10.6 s
+Train: [3/30] iter: 40/200. lr: 0.0001 . Loss: 0.678508, Acc: 0.562500 time:5.9 s
+Train: [3/30] iter: 60/200. lr: 0.0001 . Loss: 0.671288, Acc: 0.577083 time:5.9 s
+Train: [3/30] iter: 80/200. lr: 0.0001 . Loss: 0.667635, Acc: 0.600000 time:6.1 s
+Train: [3/30] iter: 100/200. lr: 0.0001 . Loss: 0.661472, Acc: 0.611250 time:6.0 s
+Train: [3/30] iter: 120/200. lr: 0.0001 . Loss: 0.657741, Acc: 0.618750 time:5.8 s
+Train: [3/30] iter: 140/200. lr: 0.0001 . Loss: 0.655593, Acc: 0.612500 time:7.8 s
+Train: [3/30] iter: 160/200. lr: 0.0001 . Loss: 0.647672, Acc: 0.621875 time:7.7 s
+Train: [3/30] iter: 180/200. lr: 0.0001 . Loss: 0.653385, Acc: 0.615972 time:7.2 s
+Train: [3/30] iter: 200/200. lr: 0.0001 . Loss: 0.645431, Acc: 0.626250 time:7.3 s
+Train: Finish 3 epoch, Loss: 0.645431, Acc: 0.626250
+Time:70.7 s
+Test: [3/30] iter: 0/50. 2.0/8.0. Acc: 0.250000.
+Test: [3/30] iter: 20/50. 51.0/168.0. Acc: 0.303571.
+Test: [3/30] iter: 40/50. 183.0/328.0. Acc: 0.557927.
+Test: Finish 3 epoch, Acc: 0.630000
+Test: [3/30] iter: 0/50. 2.0/8.0. Acc: 0.250000.
+Test: [3/30] iter: 20/50. 51.0/168.0. Acc: 0.303571.
+Test: [3/30] iter: 40/50. 183.0/328.0. Acc: 0.557927.
+Test: Finish 3 epoch, Acc: 0.630000
+----------
+epoch 4
+Train: [3/30] iter: 20/1200. lr: 0.0001 . Loss: 0.690965, Acc: 0.550000 time:13.2 s
+Train: [3/30] iter: 40/1200. lr: 0.0001 . Loss: 0.689319, Acc: 0.546875 time:6.5 s
+Train: [3/30] iter: 60/1200. lr: 0.0001 . Loss: 0.689380, Acc: 0.539583 time:6.3 s
+Train: [3/30] iter: 80/1200. lr: 0.0001 . Loss: 0.689100, Acc: 0.537500 time:6.3 s
+Train: [3/30] iter: 100/1200. lr: 0.0001 . Loss: 0.689233, Acc: 0.536250 time:6.8 s
+Train: [3/30] iter: 120/1200. lr: 0.0001 . Loss: 0.689680, Acc: 0.534375 time:5.2 s
+Train: [3/30] iter: 140/1200. lr: 0.0001 . Loss: 0.689797, Acc: 0.532143 time:5.2 s
+Train: [3/30] iter: 160/1200. lr: 0.0001 . Loss: 0.689350, Acc: 0.534375 time:6.6 s
+Train: [3/30] iter: 180/1200. lr: 0.0001 . Loss: 0.689880, Acc: 0.531944 time:4.9 s
+Train: [3/30] iter: 200/1200. lr: 0.0001 . Loss: 0.689853, Acc: 0.528750 time:4.9 s
+Train: [3/30] iter: 220/1200. lr: 0.0001 . Loss: 0.689497, Acc: 0.527273 time:8.4 s
+Train: [3/30] iter: 240/1200. lr: 0.0001 . Loss: 0.689718, Acc: 0.522917 time:7.2 s
+Train: [3/30] iter: 260/1200. lr: 0.0001 . Loss: 0.689254, Acc: 0.525000 time:6.8 s
+Train: [3/30] iter: 280/1200. lr: 0.0001 . Loss: 0.689172, Acc: 0.525000 time:6.6 s
+Train: [3/30] iter: 300/1200. lr: 0.0001 . Loss: 0.689541, Acc: 0.523750 time:6.4 s
+Train: [3/30] iter: 320/1200. lr: 0.0001 . Loss: 0.689499, Acc: 0.523828 time:6.7 s
+Train: [3/30] iter: 340/1200. lr: 0.0001 . Loss: 0.689216, Acc: 0.526103 time:6.9 s
+Train: [4/30] iter: 20/200. lr: 0.0001 . Loss: 0.677170, Acc: 0.556250 time:12.3 s
+Train: [4/30] iter: 40/200. lr: 0.0001 . Loss: 0.674762, Acc: 0.540625 time:7.4 s
+Train: [4/30] iter: 60/200. lr: 0.0001 . Loss: 0.669224, Acc: 0.570833 time:7.4 s
+Train: [4/30] iter: 80/200. lr: 0.0001 . Loss: 0.669654, Acc: 0.573438 time:7.4 s
+Train: [4/30] iter: 100/200. lr: 0.0001 . Loss: 0.664928, Acc: 0.583750 time:6.9 s
+Train: [4/30] iter: 120/200. lr: 0.0001 . Loss: 0.657567, Acc: 0.593750 time:7.5 s
+Train: [4/30] iter: 140/200. lr: 0.0001 . Loss: 0.647306, Acc: 0.608036 time:7.3 s
+Train: [4/30] iter: 160/200. lr: 0.0001 . Loss: 0.642243, Acc: 0.617188 time:5.5 s
+Train: [4/30] iter: 180/200. lr: 0.0001 . Loss: 0.637282, Acc: 0.628472 time:5.1 s
+Train: [4/30] iter: 200/200. lr: 0.0001 . Loss: 0.629768, Acc: 0.636250 time:4.9 s
+Train: Finish 4 epoch, Loss: 0.629768, Acc: 0.636250
+Time:71.9 s
+Test: [4/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [4/30] iter: 20/50. 132.0/168.0. Acc: 0.785714.
+Test: [4/30] iter: 40/50. 234.0/328.0. Acc: 0.713415.
+Test: Finish 4 epoch, Acc: 0.710000
+Test: [4/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [4/30] iter: 20/50. 132.0/168.0. Acc: 0.785714.
+Test: [4/30] iter: 40/50. 234.0/328.0. Acc: 0.713415.
+Test: Finish 4 epoch, Acc: 0.710000
+----------
+epoch 5
+Train: [5/30] iter: 20/200. lr: 0.0001 . Loss: 0.589871, Acc: 0.693750 time:8.4 s
+Train: [5/30] iter: 40/200. lr: 0.0001 . Loss: 0.587749, Acc: 0.687500 time:5.1 s
+Train: [5/30] iter: 60/200. lr: 0.0001 . Loss: 0.608374, Acc: 0.654167 time:5.1 s
+Train: [5/30] iter: 80/200. lr: 0.0001 . Loss: 0.600731, Acc: 0.678125 time:5.1 s
+Train: [5/30] iter: 100/200. lr: 0.0001 . Loss: 0.607042, Acc: 0.672500 time:5.1 s
+Train: [5/30] iter: 120/200. lr: 0.0001 . Loss: 0.606658, Acc: 0.673958 time:5.1 s
+Train: [5/30] iter: 140/200. lr: 0.0001 . Loss: 0.607371, Acc: 0.676786 time:5.0 s
+Train: [5/30] iter: 160/200. lr: 0.0001 . Loss: 0.604847, Acc: 0.682031 time:5.0 s
+Train: [5/30] iter: 180/200. lr: 0.0001 . Loss: 0.601432, Acc: 0.688194 time:4.8 s
+Train: [5/30] iter: 200/200. lr: 0.0001 . Loss: 0.601445, Acc: 0.688750 time:4.5 s
+Train: Finish 5 epoch, Loss: 0.601445, Acc: 0.688750
+Time:53.2 s
+Test: [5/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [5/30] iter: 20/50. 129.0/168.0. Acc: 0.767857.
+Test: [5/30] iter: 40/50. 244.0/328.0. Acc: 0.743902.
+Test: Finish 5 epoch, Acc: 0.742500
+Test: [5/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [5/30] iter: 20/50. 129.0/168.0. Acc: 0.767857.
+Test: [5/30] iter: 40/50. 244.0/328.0. Acc: 0.743902.
+Test: Finish 5 epoch, Acc: 0.742500
+----------
+epoch 6
+Train: [6/30] iter: 20/200. lr: 0.0001 . Loss: 0.620727, Acc: 0.637500 time:8.3 s
+Train: [6/30] iter: 40/200. lr: 0.0001 . Loss: 0.629046, Acc: 0.634375 time:5.1 s
+Train: [6/30] iter: 60/200. lr: 0.0001 . Loss: 0.628867, Acc: 0.641667 time:5.2 s
+Train: [6/30] iter: 80/200. lr: 0.0001 . Loss: 0.607558, Acc: 0.657813 time:5.2 s
+Train: [6/30] iter: 100/200. lr: 0.0001 . Loss: 0.611244, Acc: 0.655000 time:5.1 s
+Train: [6/30] iter: 120/200. lr: 0.0001 . Loss: 0.610739, Acc: 0.667708 time:5.2 s
+Train: [6/30] iter: 140/200. lr: 0.0001 . Loss: 0.610601, Acc: 0.662500 time:5.1 s
+Train: [6/30] iter: 160/200. lr: 0.0001 . Loss: 0.602450, Acc: 0.668750 time:5.1 s
+Train: [6/30] iter: 180/200. lr: 0.0001 . Loss: 0.603854, Acc: 0.669444 time:5.0 s
+Train: [6/30] iter: 200/200. lr: 0.0001 . Loss: 0.604071, Acc: 0.668125 time:4.6 s
+Train: Finish 6 epoch, Loss: 0.604071, Acc: 0.668125
+Time:54.2 s
+Test: [6/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [6/30] iter: 20/50. 133.0/168.0. Acc: 0.791667.
+Test: [6/30] iter: 40/50. 247.0/328.0. Acc: 0.753049.
+Test: Finish 6 epoch, Acc: 0.757500
+Test: [6/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [6/30] iter: 20/50. 133.0/168.0. Acc: 0.791667.
+Test: [6/30] iter: 40/50. 247.0/328.0. Acc: 0.753049.
+Test: Finish 6 epoch, Acc: 0.757500
+----------
+epoch 7
+Train: [7/30] iter: 20/200. lr: 0.0001 . Loss: 0.539574, Acc: 0.762500 time:9.1 s
+Train: [7/30] iter: 40/200. lr: 0.0001 . Loss: 0.559086, Acc: 0.715625 time:5.1 s
+Train: [7/30] iter: 60/200. lr: 0.0001 . Loss: 0.571507, Acc: 0.700000 time:5.2 s
+Train: [7/30] iter: 80/200. lr: 0.0001 . Loss: 0.566652, Acc: 0.707812 time:5.1 s
+Train: [7/30] iter: 100/200. lr: 0.0001 . Loss: 0.573483, Acc: 0.705000 time:5.2 s
+Train: [7/30] iter: 120/200. lr: 0.0001 . Loss: 0.577345, Acc: 0.700000 time:5.2 s
+Train: [7/30] iter: 140/200. lr: 0.0001 . Loss: 0.575674, Acc: 0.702679 time:5.1 s
+Train: [7/30] iter: 160/200. lr: 0.0001 . Loss: 0.568126, Acc: 0.708594 time:5.1 s
+Train: [7/30] iter: 180/200. lr: 0.0001 . Loss: 0.569208, Acc: 0.711806 time:5.1 s
+Train: [7/30] iter: 200/200. lr: 0.0001 . Loss: 0.570396, Acc: 0.710000 time:5.0 s
+Train: Finish 7 epoch, Loss: 0.570396, Acc: 0.710000
+Time:55.2 s
+Test: [7/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [7/30] iter: 20/50. 143.0/168.0. Acc: 0.851190.
+Test: [7/30] iter: 40/50. 253.0/328.0. Acc: 0.771341.
+Test: Finish 7 epoch, Acc: 0.760000
+Test: [7/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [7/30] iter: 20/50. 143.0/168.0. Acc: 0.851190.
+Test: [7/30] iter: 40/50. 253.0/328.0. Acc: 0.771341.
+Test: Finish 7 epoch, Acc: 0.760000
+----------
+epoch 8
+Train: [8/30] iter: 20/200. lr: 0.0001 . Loss: 0.546328, Acc: 0.712500 time:8.4 s
+Train: [8/30] iter: 40/200. lr: 0.0001 . Loss: 0.564346, Acc: 0.706250 time:5.2 s
+Train: [8/30] iter: 60/200. lr: 0.0001 . Loss: 0.585157, Acc: 0.689583 time:5.1 s
+Train: [8/30] iter: 80/200. lr: 0.0001 . Loss: 0.588569, Acc: 0.701562 time:5.1 s
+Train: [8/30] iter: 100/200. lr: 0.0001 . Loss: 0.586071, Acc: 0.698750 time:5.1 s
+Train: [8/30] iter: 120/200. lr: 0.0001 . Loss: 0.585107, Acc: 0.693750 time:5.2 s
+Train: [8/30] iter: 140/200. lr: 0.0001 . Loss: 0.575022, Acc: 0.708036 time:5.1 s
+Train: [8/30] iter: 160/200. lr: 0.0001 . Loss: 0.573150, Acc: 0.710156 time:5.2 s
+Train: [8/30] iter: 180/200. lr: 0.0001 . Loss: 0.571296, Acc: 0.714583 time:5.0 s
+Train: [8/30] iter: 200/200. lr: 0.0001 . Loss: 0.579788, Acc: 0.707500 time:5.0 s
+Train: Finish 8 epoch, Loss: 0.579788, Acc: 0.707500
+Time:54.5 s
+Test: [8/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [8/30] iter: 20/50. 139.0/168.0. Acc: 0.827381.
+Test: [8/30] iter: 40/50. 247.0/328.0. Acc: 0.753049.
+Test: Finish 8 epoch, Acc: 0.742500
+Test: [8/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [8/30] iter: 20/50. 139.0/168.0. Acc: 0.827381.
+Test: [8/30] iter: 40/50. 247.0/328.0. Acc: 0.753049.
+Test: Finish 8 epoch, Acc: 0.742500
+----------
+epoch 9
+Train: [9/30] iter: 20/200. lr: 0.0001 . Loss: 0.577437, Acc: 0.687500 time:9.2 s
+Train: [9/30] iter: 40/200. lr: 0.0001 . Loss: 0.544799, Acc: 0.715625 time:5.0 s
+Train: [9/30] iter: 60/200. lr: 0.0001 . Loss: 0.592482, Acc: 0.687500 time:5.1 s
+Train: [9/30] iter: 80/200. lr: 0.0001 . Loss: 0.575866, Acc: 0.704688 time:5.1 s
+Train: [9/30] iter: 100/200. lr: 0.0001 . Loss: 0.581318, Acc: 0.700000 time:5.1 s
+Train: [9/30] iter: 120/200. lr: 0.0001 . Loss: 0.584389, Acc: 0.701042 time:5.1 s
+Train: [9/30] iter: 140/200. lr: 0.0001 . Loss: 0.583760, Acc: 0.702679 time:5.1 s
+Train: [9/30] iter: 160/200. lr: 0.0001 . Loss: 0.576199, Acc: 0.704688 time:5.1 s
+Train: [9/30] iter: 180/200. lr: 0.0001 . Loss: 0.568988, Acc: 0.708333 time:5.0 s
+Train: [9/30] iter: 200/200. lr: 0.0001 . Loss: 0.561410, Acc: 0.718125 time:4.9 s
+Train: Finish 9 epoch, Loss: 0.561410, Acc: 0.718125
+Time:55.0 s
+Test: [9/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [9/30] iter: 20/50. 130.0/168.0. Acc: 0.773810.
+Test: [9/30] iter: 40/50. 248.0/328.0. Acc: 0.756098.
+Test: Finish 9 epoch, Acc: 0.760000
+Test: [9/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [9/30] iter: 20/50. 130.0/168.0. Acc: 0.773810.
+Test: [9/30] iter: 40/50. 248.0/328.0. Acc: 0.756098.
+Test: Finish 9 epoch, Acc: 0.760000
+----------
+epoch 10
+Train: [10/30] iter: 20/200. lr: 0.0001 . Loss: 0.607514, Acc: 0.700000 time:8.2 s
+Train: [10/30] iter: 40/200. lr: 0.0001 . Loss: 0.583582, Acc: 0.687500 time:5.1 s
+Train: [10/30] iter: 60/200. lr: 0.0001 . Loss: 0.580405, Acc: 0.704167 time:5.1 s
+Train: [10/30] iter: 80/200. lr: 0.0001 . Loss: 0.566973, Acc: 0.720313 time:5.0 s
+Train: [10/30] iter: 100/200. lr: 0.0001 . Loss: 0.557497, Acc: 0.723750 time:5.1 s
+Train: [10/30] iter: 120/200. lr: 0.0001 . Loss: 0.556228, Acc: 0.725000 time:5.1 s
+Train: [10/30] iter: 140/200. lr: 0.0001 . Loss: 0.555849, Acc: 0.726786 time:5.1 s
+Train: [10/30] iter: 160/200. lr: 0.0001 . Loss: 0.546879, Acc: 0.731250 time:5.0 s
+Train: [10/30] iter: 180/200. lr: 0.0001 . Loss: 0.552644, Acc: 0.729861 time:4.9 s
+Train: [10/30] iter: 200/200. lr: 0.0001 . Loss: 0.548713, Acc: 0.730625 time:4.9 s
+Train: Finish 10 epoch, Loss: 0.548713, Acc: 0.730625
+Time:53.8 s
+Test: [10/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [10/30] iter: 20/50. 139.0/168.0. Acc: 0.827381.
+Test: [10/30] iter: 40/50. 252.0/328.0. Acc: 0.768293.
+Test: Finish 10 epoch, Acc: 0.770000
+Test: [10/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [10/30] iter: 20/50. 139.0/168.0. Acc: 0.827381.
+Test: [10/30] iter: 40/50. 252.0/328.0. Acc: 0.768293.
+Test: Finish 10 epoch, Acc: 0.770000
+----------
+epoch 11
+Train: [11/30] iter: 20/200. lr: 7e-05 . Loss: 0.563410, Acc: 0.718750 time:8.0 s
+Train: [11/30] iter: 40/200. lr: 7e-05 . Loss: 0.532549, Acc: 0.734375 time:5.0 s
+Train: [11/30] iter: 60/200. lr: 7e-05 . Loss: 0.535732, Acc: 0.739583 time:5.0 s
+Train: [11/30] iter: 80/200. lr: 7e-05 . Loss: 0.558743, Acc: 0.718750 time:5.1 s
+Train: [11/30] iter: 100/200. lr: 7e-05 . Loss: 0.552189, Acc: 0.725000 time:5.0 s
+Train: [11/30] iter: 120/200. lr: 7e-05 . Loss: 0.548740, Acc: 0.730208 time:5.1 s
+Train: [11/30] iter: 140/200. lr: 7e-05 . Loss: 0.534689, Acc: 0.737500 time:5.1 s
+Train: [11/30] iter: 160/200. lr: 7e-05 . Loss: 0.536703, Acc: 0.735938 time:5.0 s
+Train: [11/30] iter: 180/200. lr: 7e-05 . Loss: 0.535572, Acc: 0.734722 time:5.0 s
+Train: [11/30] iter: 200/200. lr: 7e-05 . Loss: 0.538766, Acc: 0.732500 time:4.9 s
+Train: Finish 11 epoch, Loss: 0.538766, Acc: 0.732500
+Time:53.5 s
+Test: [11/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [11/30] iter: 20/50. 138.0/168.0. Acc: 0.821429.
+Test: [11/30] iter: 40/50. 254.0/328.0. Acc: 0.774390.
+Test: Finish 11 epoch, Acc: 0.770000
+Test: [11/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [11/30] iter: 20/50. 138.0/168.0. Acc: 0.821429.
+Test: [11/30] iter: 40/50. 254.0/328.0. Acc: 0.774390.
+Test: Finish 11 epoch, Acc: 0.770000
+----------
+epoch 12
+Train: [12/30] iter: 20/200. lr: 7e-05 . Loss: 0.554458, Acc: 0.718750 time:8.8 s
+Train: [12/30] iter: 40/200. lr: 7e-05 . Loss: 0.540088, Acc: 0.725000 time:5.2 s
+Train: [12/30] iter: 60/200. lr: 7e-05 . Loss: 0.528716, Acc: 0.733333 time:5.2 s
+Train: [12/30] iter: 80/200. lr: 7e-05 . Loss: 0.534719, Acc: 0.728125 time:5.2 s
+Train: [12/30] iter: 100/200. lr: 7e-05 . Loss: 0.539374, Acc: 0.728750 time:5.2 s
+Train: [12/30] iter: 120/200. lr: 7e-05 . Loss: 0.536182, Acc: 0.733333 time:5.2 s
+Train: [12/30] iter: 140/200. lr: 7e-05 . Loss: 0.531262, Acc: 0.735714 time:5.2 s
+Train: [12/30] iter: 160/200. lr: 7e-05 . Loss: 0.530584, Acc: 0.736719 time:5.2 s
+Train: [12/30] iter: 180/200. lr: 7e-05 . Loss: 0.530007, Acc: 0.736806 time:4.9 s
+Train: [12/30] iter: 200/200. lr: 7e-05 . Loss: 0.523894, Acc: 0.742500 time:4.9 s
+Train: Finish 12 epoch, Loss: 0.523894, Acc: 0.742500
+Time:55.1 s
+Test: [12/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [12/30] iter: 20/50. 116.0/168.0. Acc: 0.690476.
+Test: [12/30] iter: 40/50. 240.0/328.0. Acc: 0.731707.
+Test: Finish 12 epoch, Acc: 0.755000
+Test: [12/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [12/30] iter: 20/50. 116.0/168.0. Acc: 0.690476.
+Test: [12/30] iter: 40/50. 240.0/328.0. Acc: 0.731707.
+Test: Finish 12 epoch, Acc: 0.755000
+----------
+epoch 13
+Train: [13/30] iter: 20/200. lr: 7e-05 . Loss: 0.505524, Acc: 0.743750 time:8.5 s
+Train: [13/30] iter: 40/200. lr: 7e-05 . Loss: 0.542824, Acc: 0.706250 time:5.1 s
+Train: [13/30] iter: 60/200. lr: 7e-05 . Loss: 0.539920, Acc: 0.704167 time:5.2 s
+Train: [13/30] iter: 80/200. lr: 7e-05 . Loss: 0.548074, Acc: 0.703125 time:5.2 s
+Train: [13/30] iter: 100/200. lr: 7e-05 . Loss: 0.549560, Acc: 0.707500 time:5.1 s
+Train: [13/30] iter: 120/200. lr: 7e-05 . Loss: 0.545672, Acc: 0.720833 time:5.3 s
+Train: [13/30] iter: 140/200. lr: 7e-05 . Loss: 0.542393, Acc: 0.727679 time:5.2 s
+Train: [13/30] iter: 160/200. lr: 7e-05 . Loss: 0.534055, Acc: 0.734375 time:5.2 s
+Train: [13/30] iter: 180/200. lr: 7e-05 . Loss: 0.536451, Acc: 0.731944 time:5.1 s
+Train: [13/30] iter: 200/200. lr: 7e-05 . Loss: 0.530572, Acc: 0.738750 time:4.9 s
+Train: Finish 13 epoch, Loss: 0.530572, Acc: 0.738750
+Time:54.9 s
+Test: [13/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [13/30] iter: 20/50. 141.0/168.0. Acc: 0.839286.
+Test: [13/30] iter: 40/50. 250.0/328.0. Acc: 0.762195.
+Test: Finish 13 epoch, Acc: 0.755000
+Test: [13/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [13/30] iter: 20/50. 141.0/168.0. Acc: 0.839286.
+Test: [13/30] iter: 40/50. 250.0/328.0. Acc: 0.762195.
+Test: Finish 13 epoch, Acc: 0.755000
+----------
+epoch 14
+Train: [14/30] iter: 20/200. lr: 7e-05 . Loss: 0.475190, Acc: 0.775000 time:8.5 s
+Train: [14/30] iter: 40/200. lr: 7e-05 . Loss: 0.525674, Acc: 0.753125 time:5.1 s
+Train: [14/30] iter: 60/200. lr: 7e-05 . Loss: 0.506447, Acc: 0.756250 time:5.2 s
+Train: [14/30] iter: 80/200. lr: 7e-05 . Loss: 0.508341, Acc: 0.753125 time:5.1 s
+Train: [14/30] iter: 100/200. lr: 7e-05 . Loss: 0.523419, Acc: 0.738750 time:5.1 s
+Train: [14/30] iter: 120/200. lr: 7e-05 . Loss: 0.521183, Acc: 0.747917 time:5.1 s
+Train: [14/30] iter: 140/200. lr: 7e-05 . Loss: 0.523897, Acc: 0.741071 time:5.1 s
+Train: [14/30] iter: 160/200. lr: 7e-05 . Loss: 0.525865, Acc: 0.742188 time:5.1 s
+Train: [14/30] iter: 180/200. lr: 7e-05 . Loss: 0.527427, Acc: 0.743056 time:5.1 s
+Train: [14/30] iter: 200/200. lr: 7e-05 . Loss: 0.520490, Acc: 0.749375 time:4.8 s
+Train: Finish 14 epoch, Loss: 0.520490, Acc: 0.749375
+Time:54.5 s
+Test: [14/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [14/30] iter: 20/50. 128.0/168.0. Acc: 0.761905.
+Test: [14/30] iter: 40/50. 249.0/328.0. Acc: 0.759146.
+Test: Finish 14 epoch, Acc: 0.772500
+Test: [14/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [14/30] iter: 20/50. 128.0/168.0. Acc: 0.761905.
+Test: [14/30] iter: 40/50. 249.0/328.0. Acc: 0.759146.
+Test: Finish 14 epoch, Acc: 0.772500
+----------
+epoch 15
+Train: [15/30] iter: 20/200. lr: 7e-05 . Loss: 0.554677, Acc: 0.750000 time:8.2 s
+Train: [15/30] iter: 40/200. lr: 7e-05 . Loss: 0.545404, Acc: 0.743750 time:5.1 s
+Train: [15/30] iter: 60/200. lr: 7e-05 . Loss: 0.543107, Acc: 0.741667 time:5.0 s
+Train: [15/30] iter: 80/200. lr: 7e-05 . Loss: 0.540742, Acc: 0.743750 time:5.1 s
+Train: [15/30] iter: 100/200. lr: 7e-05 . Loss: 0.533619, Acc: 0.743750 time:5.1 s
+Train: [15/30] iter: 120/200. lr: 7e-05 . Loss: 0.527900, Acc: 0.743750 time:5.1 s
+Train: [15/30] iter: 140/200. lr: 7e-05 . Loss: 0.526083, Acc: 0.744643 time:5.1 s
+Train: [15/30] iter: 160/200. lr: 7e-05 . Loss: 0.522271, Acc: 0.747656 time:5.1 s
+Train: [15/30] iter: 180/200. lr: 7e-05 . Loss: 0.512702, Acc: 0.750000 time:5.0 s
+Train: [15/30] iter: 200/200. lr: 7e-05 . Loss: 0.512147, Acc: 0.752500 time:4.9 s
+Train: Finish 15 epoch, Loss: 0.512147, Acc: 0.752500
+Time:53.7 s
+Test: [15/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [15/30] iter: 20/50. 135.0/168.0. Acc: 0.803571.
+Test: [15/30] iter: 40/50. 255.0/328.0. Acc: 0.777439.
+Test: Finish 15 epoch, Acc: 0.772500
+Test: [15/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [15/30] iter: 20/50. 135.0/168.0. Acc: 0.803571.
+Test: [15/30] iter: 40/50. 255.0/328.0. Acc: 0.777439.
+Test: Finish 15 epoch, Acc: 0.772500
+----------
+epoch 16
+Train: [16/30] iter: 20/200. lr: 7e-05 . Loss: 0.489683, Acc: 0.781250 time:8.6 s
+Train: [16/30] iter: 40/200. lr: 7e-05 . Loss: 0.518223, Acc: 0.753125 time:5.0 s
+Train: [16/30] iter: 60/200. lr: 7e-05 . Loss: 0.514145, Acc: 0.752083 time:5.3 s
+Train: [16/30] iter: 80/200. lr: 7e-05 . Loss: 0.523043, Acc: 0.743750 time:5.2 s
+Train: [16/30] iter: 100/200. lr: 7e-05 . Loss: 0.516592, Acc: 0.742500 time:5.1 s
+Train: [16/30] iter: 120/200. lr: 7e-05 . Loss: 0.519745, Acc: 0.739583 time:5.0 s
+Train: [16/30] iter: 140/200. lr: 7e-05 . Loss: 0.519442, Acc: 0.745536 time:5.1 s
+Train: [16/30] iter: 160/200. lr: 7e-05 . Loss: 0.514941, Acc: 0.749219 time:5.2 s
+Train: [16/30] iter: 180/200. lr: 7e-05 . Loss: 0.514411, Acc: 0.747917 time:5.0 s
+Train: [16/30] iter: 200/200. lr: 7e-05 . Loss: 0.514376, Acc: 0.746875 time:5.0 s
+Train: Finish 16 epoch, Loss: 0.514376, Acc: 0.746875
+Time:54.8 s
+Test: [16/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [16/30] iter: 20/50. 109.0/168.0. Acc: 0.648810.
+Test: [16/30] iter: 40/50. 236.0/328.0. Acc: 0.719512.
+Test: Finish 16 epoch, Acc: 0.750000
+Test: [16/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [16/30] iter: 20/50. 109.0/168.0. Acc: 0.648810.
+Test: [16/30] iter: 40/50. 236.0/328.0. Acc: 0.719512.
+Test: Finish 16 epoch, Acc: 0.750000
+----------
+epoch 17
+Train: [17/30] iter: 20/200. lr: 7e-05 . Loss: 0.553672, Acc: 0.712500 time:8.7 s
+Train: [17/30] iter: 40/200. lr: 7e-05 . Loss: 0.549720, Acc: 0.715625 time:5.1 s
+Train: [17/30] iter: 60/200. lr: 7e-05 . Loss: 0.527501, Acc: 0.731250 time:5.2 s
+Train: [17/30] iter: 80/200. lr: 7e-05 . Loss: 0.513346, Acc: 0.746875 time:5.1 s
+Train: [17/30] iter: 100/200. lr: 7e-05 . Loss: 0.501852, Acc: 0.755000 time:5.1 s
+Train: [17/30] iter: 120/200. lr: 7e-05 . Loss: 0.507845, Acc: 0.752083 time:5.1 s
+Train: [17/30] iter: 140/200. lr: 7e-05 . Loss: 0.501215, Acc: 0.755357 time:5.1 s
+Train: [17/30] iter: 160/200. lr: 7e-05 . Loss: 0.506418, Acc: 0.750781 time:5.1 s
+Train: [17/30] iter: 180/200. lr: 7e-05 . Loss: 0.505420, Acc: 0.753472 time:4.9 s
+Train: [17/30] iter: 200/200. lr: 7e-05 . Loss: 0.501753, Acc: 0.756875 time:4.9 s
+Train: Finish 17 epoch, Loss: 0.501753, Acc: 0.756875
+Time:54.5 s
+Test: [17/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [17/30] iter: 20/50. 130.0/168.0. Acc: 0.773810.
+Test: [17/30] iter: 40/50. 253.0/328.0. Acc: 0.771341.
+Test: Finish 17 epoch, Acc: 0.785000
+Test: [17/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [17/30] iter: 20/50. 130.0/168.0. Acc: 0.773810.
+Test: [17/30] iter: 40/50. 253.0/328.0. Acc: 0.771341.
+Test: Finish 17 epoch, Acc: 0.785000
+----------
+epoch 18
+Train: [18/30] iter: 20/200. lr: 7e-05 . Loss: 0.475234, Acc: 0.787500 time:9.0 s
+Train: [18/30] iter: 40/200. lr: 7e-05 . Loss: 0.495506, Acc: 0.768750 time:5.0 s
+Train: [18/30] iter: 60/200. lr: 7e-05 . Loss: 0.494405, Acc: 0.762500 time:5.1 s
+Train: [18/30] iter: 80/200. lr: 7e-05 . Loss: 0.488018, Acc: 0.779687 time:5.0 s
+Train: [18/30] iter: 100/200. lr: 7e-05 . Loss: 0.498766, Acc: 0.767500 time:5.1 s
+Train: [18/30] iter: 120/200. lr: 7e-05 . Loss: 0.498481, Acc: 0.764583 time:5.1 s
+Train: [18/30] iter: 140/200. lr: 7e-05 . Loss: 0.509158, Acc: 0.756250 time:5.1 s
+Train: [18/30] iter: 160/200. lr: 7e-05 . Loss: 0.501991, Acc: 0.763281 time:5.0 s
+Train: [18/30] iter: 180/200. lr: 7e-05 . Loss: 0.498351, Acc: 0.765278 time:4.9 s
+Train: [18/30] iter: 200/200. lr: 7e-05 . Loss: 0.497086, Acc: 0.765625 time:4.8 s
+Train: Finish 18 epoch, Loss: 0.497086, Acc: 0.765625
+Time:54.4 s
+Test: [18/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [18/30] iter: 20/50. 134.0/168.0. Acc: 0.797619.
+Test: [18/30] iter: 40/50. 257.0/328.0. Acc: 0.783537.
+Test: Finish 18 epoch, Acc: 0.787500
+Test: [18/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [18/30] iter: 20/50. 134.0/168.0. Acc: 0.797619.
+Test: [18/30] iter: 40/50. 257.0/328.0. Acc: 0.783537.
+Test: Finish 18 epoch, Acc: 0.787500
+----------
+epoch 19
+Train: [19/30] iter: 20/200. lr: 7e-05 . Loss: 0.436483, Acc: 0.800000 time:8.5 s
+Train: [19/30] iter: 40/200. lr: 7e-05 . Loss: 0.436230, Acc: 0.806250 time:5.1 s
+Train: [19/30] iter: 60/200. lr: 7e-05 . Loss: 0.428275, Acc: 0.808333 time:5.0 s
+Train: [19/30] iter: 80/200. lr: 7e-05 . Loss: 0.437630, Acc: 0.804688 time:5.1 s
+Train: [19/30] iter: 100/200. lr: 7e-05 . Loss: 0.468279, Acc: 0.780000 time:5.0 s
+Train: [19/30] iter: 120/200. lr: 7e-05 . Loss: 0.472836, Acc: 0.776042 time:4.9 s
+Train: [19/30] iter: 140/200. lr: 7e-05 . Loss: 0.477394, Acc: 0.771429 time:4.9 s
+Train: [19/30] iter: 160/200. lr: 7e-05 . Loss: 0.479333, Acc: 0.771875 time:5.0 s
+Train: [19/30] iter: 180/200. lr: 7e-05 . Loss: 0.487151, Acc: 0.768750 time:4.9 s
+Train: [19/30] iter: 200/200. lr: 7e-05 . Loss: 0.490586, Acc: 0.765000 time:4.9 s
+Train: Finish 19 epoch, Loss: 0.490586, Acc: 0.765000
+Time:53.6 s
+Test: [19/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [19/30] iter: 20/50. 138.0/168.0. Acc: 0.821429.
+Test: [19/30] iter: 40/50. 252.0/328.0. Acc: 0.768293.
+Test: Finish 19 epoch, Acc: 0.767500
+Test: [19/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [19/30] iter: 20/50. 138.0/168.0. Acc: 0.821429.
+Test: [19/30] iter: 40/50. 252.0/328.0. Acc: 0.768293.
+Test: Finish 19 epoch, Acc: 0.767500
+----------
+epoch 20
+Train: [20/30] iter: 20/200. lr: 7e-05 . Loss: 0.509050, Acc: 0.756250 time:8.3 s
+Train: [20/30] iter: 40/200. lr: 7e-05 . Loss: 0.528186, Acc: 0.746875 time:5.0 s
+Train: [20/30] iter: 60/200. lr: 7e-05 . Loss: 0.505637, Acc: 0.760417 time:5.0 s
+Train: [20/30] iter: 80/200. lr: 7e-05 . Loss: 0.510867, Acc: 0.753125 time:5.1 s
+Train: [20/30] iter: 100/200. lr: 7e-05 . Loss: 0.498529, Acc: 0.762500 time:5.1 s
+Train: [20/30] iter: 120/200. lr: 7e-05 . Loss: 0.491755, Acc: 0.768750 time:5.1 s
+Train: [20/30] iter: 140/200. lr: 7e-05 . Loss: 0.490705, Acc: 0.771429 time:5.0 s
+Train: [20/30] iter: 160/200. lr: 7e-05 . Loss: 0.491099, Acc: 0.766406 time:5.1 s
+Train: [20/30] iter: 180/200. lr: 7e-05 . Loss: 0.482923, Acc: 0.772222 time:4.9 s
+Train: [20/30] iter: 200/200. lr: 7e-05 . Loss: 0.490131, Acc: 0.767500 time:5.0 s
+Train: Finish 20 epoch, Loss: 0.490131, Acc: 0.767500
+Time:53.8 s
+Test: [20/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [20/30] iter: 20/50. 136.0/168.0. Acc: 0.809524.
+Test: [20/30] iter: 40/50. 257.0/328.0. Acc: 0.783537.
+Test: Finish 20 epoch, Acc: 0.787500
+Test: [20/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [20/30] iter: 20/50. 136.0/168.0. Acc: 0.809524.
+Test: [20/30] iter: 40/50. 257.0/328.0. Acc: 0.783537.
+Test: Finish 20 epoch, Acc: 0.787500
+----------
+epoch 21
+Train: [21/30] iter: 20/200. lr: 4.9e-05 . Loss: 0.524878, Acc: 0.706250 time:8.3 s
+Train: [21/30] iter: 40/200. lr: 4.9e-05 . Loss: 0.467880, Acc: 0.775000 time:5.0 s
+Train: [21/30] iter: 60/200. lr: 4.9e-05 . Loss: 0.471625, Acc: 0.768750 time:5.0 s
+Train: [21/30] iter: 80/200. lr: 4.9e-05 . Loss: 0.464333, Acc: 0.779687 time:5.1 s
+Train: [21/30] iter: 100/200. lr: 4.9e-05 . Loss: 0.478031, Acc: 0.771250 time:5.0 s
+Train: [21/30] iter: 120/200. lr: 4.9e-05 . Loss: 0.492484, Acc: 0.763542 time:5.0 s
+Train: [21/30] iter: 140/200. lr: 4.9e-05 . Loss: 0.494466, Acc: 0.760714 time:5.0 s
+Train: [21/30] iter: 160/200. lr: 4.9e-05 . Loss: 0.492832, Acc: 0.764062 time:5.0 s
+Train: [21/30] iter: 180/200. lr: 4.9e-05 . Loss: 0.482997, Acc: 0.770833 time:4.8 s
+Train: [21/30] iter: 200/200. lr: 4.9e-05 . Loss: 0.479711, Acc: 0.775625 time:4.6 s
+Train: Finish 21 epoch, Loss: 0.479711, Acc: 0.775625
+Time:53.1 s
+Test: [21/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [21/30] iter: 20/50. 130.0/168.0. Acc: 0.773810.
+Test: [21/30] iter: 40/50. 254.0/328.0. Acc: 0.774390.
+Test: Finish 21 epoch, Acc: 0.787500
+Test: [21/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [21/30] iter: 20/50. 130.0/168.0. Acc: 0.773810.
+Test: [21/30] iter: 40/50. 254.0/328.0. Acc: 0.774390.
+Test: Finish 21 epoch, Acc: 0.787500
+----------
+epoch 22
+Train: [22/30] iter: 20/200. lr: 4.9e-05 . Loss: 0.538102, Acc: 0.762500 time:8.5 s
+Train: [22/30] iter: 40/200. lr: 4.9e-05 . Loss: 0.507117, Acc: 0.781250 time:5.1 s
+Train: [22/30] iter: 60/200. lr: 4.9e-05 . Loss: 0.482452, Acc: 0.789583 time:5.2 s
+Train: [22/30] iter: 80/200. lr: 4.9e-05 . Loss: 0.478256, Acc: 0.790625 time:5.1 s
+Train: [22/30] iter: 100/200. lr: 4.9e-05 . Loss: 0.472850, Acc: 0.792500 time:5.1 s
+Train: [22/30] iter: 120/200. lr: 4.9e-05 . Loss: 0.464415, Acc: 0.794792 time:5.1 s
+Train: [22/30] iter: 140/200. lr: 4.9e-05 . Loss: 0.474717, Acc: 0.786607 time:5.1 s
+Train: [22/30] iter: 160/200. lr: 4.9e-05 . Loss: 0.470674, Acc: 0.785937 time:5.0 s
+Train: [22/30] iter: 180/200. lr: 4.9e-05 . Loss: 0.478639, Acc: 0.780556 time:4.9 s
+Train: [22/30] iter: 200/200. lr: 4.9e-05 . Loss: 0.475687, Acc: 0.779375 time:4.9 s
+Train: Finish 22 epoch, Loss: 0.475687, Acc: 0.779375
+Time:54.4 s
+Test: [22/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [22/30] iter: 20/50. 144.0/168.0. Acc: 0.857143.
+Test: [22/30] iter: 40/50. 258.0/328.0. Acc: 0.786585.
+Test: Finish 22 epoch, Acc: 0.782500
+Test: [22/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [22/30] iter: 20/50. 144.0/168.0. Acc: 0.857143.
+Test: [22/30] iter: 40/50. 258.0/328.0. Acc: 0.786585.
+Test: Finish 22 epoch, Acc: 0.782500
+----------
+epoch 23
+Train: [23/30] iter: 20/200. lr: 4.9e-05 . Loss: 0.472541, Acc: 0.731250 time:8.5 s
+Train: [23/30] iter: 40/200. lr: 4.9e-05 . Loss: 0.457157, Acc: 0.771875 time:5.1 s
+Train: [23/30] iter: 60/200. lr: 4.9e-05 . Loss: 0.445277, Acc: 0.785417 time:5.0 s
+Train: [23/30] iter: 80/200. lr: 4.9e-05 . Loss: 0.448937, Acc: 0.784375 time:5.1 s
+Train: [23/30] iter: 100/200. lr: 4.9e-05 . Loss: 0.463713, Acc: 0.773750 time:5.2 s
+Train: [23/30] iter: 120/200. lr: 4.9e-05 . Loss: 0.460148, Acc: 0.773958 time:5.1 s
+Train: [23/30] iter: 140/200. lr: 4.9e-05 . Loss: 0.464551, Acc: 0.775000 time:5.1 s
+Train: [23/30] iter: 160/200. lr: 4.9e-05 . Loss: 0.463792, Acc: 0.778125 time:5.1 s
+Train: [23/30] iter: 180/200. lr: 4.9e-05 . Loss: 0.464604, Acc: 0.777778 time:5.0 s
+Train: [23/30] iter: 200/200. lr: 4.9e-05 . Loss: 0.461343, Acc: 0.779375 time:5.0 s
+Train: Finish 23 epoch, Loss: 0.461343, Acc: 0.779375
+Time:54.4 s
+Test: [23/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [23/30] iter: 20/50. 131.0/168.0. Acc: 0.779762.
+Test: [23/30] iter: 40/50. 257.0/328.0. Acc: 0.783537.
+Test: Finish 23 epoch, Acc: 0.790000
+Test: [23/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [23/30] iter: 20/50. 131.0/168.0. Acc: 0.779762.
+Test: [23/30] iter: 40/50. 257.0/328.0. Acc: 0.783537.
+Test: Finish 23 epoch, Acc: 0.790000
+----------
+epoch 24
+Train: [24/30] iter: 20/200. lr: 4.9e-05 . Loss: 0.467124, Acc: 0.768750 time:8.1 s
+Train: [24/30] iter: 40/200. lr: 4.9e-05 . Loss: 0.440728, Acc: 0.790625 time:5.0 s
+Train: [24/30] iter: 60/200. lr: 4.9e-05 . Loss: 0.455828, Acc: 0.785417 time:5.1 s
+Train: [24/30] iter: 80/200. lr: 4.9e-05 . Loss: 0.466131, Acc: 0.782813 time:5.1 s
+Train: [24/30] iter: 100/200. lr: 4.9e-05 . Loss: 0.470785, Acc: 0.771250 time:5.1 s
+Train: [24/30] iter: 120/200. lr: 4.9e-05 . Loss: 0.481319, Acc: 0.771875 time:5.1 s
+Train: [24/30] iter: 140/200. lr: 4.9e-05 . Loss: 0.483097, Acc: 0.771429 time:5.1 s
+Train: [24/30] iter: 160/200. lr: 4.9e-05 . Loss: 0.471013, Acc: 0.779687 time:5.1 s
+Train: [24/30] iter: 180/200. lr: 4.9e-05 . Loss: 0.470248, Acc: 0.783333 time:5.0 s
+Train: [24/30] iter: 200/200. lr: 4.9e-05 . Loss: 0.459999, Acc: 0.786875 time:5.0 s
+Train: Finish 24 epoch, Loss: 0.459999, Acc: 0.786875
+Time:53.9 s
+Test: [24/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [24/30] iter: 20/50. 141.0/168.0. Acc: 0.839286.
+Test: [24/30] iter: 40/50. 259.0/328.0. Acc: 0.789634.
+Test: Finish 24 epoch, Acc: 0.787500
+Test: [24/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [24/30] iter: 20/50. 141.0/168.0. Acc: 0.839286.
+Test: [24/30] iter: 40/50. 259.0/328.0. Acc: 0.789634.
+Test: Finish 24 epoch, Acc: 0.787500
+----------
+epoch 25
+Train: [25/30] iter: 20/200. lr: 4.9e-05 . Loss: 0.493219, Acc: 0.737500 time:8.1 s
+Train: [25/30] iter: 40/200. lr: 4.9e-05 . Loss: 0.493441, Acc: 0.734375 time:5.1 s
+Train: [25/30] iter: 60/200. lr: 4.9e-05 . Loss: 0.505006, Acc: 0.743750 time:5.0 s
+Train: [25/30] iter: 80/200. lr: 4.9e-05 . Loss: 0.492902, Acc: 0.760938 time:5.0 s
+Train: [25/30] iter: 100/200. lr: 4.9e-05 . Loss: 0.469291, Acc: 0.773750 time:5.1 s
+Train: [25/30] iter: 120/200. lr: 4.9e-05 . Loss: 0.471795, Acc: 0.768750 time:5.0 s
+Train: [25/30] iter: 140/200. lr: 4.9e-05 . Loss: 0.462018, Acc: 0.776786 time:5.0 s
+Train: [25/30] iter: 160/200. lr: 4.9e-05 . Loss: 0.456859, Acc: 0.783594 time:5.1 s
+Train: [25/30] iter: 180/200. lr: 4.9e-05 . Loss: 0.462140, Acc: 0.779861 time:4.9 s
+Train: [25/30] iter: 200/200. lr: 4.9e-05 . Loss: 0.461116, Acc: 0.781250 time:4.9 s
+Train: Finish 25 epoch, Loss: 0.461116, Acc: 0.781250
+Time:53.4 s
+Test: [25/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [25/30] iter: 20/50. 132.0/168.0. Acc: 0.785714.
+Test: [25/30] iter: 40/50. 257.0/328.0. Acc: 0.783537.
+Test: Finish 25 epoch, Acc: 0.790000
+Test: [25/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [25/30] iter: 20/50. 132.0/168.0. Acc: 0.785714.
+Test: [25/30] iter: 40/50. 257.0/328.0. Acc: 0.783537.
+Test: Finish 25 epoch, Acc: 0.790000
+----------
+epoch 26
+Train: [26/30] iter: 20/200. lr: 4.9e-05 . Loss: 0.448677, Acc: 0.806250 time:8.0 s
+Train: [26/30] iter: 40/200. lr: 4.9e-05 . Loss: 0.460720, Acc: 0.784375 time:5.1 s
+Train: [26/30] iter: 60/200. lr: 4.9e-05 . Loss: 0.466049, Acc: 0.781250 time:5.1 s
+Train: [26/30] iter: 80/200. lr: 4.9e-05 . Loss: 0.458075, Acc: 0.793750 time:5.1 s
+Train: [26/30] iter: 100/200. lr: 4.9e-05 . Loss: 0.464459, Acc: 0.788750 time:5.1 s
+Train: [26/30] iter: 120/200. lr: 4.9e-05 . Loss: 0.459448, Acc: 0.789583 time:5.1 s
+Train: [26/30] iter: 140/200. lr: 4.9e-05 . Loss: 0.462745, Acc: 0.785714 time:5.1 s
+Train: [26/30] iter: 160/200. lr: 4.9e-05 . Loss: 0.456352, Acc: 0.789062 time:5.0 s
+Train: [26/30] iter: 180/200. lr: 4.9e-05 . Loss: 0.453173, Acc: 0.789583 time:5.0 s
+Train: [26/30] iter: 200/200. lr: 4.9e-05 . Loss: 0.455724, Acc: 0.788125 time:5.0 s
+Train: Finish 26 epoch, Loss: 0.455724, Acc: 0.788125
+Time:53.7 s
+Test: [26/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [26/30] iter: 20/50. 143.0/168.0. Acc: 0.851190.
+Test: [26/30] iter: 40/50. 260.0/328.0. Acc: 0.792683.
+Test: Finish 26 epoch, Acc: 0.787500
+Test: [26/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [26/30] iter: 20/50. 143.0/168.0. Acc: 0.851190.
+Test: [26/30] iter: 40/50. 260.0/328.0. Acc: 0.792683.
+Test: Finish 26 epoch, Acc: 0.787500
+----------
+epoch 27
+Train: [27/30] iter: 20/200. lr: 4.9e-05 . Loss: 0.426721, Acc: 0.800000 time:8.8 s
+Train: [27/30] iter: 40/200. lr: 4.9e-05 . Loss: 0.421425, Acc: 0.803125 time:4.9 s
+Train: [27/30] iter: 60/200. lr: 4.9e-05 . Loss: 0.441405, Acc: 0.785417 time:5.1 s
+Train: [27/30] iter: 80/200. lr: 4.9e-05 . Loss: 0.444308, Acc: 0.781250 time:5.0 s
+Train: [27/30] iter: 100/200. lr: 4.9e-05 . Loss: 0.441521, Acc: 0.788750 time:5.1 s
+Train: [27/30] iter: 120/200. lr: 4.9e-05 . Loss: 0.440064, Acc: 0.790625 time:5.0 s
+Train: [27/30] iter: 140/200. lr: 4.9e-05 . Loss: 0.445183, Acc: 0.788393 time:5.0 s
+Train: [27/30] iter: 160/200. lr: 4.9e-05 . Loss: 0.447340, Acc: 0.791406 time:5.0 s
+Train: [27/30] iter: 180/200. lr: 4.9e-05 . Loss: 0.446759, Acc: 0.794444 time:5.0 s
+Train: [27/30] iter: 200/200. lr: 4.9e-05 . Loss: 0.444145, Acc: 0.797500 time:4.9 s
+Train: Finish 27 epoch, Loss: 0.444145, Acc: 0.797500
+Time:54.0 s
+Test: [27/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [27/30] iter: 20/50. 136.0/168.0. Acc: 0.809524.
+Test: [27/30] iter: 40/50. 260.0/328.0. Acc: 0.792683.
+Test: Finish 27 epoch, Acc: 0.800000
+Test: [27/30] iter: 0/50. 7.0/8.0. Acc: 0.875000.
+Test: [27/30] iter: 20/50. 136.0/168.0. Acc: 0.809524.
+Test: [27/30] iter: 40/50. 260.0/328.0. Acc: 0.792683.
+Test: Finish 27 epoch, Acc: 0.800000
+----------
+epoch 28
+Train: [28/30] iter: 20/200. lr: 4.9e-05 . Loss: 0.448137, Acc: 0.812500 time:8.3 s
+Train: [28/30] iter: 40/200. lr: 4.9e-05 . Loss: 0.437150, Acc: 0.809375 time:5.1 s
+Train: [28/30] iter: 60/200. lr: 4.9e-05 . Loss: 0.449990, Acc: 0.800000 time:5.0 s
+Train: [28/30] iter: 80/200. lr: 4.9e-05 . Loss: 0.459387, Acc: 0.793750 time:5.0 s
+Train: [28/30] iter: 100/200. lr: 4.9e-05 . Loss: 0.453675, Acc: 0.795000 time:5.0 s
+Train: [28/30] iter: 120/200. lr: 4.9e-05 . Loss: 0.458157, Acc: 0.786458 time:5.0 s
+Train: [28/30] iter: 140/200. lr: 4.9e-05 . Loss: 0.466950, Acc: 0.785714 time:5.1 s
+Train: [28/30] iter: 160/200. lr: 4.9e-05 . Loss: 0.456012, Acc: 0.793750 time:5.1 s
+Train: [28/30] iter: 180/200. lr: 4.9e-05 . Loss: 0.448316, Acc: 0.795139 time:4.9 s
+Train: [28/30] iter: 200/200. lr: 4.9e-05 . Loss: 0.454546, Acc: 0.790000 time:4.9 s
+Train: Finish 28 epoch, Loss: 0.454546, Acc: 0.790000
+Time:53.7 s
+Test: [28/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [28/30] iter: 20/50. 124.0/168.0. Acc: 0.738095.
+Test: [28/30] iter: 40/50. 252.0/328.0. Acc: 0.768293.
+Test: Finish 28 epoch, Acc: 0.785000
+Test: [28/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [28/30] iter: 20/50. 124.0/168.0. Acc: 0.738095.
+Test: [28/30] iter: 40/50. 252.0/328.0. Acc: 0.768293.
+Test: Finish 28 epoch, Acc: 0.785000
+----------
+epoch 29
+Train: [29/30] iter: 20/200. lr: 4.9e-05 . Loss: 0.487651, Acc: 0.725000 time:8.4 s
+Train: [29/30] iter: 40/200. lr: 4.9e-05 . Loss: 0.467495, Acc: 0.759375 time:5.1 s
+Train: [29/30] iter: 60/200. lr: 4.9e-05 . Loss: 0.455994, Acc: 0.772917 time:5.1 s
+Train: [29/30] iter: 80/200. lr: 4.9e-05 . Loss: 0.445139, Acc: 0.776563 time:5.1 s
+Train: [29/30] iter: 100/200. lr: 4.9e-05 . Loss: 0.434104, Acc: 0.788750 time:5.1 s
+Train: [29/30] iter: 120/200. lr: 4.9e-05 . Loss: 0.442681, Acc: 0.783333 time:5.1 s
+Train: [29/30] iter: 140/200. lr: 4.9e-05 . Loss: 0.443380, Acc: 0.788393 time:5.0 s
+Train: [29/30] iter: 160/200. lr: 4.9e-05 . Loss: 0.439249, Acc: 0.793750 time:5.1 s
+Train: [29/30] iter: 180/200. lr: 4.9e-05 . Loss: 0.435565, Acc: 0.797222 time:4.9 s
+Train: [29/30] iter: 200/200. lr: 4.9e-05 . Loss: 0.435372, Acc: 0.800000 time:4.9 s
+Train: Finish 29 epoch, Loss: 0.435372, Acc: 0.800000
+Time:54.0 s
+Test: [29/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [29/30] iter: 20/50. 123.0/168.0. Acc: 0.732143.
+Test: [29/30] iter: 40/50. 248.0/328.0. Acc: 0.756098.
+Test: Finish 29 epoch, Acc: 0.775000
+Test: [29/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [29/30] iter: 20/50. 123.0/168.0. Acc: 0.732143.
+Test: [29/30] iter: 40/50. 248.0/328.0. Acc: 0.756098.
+Test: Finish 29 epoch, Acc: 0.775000
+----------
+epoch 30
+Train: [30/30] iter: 20/200. lr: 4.9e-05 . Loss: 0.363086, Acc: 0.850000 time:8.5 s
+Train: [30/30] iter: 40/200. lr: 4.9e-05 . Loss: 0.366630, Acc: 0.843750 time:4.9 s
+Train: [30/30] iter: 60/200. lr: 4.9e-05 . Loss: 0.393829, Acc: 0.827083 time:5.1 s
+Train: [30/30] iter: 80/200. lr: 4.9e-05 . Loss: 0.399459, Acc: 0.818750 time:4.9 s
+Train: [30/30] iter: 100/200. lr: 4.9e-05 . Loss: 0.408821, Acc: 0.813750 time:5.1 s
+Train: [30/30] iter: 120/200. lr: 4.9e-05 . Loss: 0.414623, Acc: 0.809375 time:5.0 s
+Train: [30/30] iter: 140/200. lr: 4.9e-05 . Loss: 0.424450, Acc: 0.808929 time:5.0 s
+Train: [30/30] iter: 160/200. lr: 4.9e-05 . Loss: 0.435173, Acc: 0.797656 time:5.0 s
+Train: [30/30] iter: 180/200. lr: 4.9e-05 . Loss: 0.437058, Acc: 0.793750 time:4.8 s
+Train: [30/30] iter: 200/200. lr: 4.9e-05 . Loss: 0.429765, Acc: 0.799375 time:4.8 s
+Train: Finish 30 epoch, Loss: 0.429765, Acc: 0.799375
+Time:53.3 s
+Test: [30/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [30/30] iter: 20/50. 123.0/168.0. Acc: 0.732143.
+Test: [30/30] iter: 40/50. 249.0/328.0. Acc: 0.759146.
+Test: Finish 30 epoch, Acc: 0.775000
+Test: [30/30] iter: 0/50. 6.0/8.0. Acc: 0.750000.
+Test: [30/30] iter: 20/50. 123.0/168.0. Acc: 0.732143.
+Test: [30/30] iter: 40/50. 249.0/328.0. Acc: 0.759146.
+Test: Finish 30 epoch, Acc: 0.775000
+use dataset class: rwf2000_dataset
+

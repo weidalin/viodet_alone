@@ -1,0 +1,17 @@
+Found 39 files belonging to 2 dirs.
+Found 66 files belonging to 6 dirs.
+Found 7 files belonging to 7 dirs.
+path----------------------------:  /home/weida/workspace/Dataset/RWF-2000/RWF-2000-npy-noflow-2D/true/Fight/fight1_20200910_450-600.npy
+----------------len_frames 150
+path----------------------------:  /home/weida/workspace/Dataset/RWF-2000/RWF-2000-npy-noflow-2D/true/Fight/fight1_20200910_500-650.npy
+----------------len_frames 150
+path----------------------------:  /home/weida/workspace/Dataset/RWF-2000/RWF-2000-npy-noflow-2D/true/Fight/fight2_20200910_375-525.npy
+----------------len_frames 150
+path----------------------------:  /home/weida/workspace/Dataset/RWF-2000/RWF-2000-npy-noflow-2D/true/Fight/fight2_20200910_425-575.npy
+----------------len_frames 150
+path----------------------------:  /home/weida/workspace/Dataset/RWF-2000/RWF-2000-npy-noflow-2D/true/Fight/fight2_20200910_475-625.npy
+----------------len_frames 150
+path----------------------------:  /home/weida/workspace/Dataset/RWF-2000/RWF-2000-npy-noflow-2D/true/Fight/fight2_20200910_525-675.npy
+----------------len_frames 150
+path----------------------------:  /home/weida/workspace/Dataset/RWF-2000/RWF-2000-npy-noflow-2D/true/Fight/fight2_20200910_575-725.npy
+----------------len_frames 150
