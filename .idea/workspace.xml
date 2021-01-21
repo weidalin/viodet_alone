@@ -1,7 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e65933-5641-43d1-b7bc-188579287062" name="Default Changelist" comment="" />
+    <list default="true" id="d2e65933-5641-43d1-b7bc-188579287062" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ViolenceDetection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preprocess/video2image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preprocess/video2numpy_noflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preprocess/video2numpy_noflow_2D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preprocess/video2numpy_noflow_precut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preprocess/video2numpy_noflow_true_video_floder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preprocess/video2numpy_withflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preprocess/video2numpy_withflow_true_video_floder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/rwf2000_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/rwf2000_dataset2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/rwf2000_dataset3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/rwf2000_image_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/true_video_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/true_video_dataset2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/alert_stream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/rwf_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/rwf_train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/true_video_cam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/true_video_local.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/true_video_realtime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/epoch13_0.685.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/epoch18_0.75.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/epoch19_0.79.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/epoch1_0.5.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/epoch22_0.8175.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/epoch25_0.8475.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/error_ids.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/log_detection.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/log_realtime.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/log_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/log_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/rwf_error_ids.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_pidai_demo1.avi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_pidai_demo1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_pidai_demo3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_pidai_demo4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_violence1.avi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_violence1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_violence2.avi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_violence2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_violence3.avi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_violence3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_rgbonly_noflow_e30_s10_b8_lr0.0001_g0.7_uniform_sampling64/epoch11_0.77.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_rgbonly_noflow_e30_s10_b8_lr0.0001_g0.7_uniform_sampling64/epoch11_0.77_noprecut.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_rgbonly_noflow_e30_s10_b8_lr0.0001_g0.7_uniform_sampling64/epoch17_0.785.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_rgbonly_noflow_e30_s10_b8_lr0.0001_g0.7_uniform_sampling64/epoch17_0.785_noprecut.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_rgbonly_noflow_e30_s10_b8_lr0.0001_g0.7_uniform_sampling64/epoch27_0.8.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_rgbonly_noflow_e30_s10_b8_lr0.0001_g0.7_uniform_sampling64/epoch27_0.8_noprecut.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_rgbonly_noflow_e30_s10_b8_lr0.0001_g0.7_uniform_sampling64/log_detection.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_rgbonly_noflow_e30_s10_b8_lr0.0001_g0.7_uniform_sampling64/log_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_rgbonly_noflow_e30_s10_b8_lr0.0001_g0.7_uniform_sampling64/run_true_video_noflow.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/archs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/archs/bn_inception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/archs/mobilenet_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/rwf2000_baseline_flowgate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/rwf2000_baseline_rgbonly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/tsm_ops/basic_ops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/tsm_ops/non_local.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/tsm_ops/temporal_shift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/tsm_ops/transforms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/tsm_ops/tsn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/tsm_rwf_train.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/utils.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +97,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1n5RGRI6PrOucYGwwCoG4ahKpsh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,6 +109,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/mains" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -188,6 +276,17 @@
       <updated>1610677868075</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610789749055">
