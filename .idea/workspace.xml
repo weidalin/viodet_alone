@@ -10,80 +10,28 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e65933-5641-43d1-b7bc-188579287062" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ViolenceDetection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Preprocess/video2image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Preprocess/video2numpy_noflow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Preprocess/video2numpy_noflow_2D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Preprocess/video2numpy_noflow_precut.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Preprocess/video2numpy_noflow_true_video_floder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Preprocess/video2numpy_withflow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Preprocess/video2numpy_withflow_true_video_floder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/rwf2000_dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/rwf2000_dataset2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/rwf2000_dataset3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/rwf2000_image_dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/true_video_dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/true_video_dataset2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/alert_stream.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/rwf_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/rwf_train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/true_video_cam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/true_video_local.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/true_video_realtime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/epoch13_0.685.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/epoch18_0.75.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/epoch19_0.79.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/epoch1_0.5.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/epoch22_0.8175.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/epoch25_0.8475.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/error_ids.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/log_detection.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/log_realtime.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/log_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/log_train.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/rwf_error_ids.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_pidai_demo1.avi.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_pidai_demo1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_pidai_demo3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_pidai_demo4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_violence1.avi.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_violence1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_violence2.avi.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_violence2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_violence3.avi.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_violence3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_rgbonly_noflow_e30_s10_b8_lr0.0001_g0.7_uniform_sampling64/epoch11_0.77.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_rgbonly_noflow_e30_s10_b8_lr0.0001_g0.7_uniform_sampling64/epoch11_0.77_noprecut.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_rgbonly_noflow_e30_s10_b8_lr0.0001_g0.7_uniform_sampling64/epoch17_0.785.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_rgbonly_noflow_e30_s10_b8_lr0.0001_g0.7_uniform_sampling64/epoch17_0.785_noprecut.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_rgbonly_noflow_e30_s10_b8_lr0.0001_g0.7_uniform_sampling64/epoch27_0.8.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_rgbonly_noflow_e30_s10_b8_lr0.0001_g0.7_uniform_sampling64/epoch27_0.8_noprecut.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_rgbonly_noflow_e30_s10_b8_lr0.0001_g0.7_uniform_sampling64/log_detection.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_rgbonly_noflow_e30_s10_b8_lr0.0001_g0.7_uniform_sampling64/log_train.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_rgbonly_noflow_e30_s10_b8_lr0.0001_g0.7_uniform_sampling64/run_true_video_noflow.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/archs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/archs/bn_inception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/archs/mobilenet_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/rwf2000_baseline_flowgate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/rwf2000_baseline_rgbonly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/tsm_ops/basic_ops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/tsm_ops/non_local.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/tsm_ops/temporal_shift.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/tsm_ops/transforms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/tsm_ops/tsn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/tsm_rwf_train.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/utils.py" afterDir="false" />
+    <list default="true" id="d2e65933-5641-43d1-b7bc-188579287062" name="Default Changelist" comment="2021年01月21日19:11:59 可以运行的版本，1.读帧+入队+队列里每满150帧，2.选出前75帧作为infer，3前65帧去推流，紧接队列出列65帧,重复123">
+      <change afterPath="$PROJECT_DIR$/local_video_detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/sampling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/live_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/live_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mains/alert_stream.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/alert_stream.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mains/true_video_cam.py" beforeDir="false" afterPath="$PROJECT_DIR$/cam_detect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mains/true_video_realtime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/log_realtime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/log_realtime.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_pidai_demo1.avi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_pidai_demo1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_pidai_demo3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_pidai_demo4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_violence1.avi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_violence1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_violence2.avi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_violence2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_violence3.avi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mains/weight/rwf_baseline_noflow/true_video_realtime_violence3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +46,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="weidalin &lt;752087756@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1n5RGRI6PrOucYGwwCoG4ahKpsh" />
@@ -110,17 +63,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mains" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/model" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/util" />
       <recent name="$PROJECT_DIR$/mains" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.true_video_realtime">
-    <configuration name="live_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.cam_detect">
+    <configuration name="cam_detect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ViolenceDetection" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +90,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/live_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cam_detect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="local_video_detect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ViolenceDetection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/local_video_detect.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,27 +134,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mains/rwf_test.py" />
       <option name="PARAMETERS" value="-model_path weight/rwf_baseline_rgbonly_noflow__e30_s10_b8_lr0.01_g0.7 -checkpoint epoch28_0.8525.pth" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ViolenceDetection" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
-      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -249,18 +207,18 @@
     <list>
       <item itemvalue="Python.rwf_test" />
       <item itemvalue="Python.true_video_cam" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.live_test" />
       <item itemvalue="Python.true_video_realtime" />
       <item itemvalue="Python.true_video_realtime2" />
+      <item itemvalue="Python.cam_detect" />
+      <item itemvalue="Python.local_video_detect" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cam_detect" />
+        <item itemvalue="Python.local_video_detect" />
+        <item itemvalue="Python.true_video_cam" />
         <item itemvalue="Python.true_video_realtime" />
         <item itemvalue="Python.true_video_realtime2" />
-        <item itemvalue="Python.true_video_cam" />
-        <item itemvalue="Python.live_test" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -275,6 +233,21 @@
       <option name="presentableId" value="Default" />
       <updated>1610677868075</updated>
     </task>
+    <task id="LOCAL-00001" summary="2021年01月21日19:11:59 可以运行的版本，1.读帧+入队+队列里每满150帧，2.选出前75帧作为infer，3前65帧去推流，紧接队列出列65帧,重复123">
+      <created>1611228056267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611228056268</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2021年01月21日19:11:59 可以运行的版本，1.读帧+入队+队列里每满150帧，2.选出前75帧作为infer，3前65帧去推流，紧接队列出列65帧,重复123">
+      <created>1611228098771</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611228098771</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -287,6 +260,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2021年01月21日19:11:59 可以运行的版本，1.读帧+入队+队列里每满150帧，2.选出前75帧作为infer，3前65帧去推流，紧接队列出列65帧,重复123" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021年01月21日19:11:59 可以运行的版本，1.读帧+入队+队列里每满150帧，2.选出前75帧作为infer，3前65帧去推流，紧接队列出列65帧,重复123" />
   </component>
   <component name="WindowStateProjectService">
     <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610789749055">
@@ -297,38 +275,38 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1610979525075" />
-    <state width="1830" height="378" key="GridCell.Tab.0.bottom" timestamp="1611219673154">
+    <state width="1830" height="378" key="GridCell.Tab.0.bottom" timestamp="1611301817652">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="378" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1611219673154" />
-    <state width="1830" height="378" key="GridCell.Tab.0.center" timestamp="1611219673153">
+    <state width="1830" height="378" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1611301817652" />
+    <state width="1830" height="378" key="GridCell.Tab.0.center" timestamp="1611301817652">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="378" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1611219673153" />
-    <state width="1830" height="378" key="GridCell.Tab.0.left" timestamp="1611219673153">
+    <state width="1830" height="378" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1611301817652" />
+    <state width="1830" height="378" key="GridCell.Tab.0.left" timestamp="1611301817652">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="378" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1611219673153" />
-    <state width="1830" height="378" key="GridCell.Tab.0.right" timestamp="1611219673153">
+    <state width="1830" height="378" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1611301817652" />
+    <state width="1830" height="378" key="GridCell.Tab.0.right" timestamp="1611301817652">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="378" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1611219673153" />
-    <state width="1830" height="271" key="GridCell.Tab.1.bottom" timestamp="1611214195334">
+    <state width="1830" height="378" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1611301817652" />
+    <state width="1830" height="271" key="GridCell.Tab.1.bottom" timestamp="1611280810944">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="271" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1611214195334" />
-    <state width="1830" height="271" key="GridCell.Tab.1.center" timestamp="1611214195334">
+    <state width="1830" height="271" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1611280810944" />
+    <state width="1830" height="271" key="GridCell.Tab.1.center" timestamp="1611280810944">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="271" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1611214195334" />
-    <state width="1830" height="271" key="GridCell.Tab.1.left" timestamp="1611214195334">
+    <state width="1830" height="271" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1611280810944" />
+    <state width="1830" height="271" key="GridCell.Tab.1.left" timestamp="1611280810944">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="271" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1611214195334" />
-    <state width="1830" height="271" key="GridCell.Tab.1.right" timestamp="1611214195334">
+    <state width="1830" height="271" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1611280810944" />
+    <state width="1830" height="271" key="GridCell.Tab.1.right" timestamp="1611280810944">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="271" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1611214195334" />
+    <state width="1830" height="271" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1611280810944" />
     <state x="482" y="187" key="SettingsEditor" timestamp="1610972378708">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -345,29 +323,23 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="534" y="264" width="908" height="576" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/67.27.1853.1053@67.27.1853.1053" timestamp="1611194869490" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1611236521371">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1611236521371" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mains/alert_stream.py</url>
-          <line>448</line>
-          <option name="timeStamp" value="76" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mains/alert_stream.py</url>
-          <line>424</line>
-          <option name="timeStamp" value="77" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mains/alert_stream.py</url>
-          <line>113</line>
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/live_test.py</url>
           <line>134</line>
           <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/local_video_detect.py</url>
+          <line>136</line>
+          <option name="timeStamp" value="91" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
