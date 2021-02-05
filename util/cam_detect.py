@@ -41,7 +41,7 @@ def SnippetViolenceDetection(model, data, sample, target_frames, gap):
     return pred[0].item()
 
 
-def push_stream_process(pre, video_clip_np, putStream, uuid_, cam_ip):
+def push_stream_process(pre, video_clip_np, putStream, video_clip_np_name, cam_ip):
     color = {'green': (0, 255, 0),
              'blue': (255, 165, 0),
              'dark red': (0, 0, 139),
@@ -59,8 +59,8 @@ def push_stream_process(pre, video_clip_np, putStream, uuid_, cam_ip):
     width = video_clip_np.shape[2]
     height = video_clip_np.shape[1]
     cur_frame = 0
-    VIDEO_PATH_OUT = "/home/user/web-monitor/media/" + uuid_ + ".mp4"
-    IMAGE_PATH_OUT = "/home/user/web-monitor/media/"+"/image/" + uuid_ + ".jpg"
+    VIDEO_PATH_OUT = os.path.dirname(os.path.abspath(__file__)) + "/alert/"+cam_ip+"/video/" + video_clip_np_name + ".avi"
+    IMAGE_PATH_OUT = os.path.dirname(os.path.abspath(__file__)) + "/alert/"+cam_ip+"/image/" + video_clip_np_name + ".jpg"
     writer = None
     if pre == 0:
         writer = cv2.VideoWriter(VIDEO_PATH_OUT,
@@ -109,17 +109,24 @@ def VideoRealtimeDetectionwithcam(model=None, npy_save_dir = "/home/weida/worksp
             snippet_data = np.array(frames_queue)#2.用于预测
             video_clip_np = np.array(video_clip[:frame_interval])#3.用于输出11帧
             pred = SnippetViolenceDetection(model, snippet_data, sample, target_frames, gap)
-            # pred = 0
+            pred = 0
             pre_idx = pre_idx + frame_interval
+            if not os.path.exists(os.path.dirname(os.path.abspath(__file__))+"/alert"):
+                os.makedirs(os.path.dirname(os.path.abspath(__file__))+"/alert")
+            if  not os.path.exists(os.path.dirname(os.path.abspath(__file__))+"/alert/"+cam_ip):
+                os.makedirs(os.path.dirname(os.path.abspath(__file__))+"/alert/"+cam_ip)
+            if  not os.path.exists(os.path.dirname(os.path.abspath(__file__))+"/alert/"+cam_ip+"/video"):
+                os.makedirs(os.path.dirname(os.path.abspath(__file__))+"/alert/"+cam_ip+"/video")
+            if  not os.path.exists(os.path.dirname(os.path.abspath(__file__))+"/alert/"+cam_ip+"/image"):
+                os.makedirs(os.path.dirname(os.path.abspath(__file__))+"/alert/"+cam_ip+"/image")
             #对图像进行画框、加字、pushStream等操作-----------------------------------------
-            uuid_ = str(uuid.uuid1())
             if use_thread == True:
                 video_clip_np_name = time.strftime('%Y%m%d_%H%M%S',time.localtime(time.time()))
-                t = threading.Thread(target=push_stream_process, args=(pred, video_clip_np, putStreams, uuid_, cam_ip))
+                t = threading.Thread(target=push_stream_process, args=(pred, video_clip_np, putStreams, video_clip_np_name, cam_ip))
                 t.start()
                 t.join()
             else:
-                push_stream_process(pred, video_clip_np, putStreams, uuid_, cam_ip)
+                push_stream_process(pred, video_clip_np, putStreams, video_clip_np_name, cam_ip)
             frames_queue = frames_queue[frame_interval:]#视频序列出队，每次出队步长为 frame_interval
             video_clip = video_clip[frame_interval:]
             data = {
@@ -127,9 +134,11 @@ def VideoRealtimeDetectionwithcam(model=None, npy_save_dir = "/home/weida/worksp
                 "time": int(time.time() * 1000),
                 "data": {
                     "ip" : cam_ip,
-                    "id" : uuid_,
+                    "id" : str(uuid.uuid1()),
                     "detail":{# 仅当发生告警是才有这部分数据，其他情况为空
-                        "path:" : "/home/user/web-monitor/media/"+cam_ip,   
+                        "path:" : os.path.dirname(os.path.abspath(__file__))+"/alert/"+cam_ip, 
+                        "videoPath" : os.path.dirname(os.path.abspath(__file__))+"/alert/"+cam_ip+"/video/"+video_clip_np_name+".avi",
+                        "imagePath" : os.path.dirname(os.path.abspath(__file__))+"/alert/"+cam_ip+"/image/"+video_clip_np_name+".jpg", 
                         "alertType" : 7,
                     }
                 }

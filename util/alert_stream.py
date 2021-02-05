@@ -121,7 +121,7 @@ class PushStreams(object):
     """push streams to front website with rtmp
     """
     def __init__(self, index: int, rtmp_address: str, fps=25,
-                 resolution=(1920, 1080), test=0) -> None:
+                 resolution=(1280, 720), test=0) -> None:
         """Initialize
         Args:
             camera_count (int): Camera amount, which equate to push target count

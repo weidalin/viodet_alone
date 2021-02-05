@@ -1,0 +1,15 @@
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+use dataset class: rwf2000_dataset
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64
+use dataset class: rwf2000_dataset
+using sampling strategy:  uniform_sampling  target frames:  64

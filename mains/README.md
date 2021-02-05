@@ -1,6 +1,12 @@
 # command of trained this model:
 
-    python rwf_train.py -data_name "RWF-2000-npy-noflow" -gpu "0, 1" -b 8 -lr 1e-4
+    python rwf_train.py \
+    -data_name "RWF-2000-npy-noflow" \
+    -data_root '/home/weida/workspace/Dataset/RWF-2000/' \
+    -model_type "rgbonly" \
+    -gpu "0" \
+    -b 4 \
+    -lr 1e-8
 
 # infer true video of a path
 ## step 1: preprocess a video

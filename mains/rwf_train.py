@@ -14,12 +14,11 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser('RWF baseline violence detect model.')
     parser.add_argument('-gpu', type=str, default='0, 1', help='gpu ids to use')
     parser.add_argument('-dataset', type=str, default='rwf')
-    parser.add_argument('-data_root', type=str, default='/home/lwg/workspace/Dataset/RWF-2000')
-    parser.add_argument('-data_name', type=str, default='RWF-2000-npy-noflow-25') #RWF-2000-npy-withflow --> RWF-2000-npy-noflow-25 edit by weida 2021-1-15
+    parser.add_argument('-data_root', type=str, default='/home/lwg/workspace/Dataset/RWF-2000/')
+    parser.add_argument('-data_name', type=str, default='RWF-2000-npy-noflow') #RWF-2000-npy-withflow --> RWF-2000-npy-noflow-25 edit by weida 2021-1-15
     parser.add_argument('-model_path', type=str, default='weight/rwf_baseline_')
     parser.add_argument('-model_type', type=str, default='rgbonly', choices=['rgbonly', 'flowgate'])
     parser.add_argument('-other_mark', type=str, default=None)
-
     parser.add_argument('-pre_cut', default=False, action="store_true", help='pre cut 150 frames into smaller snippets')
     parser.add_argument('-pre_cut_len', type=int, default=64, help='pre cut snippets length')
     parser.add_argument('-sample', type=str, default='uniform_sampling',

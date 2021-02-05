@@ -154,6 +154,25 @@ def Frames2Npy(frames, save_path=None):
         np.save(save_path, result)
     return result
 
+def Frames2Npy_rgbonly(frames, save_path=None):
+    """Load video and tansfer it into .npy format
+    Args:
+        file_path: the path of video file
+        resize: the target resolution of output video
+    Returns:
+        frames: gray-scale video
+        flows: magnitude video of optical flows
+    """
+    # Get the optical flow of video
+
+    result = np.zeros((len(frames), 224, 224, 3))
+
+    result[..., :3] = frames
+
+    if save_path is not None:
+        np.save(save_path, result)
+    return result
+
 
 
 def normalize(data):

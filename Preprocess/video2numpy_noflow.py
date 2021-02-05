@@ -70,8 +70,8 @@ def Save2Npy(file_dir, save_dir):
 import argparse
 if __name__ == '__main__':
     parser = argparse.ArgumentParser('RWF baseline violence detect model.')
-    parser.add_argument('-source_path', type=str, default='/home/lwg/workspace/Dataset/RWF-2000/RWF-2000', help='rwf video source path')
-    parser.add_argument('-target_path', type=str, default='/home/lwg/workspace/Dataset/RWF-2000/RWF-2000-npy-rgbonly',
+    parser.add_argument('-source_path', type=str, default='/home/weida/workspace/Dataset/RWF-2000/RWF-2000', help='rwf video source path')
+    parser.add_argument('-target_path', type=str, default='/home/weida/workspace/Dataset/RWF-2000/RWF-2000-npy-rgbonly',
                         help='rwf .npy files path')
     args = parser.parse_args()
 
